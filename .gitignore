@@ -106,3 +106,800 @@ Generated_Code #added for RIA/Silverlight projects
 _UpgradeReport_Files/
 Backup*/
 UpgradeLog*.XML
+*.pptx
+*.zip
+*.exe
+*.docx
+*.config
+*.StyleCop
+*.csproj
+*.rar
+*.7z
+*.doc
+*.tfb
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/08. MaximalSumOneLoop/Properties/*.settings
+*.settings
+*.resx
+/CSharp/PartOne/VII.CSharp1_TeamWork_Albert Camus/IT-Test-Preparation.pdf
+*.gz
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E25.HTMLExtract/HTML.htm
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/PrinciplesInOOPHomeWork/ClassDiagramSchool.png
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/1. Human/ClassDiagram1.cd
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/3. Animal/ClassDiagram1.cd
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/PrinciplesInOOPHomeWork/ClassDiagram1.cd
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/PrinciplesInOOPHomeWork/ClassDiagram2.cd
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/01. School/Diagram.cd
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/Animal/ClassDiagram1.cd
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/Human/ClassDiagram1.cd
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/School/ClassDiagram1.cd
+/CSharp/OOP/X. Others/03.HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Point3D/ClassDiagram1.cd
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise10/inputData.xml
+/CSharp/PartTwo/Academy Exam results Jan 2014.xlsx
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise01/Algorithm.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise02/fileOne.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise02/fileTwo.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise02/output.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise03/inputFile.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise03/outputFile.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise04/fileOne.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise04/fileTwo.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise05/InputDataFile.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise05/OutputDataFile.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise06/InputData.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise06/OutputData.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise07/largeFile.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise07/replacedFile.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise07/testfile.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise08/inputFile.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise08/outputFile.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise09/inputFile.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise09/inputWorkFile.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise10/outputData.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise11/inputData.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise11/temp.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise11/workFile.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise12/inputData.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise12/replacedFile.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise12/wordData.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise13/result.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise13/test.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise13/word.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove03/TextFiles/Test.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove03/TextFiles/Test2.txt
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove03/TextFiles/test3.txt
+/CSharp/OOP/X. Others/01. HW_Definirane-na-klasove---chast-II/Point3D/LoadPath.txt
+/CSharp/OOP/X. Others/01. HW_Definirane-na-klasove---chast-II/Point3D/NewPath.txt
+/CSharp/OOP/X. Others/01. HW_Definirane-na-klasove---chast-II/Point3D/SavePath.txt
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/01. School/TaskDescription.txt
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/02. Human/TaskDescription.txt
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/03. Animals/TaskDescription.txt
+/CSharp/OOP/X. Others/03.HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Point3D/PathFile.txt
+/CSharp/OOP/X. Others/03.HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Point3D/PPathFile.txt
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi01/WTF/WTF.sln
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi02/Numeral-Systems-Homework/Numeral-Systems-Homework.sln
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi03/NumericalSystems/NumericalSystems.sln
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti01/ClassesAndObjects/ClassesAndObjects.sln
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti02/UsingClassesAndObject.sln
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti03/UsingClassesAndObjectsHW/UsingClassesAndObjectsHW.sln
+/CSharp/PartTwo/X. Others/HW_Masivi01/Arrays.sln
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/Arrays.sln
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/Telerik1Arrays.sln
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi01/MultiDimArrays/MultiDimArrays.sln
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi02/MatrixMnogomerniMasivi/MatrixMnogomerniMasivi.sln
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi03/MultidimensionalArrays/MultidimensionalArrays/MultidimensionalArrays.sln
+/CSharp/PartTwo/X. Others/HW_Metodi01/HomeMethods.sln
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/Methods.sln
+/CSharp/PartTwo/X. Others/HW_Metodi03/HomeWork_Methods/HomeWork_Methods.sln
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya01/7_Homework_ExceptionHandling/ExceptionHandling.sln
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya02/ExceptionHandling/ExceptionHandling.sln
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya03/ExceptionHandling/ExceptionHandling.sln
+/CSharp/PartTwo/X. Others/HW_Podgotovka-za-prakticheski-izpit02/Exam2/Exam2.sln
+/CSharp/PartTwo/X. Others/HW_Podgotovka-za-prakticheski-izpit02/HW_Podgotovka-za-prakticheski-izpit03/TA_online_CSharp2 _exam_prep.sln
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/StringsAndTextProcessing.sln
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/HW8.StringsAndTextProcessing.sln
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/StringsAndTextProcessing.sln
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/Text files.sln
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/TextFiles.Chapter15.sln
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove03/TextFiles/TextFiles.sln
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi01/NumeralSystems.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi01/WTF/WTF/Program.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi01/WTF/WTF/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi02/Numeral-Systems-Homework/ConvertBinaryToDecimal/ConvertBinaryToDecimal.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi02/Numeral-Systems-Homework/ConvertBinaryToDecimal/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi02/Numeral-Systems-Homework/ConvertBinaryToHexadecimal/ConvertBinaryToHexadecimal.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi02/Numeral-Systems-Homework/ConvertBinaryToHexadecimal/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi02/Numeral-Systems-Homework/ConvertDecimalToBinary/ConvertDecimalToBinary.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi02/Numeral-Systems-Homework/ConvertDecimalToBinary/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi02/Numeral-Systems-Homework/ConvertDecimalToHexadecimal/ConvertDecimalToHexadecimal.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi02/Numeral-Systems-Homework/ConvertDecimalToHexadecimal/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi02/Numeral-Systems-Homework/ConvertFromAnyNumSysToAnyOther/ConvertFromAnyNumSysToAnyOther.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi02/Numeral-Systems-Homework/ConvertFromAnyNumSysToAnyOther/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi02/Numeral-Systems-Homework/ConvertHexadecimalToBinary/ConvertHexadecimalToBinary.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi02/Numeral-Systems-Homework/ConvertHexadecimalToBinary/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi02/Numeral-Systems-Homework/ConvertHexadecimalToDecimal/ConvertHexadecimalToDecimal.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi02/Numeral-Systems-Homework/ConvertHexadecimalToDecimal/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi02/Numeral-Systems-Homework/ConvertSignedShortToBinary/ConvertSignedShortToBinary.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi02/Numeral-Systems-Homework/ConvertSignedShortToBinary/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi03/NumericalSystems/01.DecimalToBinary/Form1.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi03/NumericalSystems/01.DecimalToBinary/Form1.Designer.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi03/NumericalSystems/01.DecimalToBinary/Program.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi03/NumericalSystems/01.DecimalToBinary/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi03/NumericalSystems/01.DecimalToBinary/Properties/Resources.Designer.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi03/NumericalSystems/01.DecimalToBinary/Properties/Settings.Designer.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi03/NumericalSystems/01.DecimalToBinaryNum/Program.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi03/NumericalSystems/01.DecimalToBinaryNum/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi03/NumericalSystems/02.BinaryToDecimal/Program.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi03/NumericalSystems/02.BinaryToDecimal/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi03/NumericalSystems/03.DecimalToHexadecimal/03.DecimalToHexadecimal.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi03/NumericalSystems/03.DecimalToHexadecimal/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi03/NumericalSystems/04.HexaDecimalToDecimal/04.HexadecimalToDecimal.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi03/NumericalSystems/04.HexaDecimalToDecimal/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi03/NumericalSystems/05.HexadecToBinary/05.HexadecToBinary.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi03/NumericalSystems/05.HexadecToBinary/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi03/NumericalSystems/06.BinaryToHexadec/06.BinaryToHexadec.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi03/NumericalSystems/06.BinaryToHexadec/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi03/NumericalSystems/07.ConvertToAny/07.ConvertToAny.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi03/NumericalSystems/07.ConvertToAny/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi03/NumericalSystems/08.ShortToBin/08.ShortToBin.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi03/NumericalSystems/08.ShortToBin/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi03/NumericalSystems/09.FloatToBinary/09.FloatToBinary.cs
+/CSharp/PartTwo/X. Others/HW_Broyni-sistemi03/NumericalSystems/09.FloatToBinary/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti01/ClassesAndObjects/1.CheckWhetherYearIsleap/Program.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti01/ClassesAndObjects/1.CheckWhetherYearIsleap/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti01/ClassesAndObjects/2.GenerateRandomValues/Program.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti01/ClassesAndObjects/2.GenerateRandomValues/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti01/ClassesAndObjects/3.DayOfWeek/Program.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti01/ClassesAndObjects/3.DayOfWeek/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti01/ClassesAndObjects/4.SurfaceOfTriangle/Program.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti01/ClassesAndObjects/4.SurfaceOfTriangle/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti01/ClassesAndObjects/5.WorkDays/Program.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti01/ClassesAndObjects/5.WorkDays/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti01/ClassesAndObjects/6.CalculateSumFromString/Program.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti01/ClassesAndObjects/6.CalculateSumFromString/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti01/ClassesAndObjects/7.ReversePolishNotation/Program.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti01/ClassesAndObjects/7.ReversePolishNotation/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti02/02.RandomNumbersInRange/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti02/02.RandomNumbersInRange/RandomNumbersInRange.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti02/03.DayOfWeek/DayOfWeek.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti02/03.DayOfWeek/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti02/04.AreaOfTriangle/AreaOfTriangle.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti02/04.AreaOfTriangle/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti02/05.CalculateWorkingDays/CalculateWorkingDays.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti02/05.CalculateWorkingDays/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti02/06.ReadValuesFromString/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti02/06.ReadValuesFromString/ReadValuesFromString.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti02/UsingClassesAndObject/IsYearLeap.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti02/UsingClassesAndObject/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti03/UsingClassesAndObjectsHW/02.RandomValues/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti03/UsingClassesAndObjectsHW/02.RandomValues/RandomValues.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti03/UsingClassesAndObjectsHW/03.DayOfweek/DayOfweek.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti03/UsingClassesAndObjectsHW/03.DayOfweek/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti03/UsingClassesAndObjectsHW/04.TriangleArea/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti03/UsingClassesAndObjectsHW/04.TriangleArea/TriangleArea.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti03/UsingClassesAndObjectsHW/06.StringSum/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti03/UsingClassesAndObjectsHW/06.StringSum/StringSum.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti03/UsingClassesAndObjectsHW/UsingClassesAndObjectsHW/Program.cs
+/CSharp/PartTwo/X. Others/HW_Izpolzvane-na-klasove-i-obekti03/UsingClassesAndObjectsHW/UsingClassesAndObjectsHW/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/AlphabetArray/AlphabetArray.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/AlphabetArray/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/BinarySearch/BinarySearch.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/BinarySearch/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/Combinations/Combinations.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/Combinations/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/CompareArrays/CompareArrays.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/CompareArrays/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/CompareCharArrays/CompareCharArrays.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/CompareCharArrays/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/IncreasingSequence/IncreasingSequence.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/IncreasingSequence/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/InitializeArray/InitializeArray.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/InitializeArray/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/IsSumPresent/IsSumPresent.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/IsSumPresent/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/MaximalSequence/MaximalSequence.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/MaximalSequence/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/MaximalSumInSequence/MaximalSumInSequence.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/MaximalSumInSequence/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/MaxSumOfKElements/MaxSumOfKElements.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/MaxSumOfKElements/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/MergeSort/MergeSort.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/MergeSort/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/MostFrequentNumber/MostFrequentNumber.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/MostFrequentNumber/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/QuickSort/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/QuickSort/QuickSort.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/SelectionSort/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/SelectionSort/SelectionSort.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/SieveOfEratosthenes/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/SieveOfEratosthenes/SieveOfEratosthenes.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/Variations/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi01/Variations/Variations.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/01. SimpleArray/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/01. SimpleArray/SimpleArray.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/02. TwoArrayCompare/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/02. TwoArrayCompare/TwoArrayCompare.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/03. CharCompare/CharCompare.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/03. CharCompare/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/04. MaxSequenceInArray/MaxSequenceInArray.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/04. MaxSequenceInArray/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/05. MaximalIncreasingSequence/MaximalIncreasingSequence.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/05. MaximalIncreasingSequence/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/06. MaximalSum/MaximalSum.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/06. MaximalSum/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/07. SelectSort/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/07. SelectSort/SelectSort.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/08. MaxSequence/MaxSequence.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/08. MaxSequence/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/09. MostFrequent/MostFrequent.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/09. MostFrequent/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/10. SequenceByGivenSum/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/10. SequenceByGivenSum/SequenceByGivenSum.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/11. BinarySearch/BinarySearch.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/11. BinarySearch/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/12. LetterIndex/LetterIndex.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/12. LetterIndex/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/13. MergeSort/MergeSort.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/13. MergeSort/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/14. QuickSort/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/14. QuickSort/QuickSort.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/15. SieveOfEratosthenes/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/15. SieveOfEratosthenes/SieveOfEratosthenes.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/16. SubSetSum/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/16. SubSetSum/SubSetSum.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/17. SubSetSumHarder/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/17. SubSetSumHarder/SubSetSumHarder.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/18. SortedSequenceRemove/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/18. SortedSequenceRemove/SortedSequenceRemove.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/20. Variations/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/20. Variations/Variations.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/21. Combinations/Combinations.cs
+/CSharp/PartTwo/X. Others/HW_Masivi02/Arrays/21. Combinations/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/02. ElementByElementCmp/ElementByElementCmp.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/02. ElementByElementCmp/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/03. CharArraysCmp/CharArraysCmp.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/03. CharArraysCmp/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/04. MaximumSequence/MaximumSequence.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/04. MaximumSequence/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/05. MaximumIncSequence/MaximumIncSequence.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/05. MaximumIncSequence/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/06. MaximumSumNK/MaximumSumNK.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/06. MaximumSumNK/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/07. SelectionSort/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/07. SelectionSort/SelectionSort.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/08. MaximalSumOneLoop/Form1.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/08. MaximalSumOneLoop/Form1.Designer.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/08. MaximalSumOneLoop/Program.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/08. MaximalSumOneLoop/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/08. MaximalSumOneLoop/Properties/Resources.Designer.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/08. MaximalSumOneLoop/Properties/Settings.Designer.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/08. MaximumSumOneLoop/MaxSumOneLoop.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/08. MaximumSumOneLoop/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/09. MostFrequentNumber/MostFrequentN.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/09. MostFrequentNumber/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/10. SequenceOFGivenSum/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/10. SequenceOFGivenSum/SequenceOfGivenSum.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/11. BinarySearch/BinarySearch.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/11. BinarySearch/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/12. LetterIndex/LeterIndex.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/12. LetterIndex/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/14. QuickSort/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/14. QuickSort/QuickSort.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/15. PrimeNumbers/PrimeNumbers.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/15. PrimeNumbers/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/20. AllVariations/AllVariations.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/20. AllVariations/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/21. AllCombinations/AllCombinations.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/21. AllCombinations/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/ConsoleApplication1/Program.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/ConsoleApplication1/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/Telerik1Arrays/MultiplyBy5.cs
+/CSharp/PartTwo/X. Others/HW_Masivi03/Telerik1Arrays/Telerik1Arrays/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi01/MultiDimArrays/02.Square3x3maxSum/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi01/MultiDimArrays/02.Square3x3maxSum/Square3x3MaxSum.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi01/MultiDimArrays/03.SequenceOfElementsInArray/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi01/MultiDimArrays/03.SequenceOfElementsInArray/SequenceOfElements.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi01/MultiDimArrays/04.FindKInN_dimArray/Program.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi01/MultiDimArrays/04.FindKInN_dimArray/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi01/MultiDimArrays/05.ArrayOfStringsSorted/ArrayOfStringsSorted.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi01/MultiDimArrays/05.ArrayOfStringsSorted/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi01/MultiDimArrays/06.MatrixClass/Matrix.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi01/MultiDimArrays/06.MatrixClass/MatrixUsing.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi01/MultiDimArrays/06.MatrixClass/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi01/MultiDimArrays/07.LargeArea/LargeArea.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi01/MultiDimArrays/07.LargeArea/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi01/MultiDimArrays/MultiDimArrays/MatrixPrint.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi01/MultiDimArrays/MultiDimArrays/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi02/MatrixMnogomerniMasivi/MatrixMnogomerniMasivi/PrintMatrix.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi02/MatrixMnogomerniMasivi/MatrixMnogomerniMasivi/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi03/MultidimensionalArrays/MultidimensionalArrays/ArrayBinSearch/ArrayBinSearch.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi03/MultidimensionalArrays/MultidimensionalArrays/ArrayBinSearch/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi03/MultidimensionalArrays/MultidimensionalArrays/FillsAndPrints/FillsAndPrint.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi03/MultidimensionalArrays/MultidimensionalArrays/FillsAndPrints/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi03/MultidimensionalArrays/MultidimensionalArrays/LongestSequenceOfEqualStrings/LongestSequence.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi03/MultidimensionalArrays/MultidimensionalArrays/LongestSequenceOfEqualStrings/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi03/MultidimensionalArrays/MultidimensionalArrays/MaxSubmatrix/MaxSubmatrix.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi03/MultidimensionalArrays/MultidimensionalArrays/MaxSubmatrix/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi03/MultidimensionalArrays/MultidimensionalArrays/SortArrayOfString/ArrayOfString.cs
+/CSharp/PartTwo/X. Others/HW_Matrici-i-mnogomerni-masivi03/MultidimensionalArrays/MultidimensionalArrays/SortArrayOfString/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Metodi01/GetMax/GetMax.cs
+/CSharp/PartTwo/X. Others/HW_Metodi01/GetMax/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Metodi01/MethodName/MethodName.cs
+/CSharp/PartTwo/X. Others/HW_Metodi01/MethodName/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Metodi01/NumberArray/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Metodi01/NumberArray/UnitTest1.cs
+/CSharp/PartTwo/X. Others/HW_Metodi01/NumberInArray/NumberInArray.cs
+/CSharp/PartTwo/X. Others/HW_Metodi01/NumberInArray/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Metodi01/ReturnLastNumber/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Metodi01/ReturnLastNumber/ReturnLastNumber.cs
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/01. HelloUser/HelloUser.cs
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/01. HelloUser/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/02. GetMax/GetMaximum.CS
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/02. GetMax/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/03. WordLastDigit/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/03. WordLastDigit/WordLastDigit.cs
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/04. NumberOfTimesInArray/NumberOfTimesInArray.cs
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/04. NumberOfTimesInArray/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/05. IsBiggerThanNeighbors/IsBiggerThanNeighbors.cs
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/05. IsBiggerThanNeighbors/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/06. FirstBiggerThanNeighbors/FirstBiggerThanNeighbors.cs
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/06. FirstBiggerThanNeighbors/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/07. ReverseTheDigits/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/07. ReverseTheDigits/ReverseTheDigits.cs
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/08. AddTwoIntegers/AddTwoIntegers.cs
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/08. AddTwoIntegers/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/09. MaximalSorting/MaximalSorting.cs
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/09. MaximalSorting/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/10. Factoriel/Factoriel.cs
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/10. Factoriel/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/11. Polynomials/Polynomials.cs
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/11. Polynomials/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/13. MenuThreeTasks/MenuThreeTasks.cs
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/13. MenuThreeTasks/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/14. MethodsForSetOfIntegers/MethodsForSetOfIntegers.cs
+/CSharp/PartTwo/X. Others/HW_Metodi02/Methods/14. MethodsForSetOfIntegers/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Metodi03/HomeWork_Methods/01.Print_Hello_Name/Print_Hello_Name.cs
+/CSharp/PartTwo/X. Others/HW_Metodi03/HomeWork_Methods/01.Print_Hello_Name/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Metodi03/HomeWork_Methods/02.PrintMaxInteger/PrintMaxInteger.cs
+/CSharp/PartTwo/X. Others/HW_Metodi03/HomeWork_Methods/02.PrintMaxInteger/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Metodi03/HomeWork_Methods/03.PrintLastDigitAsEnglishWord/PrintLastDigitAsEnglishWord.cs
+/CSharp/PartTwo/X. Others/HW_Metodi03/HomeWork_Methods/03.PrintLastDigitAsEnglishWord/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Metodi03/HomeWork_Methods/04.NumberInArray/NumberInArray.cs
+/CSharp/PartTwo/X. Others/HW_Metodi03/HomeWork_Methods/04.NumberInArray/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Metodi03/HomeWork_Methods/05.CheckElementInArray/CheckElementInArray.cs
+/CSharp/PartTwo/X. Others/HW_Metodi03/HomeWork_Methods/05.CheckElementInArray/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Metodi03/HomeWork_Methods/HomeWork_Methods/Program.cs
+/CSharp/PartTwo/X. Others/HW_Metodi03/HomeWork_Methods/HomeWork_Methods/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya01/7_Homework_ExceptionHandling/1.SquareRoot/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya01/7_Homework_ExceptionHandling/1.SquareRoot/SquareRoot.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya01/7_Homework_ExceptionHandling/2.EnterNumberInRange/EnterNumberInRange.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya01/7_Homework_ExceptionHandling/2.EnterNumberInRange/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya01/7_Homework_ExceptionHandling/3.ReadAndPrintFile/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya01/7_Homework_ExceptionHandling/3.ReadAndPrintFile/ReadAndPrintFile.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya01/7_Homework_ExceptionHandling/4.DownloadFile/DownloadFile.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya01/7_Homework_ExceptionHandling/4.DownloadFile/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya02/ExceptionHandling/01.CatchInvalidNumber/CatchInvalidNumber.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya02/ExceptionHandling/01.CatchInvalidNumber/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya02/ExceptionHandling/02.ReadAndValidateNumbers/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya02/ExceptionHandling/02.ReadAndValidateNumbers/ReadAndValidateNumbers.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya02/ExceptionHandling/03.ReadAndPrintFile/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya02/ExceptionHandling/03.ReadAndPrintFile/ReadAndPrintFile.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya02/ExceptionHandling/04.DownloadAndStoreFile/DownloadAndStoreFile.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya02/ExceptionHandling/04.DownloadAndStoreFile/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya03/ExceptionHandling/ConsoleApplication1/Program.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya03/ExceptionHandling/ConsoleApplication1/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya03/ExceptionHandling/ConsoleApplication2/Program.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya03/ExceptionHandling/ConsoleApplication2/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya03/ExceptionHandling/DownloadFile/DownloadFile.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya03/ExceptionHandling/DownloadFile/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya03/ExceptionHandling/ExceptionHandling/IfNegative.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya03/ExceptionHandling/ExceptionHandling/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya03/ExceptionHandling/ReadFile/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya03/ExceptionHandling/ReadFile/ReadFile.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya03/ExceptionHandling/ReadNumberRange/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Obrabotka-na-izklyucheniya03/ExceptionHandling/ReadNumberRange/ReadNumberRange.cs
+/CSharp/PartTwo/X. Others/HW_Podgotovka-za-prakticheski-izpit01/EncodeEncrypt.cs
+/CSharp/PartTwo/X. Others/HW_Podgotovka-za-prakticheski-izpit01/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Podgotovka-za-prakticheski-izpit02/Exam2/01/MultiVerseCommunication.cs
+/CSharp/PartTwo/X. Others/HW_Podgotovka-za-prakticheski-izpit02/Exam2/01/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Podgotovka-za-prakticheski-izpit02/Exam2/Kaspichan Numbers/Kaspichan_Numbers.cs
+/CSharp/PartTwo/X. Others/HW_Podgotovka-za-prakticheski-izpit02/Exam2/Kaspichan Numbers/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Podgotovka-za-prakticheski-izpit02/Exam2/MovingLetters/MovingLetters.cs
+/CSharp/PartTwo/X. Others/HW_Podgotovka-za-prakticheski-izpit02/Exam2/MovingLetters/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Podgotovka-za-prakticheski-izpit02/HW_Podgotovka-za-prakticheski-izpit03/3DStars/3Dstars.cs
+/CSharp/PartTwo/X. Others/HW_Podgotovka-za-prakticheski-izpit02/HW_Podgotovka-za-prakticheski-izpit03/GenomeDecoder/GenomeDecoder.cs
+/CSharp/PartTwo/X. Others/HW_Podgotovka-za-prakticheski-izpit02/HW_Podgotovka-za-prakticheski-izpit03/Grisko/Grisko.cs
+/CSharp/PartTwo/X. Others/HW_Podgotovka-za-prakticheski-izpit02/HW_Podgotovka-za-prakticheski-izpit03/Grisko/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Podgotovka-za-prakticheski-izpit02/HW_Podgotovka-za-prakticheski-izpit03/KaspichanNumbers/KaspichanNumbers.cs
+/CSharp/PartTwo/X. Others/HW_Podgotovka-za-prakticheski-izpit02/HW_Podgotovka-za-prakticheski-izpit03/TA_online_CSharp2 _exam_prep/Kukata.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/AfterSixHours/AfterSixHours.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/AfterSixHours/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/AlphabeticalOrderList/AlphabeticalOrderList.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/AlphabeticalOrderList/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/Asterix/Asterix.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/Asterix/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/CalcDateDifference/CalcDateDifference.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/CalcDateDifference/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/ChangeToUpperCase/ChangeToUpperCase.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/ChangeToUpperCase/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/CheckBrackets/CheckBrackets.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/CheckBrackets/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/ConvertToUnicode/ConvertToUnicode.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/ConvertToUnicode/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/Dictionary/Dictionary.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/Dictionary/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/DifferentLetters/DifferentLetters.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/DifferentLetters/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/DifferentWords/DifferentWords.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/DifferentWords/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/Encryption/Encryption.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/Encryption/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/ExtractAllDatesMatches/ExtractAllDatesMatches.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/ExtractAllDatesMatches/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/ExtractEmails/ExtractEmails.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/ExtractEmails/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/ExtractSentences/ExtractSentences.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/ExtractSentences/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/FindSubstring/FindSubstring.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/FindSubstring/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/ForbiddenWords/ForbiddenWords.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/ForbiddenWords/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/HTMLBody/HTMLBody.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/HTMLBody/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/HTMLTags/HTMLTags.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/HTMLTags/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/NumberVariations/NumberVariations.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/NumberVariations/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/Palindromes/Palindromes.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/Palindromes/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/PrintReversed/PrintReversed.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/PrintReversed/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/ReplaceIdenticalLetters/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/ReplaceIdenticalLetters/ReplaceIdenticalLetters.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/ReverseWords/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/ReverseWords/ReverseWords.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/StringsAndTextProcessing/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/StringsAndTextProcessing/Strings.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/URL/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka01/08.StringsAndTextProcessing/URL/URL.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/17.DayTimeInBulgarina/DateTimeInBG.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/17.DayTimeInBulgarina/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/19.ExtractDatesFromText/ExtractDates.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/19.ExtractDatesFromText/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E02.ReversTheString/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E02.ReversTheString/ReverseTheString.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E03.CheckIfCorrectBrackets/CorrectBrackets.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E03.CheckIfCorrectBrackets/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E03.CountSubstring/CountSubstring.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E03.CountSubstring/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E05.UpperCaseTagsFormat/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E05.UpperCaseTagsFormat/UpperTags.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E06.TwentyChars/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E06.TwentyChars/TwentyChars.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E07.EncodeDecode/EncodeDecode.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E07.EncodeDecode/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E08.EncodeDecode_Regex/EncodeDecode_Regex.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E08.EncodeDecode_Regex/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E08.SentaceExtractor/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E08.SentaceExtractor/SentaceExtractor.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E09.ForbiddenWords/ForbiddenWords.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E09.ForbiddenWords/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E10.CharToUnicodeLiterals/CharToUnicodeLiterals.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E10.CharToUnicodeLiterals/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E11.NumberFormat/NumFormat.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E11.NumberFormat/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E12.URLAdrExtract/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E12.URLAdrExtract/URLAdrExtract.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E13.ReverseWordInSentance_RegEx/Program.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E13.ReverseWordInSentance_RegEx/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E14.Dictionary/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E14.Dictionary/SmallDictionary.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E15.TagReplacer/Program.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E15.TagReplacer/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E16.BetweenDates/BetweenDates.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E16.BetweenDates/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E18.EmailExtractor/EmailExtractor.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E18.EmailExtractor/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E18.Somthing/Program.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E18.Somthing/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E20.Palindromes/Palindromes.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E20.Palindromes/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E21.DifferentLetters/DifferentLetters.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E21.DifferentLetters/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E22.DifferentWords/DifferentWords.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E22.DifferentWords/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E23.ConsequativeToSingleChar/ConsToSingle.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E23.ConsequativeToSingleChar/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E24.AlphabeticlaOrder/AlphabeticlaOrder.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E24.AlphabeticlaOrder/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E25.HTMLExtract/Program.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka02/HW8.StringsAndTextProcessing/E25.HTMLExtract/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/01.WhatIs_String/Program.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/01.WhatIs_String/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/02.Reverse/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/02.Reverse/Reverce.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/03.Bracked/Brachets.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/03.Bracked/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/04.SubstringRepeat/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/04.SubstringRepeat/SubstringRepeated.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/05.ToUpper/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/05.ToUpper/ToUpper.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/06.Only20Characters/Program.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/06.Only20Characters/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/07.EncodeDecode/EncodeDecode.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/07.EncodeDecode/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/08.Sentence/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/08.Sentence/Sentence.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/09.ForbiddenWords/Program.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/09.ForbiddenWords/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/10.FormatStringUnicode/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/10.FormatStringUnicode/ToUnicode.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/11.PrintNumbers/PrintNumber.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/11.PrintNumbers/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/12.ParseURL/Program.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/12.ParseURL/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/13.Reverse/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/13.Reverse/Reverse.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/14.Dictonary/Dictonary.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/14.Dictonary/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/15.UrlTag/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/15.UrlTag/UrlTag.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/16.DayDistance/Program.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/16.DayDistance/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/17.DateTimeReading/Program.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/17.DateTimeReading/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/18.Emails/Emails.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/18.Emails/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/19.DateTimeExtract/DateTimeExtract.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/19.DateTimeExtract/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/20.Palindroms/Palindroms.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/20.Palindroms/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/21.DifferntLetters/Program.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/21.DifferntLetters/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/22.WordFound/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/22.WordFound/WordFound.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/23.IndenticalLetters/Program.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/23.IndenticalLetters/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/24.Alphabetical/Program.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/24.Alphabetical/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/25.ExtractTextFromHTML/ExtratctFromHTML.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/25.ExtractTextFromHTML/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/Program.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/test/Program.cs
+/CSharp/PartTwo/X. Others/HW_Stringove-i-tekstoobrabotka03/StringsAndTextProcessing/test/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/01 OddLines/OddLines.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/01 OddLines/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/02 Concatenate/Concatenate.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/02 Concatenate/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/03 InsertLineNumber/InsertLineNumber.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/03 InsertLineNumber/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/04 CompareFiles/CompareFiles.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/04 CompareFiles/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/05 Matrix/Matrix.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/05 Matrix/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/06 SortStrings/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/06 SortStrings/SortStrings.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/07 StartToFinish/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/07 StartToFinish/StartToFinish.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/08 OnlyWords/OnlyWords.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/08 OnlyWords/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/09 DeleteOddLines/DeleteOddLines.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/09 DeleteOddLines/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/10 NoTagsa/NoTags.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/10 NoTagsa/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/11 DeleteWords/DeleteWords.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/11 DeleteWords/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/12 RemoveWords/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/12 RemoveWords/RemoveWords.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/13 HowManyTimes/HowManyTimes.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove01/13 HowManyTimes/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise01/exer01.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise01/exer011.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise01/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise02/exer02.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise02/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise03/exer03.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise03/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise04/exer04.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise04/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise05/exer05.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise05/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise06/exer06.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise06/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise07/exer07.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise07/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise08/exer08.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise08/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise09/exer09.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise09/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise10/exer10.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise10/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise11/exer11.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise11/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise12/exer12.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise12/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise13/exer13.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove02/Exercise13/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove03/TextFiles/01/Program.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove03/TextFiles/01/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove03/TextFiles/02/Program.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove03/TextFiles/02/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove03/TextFiles/03/Program.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove03/TextFiles/03/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove03/TextFiles/04/Program.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove03/TextFiles/04/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove03/TextFiles/05/Program.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove03/TextFiles/05/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove03/TextFiles/06/Program.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove03/TextFiles/06/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove03/TextFiles/07/Program.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove03/TextFiles/07/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove03/TextFiles/08/Program.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove03/TextFiles/08/Properties/AssemblyInfo.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove03/TextFiles/09/Program.cs
+/CSharp/PartTwo/X. Others/HW_Tekstovi-faylove03/TextFiles/09/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/01. HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo.sln
+/CSharp/OOP/X. Others/01. HW_Definirane-na-klasove---chast-II/Point3D/NewPath
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/1. Human/Human.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/1. Human/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/1. Human/Student.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/1. Human/TestClass.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/1. Human/Worker.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/3. Animal/Animal.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/3. Animal/Cat.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/3. Animal/Dog.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/3. Animal/Frog.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/3. Animal/ISound.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/3. Animal/Kitten.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/3. Animal/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/3. Animal/TestAnimal.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/3. Animal/Tomcat.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/ConsoleApplication1/Human.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/ConsoleApplication1/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/ConsoleApplication1/Student.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/ConsoleApplication1/TestClass.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/ConsoleApplication1/Worker.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/Human/App.xaml
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/Human/App.xaml.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/Human/MainWindow.xaml
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/Human/MainWindow.xaml.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/Human/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/Human/Properties/Resources.Designer.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/Human/Properties/Settings.Designer.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/PrinciplesInOOPHomeWork.sln
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/PrinciplesInOOPHomeWork/Disciplines.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/PrinciplesInOOPHomeWork/ICommentable.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/PrinciplesInOOPHomeWork/Person.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/PrinciplesInOOPHomeWork/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/PrinciplesInOOPHomeWork/School.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/PrinciplesInOOPHomeWork/SchoolClass.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/PrinciplesInOOPHomeWork/Student.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/PrinciplesInOOPHomeWork/Teacher.cs
+/CSharp/OOP/X. Others/01. HW_Principi-na-OOP---chast-I/PrinciplesInOOP part 1/PrinciplesInOOPHomeWork/TestClass.cs
+/CSharp/OOP/X. Others/01. HW_Razshiryavashti-metodi-delegati-lambda-dy/01.StringBuilderExtensions/Program.cs
+/CSharp/OOP/X. Others/01. HW_Razshiryavashti-metodi-delegati-lambda-dy/01.StringBuilderExtensions/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/01. HW_Razshiryavashti-metodi-delegati-lambda-dy/01.StringBuilderExtensions/StringBuilderExtension.cs
+/CSharp/OOP/X. Others/01. HW_Razshiryavashti-metodi-delegati-lambda-dy/02.SetOfExtensions/ExtensionSet.cs
+/CSharp/OOP/X. Others/01. HW_Razshiryavashti-metodi-delegati-lambda-dy/02.SetOfExtensions/Program.cs
+/CSharp/OOP/X. Others/01. HW_Razshiryavashti-metodi-delegati-lambda-dy/02.SetOfExtensions/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/01. HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtractStudentsUsingLINQ/Program.cs
+/CSharp/OOP/X. Others/01. HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtractStudentsUsingLINQ/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/01. HW_Razshiryavashti-metodi-delegati-lambda-dy/04.ExtractStudentsUsingLINQ2/Program.cs
+/CSharp/OOP/X. Others/01. HW_Razshiryavashti-metodi-delegati-lambda-dy/04.ExtractStudentsUsingLINQ2/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/01. HW_Razshiryavashti-metodi-delegati-lambda-dy/05.SortStudentsNameInDescendingOrder/Program.cs
+/CSharp/OOP/X. Others/01. HW_Razshiryavashti-metodi-delegati-lambda-dy/05.SortStudentsNameInDescendingOrder/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/01. HW_Razshiryavashti-metodi-delegati-lambda-dy/Extension-Methods-Delegates-Lambda-LINQ.sln
+/CSharp/OOP/X. Others/01.HW_Definirane-na-klasove---chast-I/homework1/homework1.sln
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/01. School/Class.cs
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/01. School/Discipline.cs
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/01. School/ICommentable.cs
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/01. School/Person.cs
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/01. School/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/01. School/School.cs
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/01. School/SchoolTesting.cs
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/01. School/Student.cs
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/01. School/Teacher.cs
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/02. Human/Human Testing.cs
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/02. Human/Human.cs
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/02. Human/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/02. Human/Student.cs
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/02. Human/Worker.cs
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/03. Animals/Animal.cs
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/03. Animals/AnimalTesting.cs
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/03. Animals/Cat.cs
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/03. Animals/Dog.cs
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/03. Animals/Frog.cs
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/03. Animals/ISound.cs
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/03. Animals/Kitten.cs
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/03. Animals/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/03. Animals/Tomcat.cs
+/CSharp/OOP/X. Others/02. HW_Principi-na-OOP---chast-I/OOP-4-Object-Oriented-Programming-Principles-Part1.sln
+/CSharp/OOP/X. Others/02.HW_Definirane-na-klasove---chast-I/DefiningClasses/DefiningClasses.sln
+/CSharp/OOP/X. Others/02.HW_Definirane-na-klasove---chast-II/DefiningClasses2.sln
+/CSharp/OOP/X. Others/02.HW_Definirane-na-klasove---chast-II/GenericListExample/GenericList.cs
+/CSharp/OOP/X. Others/02.HW_Definirane-na-klasove---chast-II/GenericListExample/GenericListExample.cs
+/CSharp/OOP/X. Others/02.HW_Definirane-na-klasove---chast-II/GenericListExample/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02.HW_Definirane-na-klasove---chast-II/MatrixExample/Matrix.cs
+/CSharp/OOP/X. Others/02.HW_Definirane-na-klasove---chast-II/MatrixExample/MatrixExample.cs
+/CSharp/OOP/X. Others/02.HW_Definirane-na-klasove---chast-II/MatrixExample/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02.HW_Definirane-na-klasove---chast-II/PointStructure/DistanceBetweentTwoPoints.cs
+/CSharp/OOP/X. Others/02.HW_Definirane-na-klasove---chast-II/PointStructure/Path.cs
+/CSharp/OOP/X. Others/02.HW_Definirane-na-klasove---chast-II/PointStructure/PathStorage.cs
+/CSharp/OOP/X. Others/02.HW_Definirane-na-klasove---chast-II/PointStructure/Point3D.cs
+/CSharp/OOP/X. Others/02.HW_Definirane-na-klasove---chast-II/PointStructure/PointStructure.cs
+/CSharp/OOP/X. Others/02.HW_Definirane-na-klasove---chast-II/PointStructure/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02.HW_Definirane-na-klasove---chast-II/VersionAttributeExample/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02.HW_Definirane-na-klasove---chast-II/VersionAttributeExample/VersionAttribute.cs
+/CSharp/OOP/X. Others/02.HW_Definirane-na-klasove---chast-II/VersionAttributeExample/VersionAttributeExample.cs
+/CSharp/OOP/X. Others/02.HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/01.StringBuilderExtension/Program.cs
+/CSharp/OOP/X. Others/02.HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/01.StringBuilderExtension/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02.HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/02.IEnumerableExtension/Program.cs
+/CSharp/OOP/X. Others/02.HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/02.IEnumerableExtension/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02.HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/03.ExtensionMDelegatesLambdaLINQ.sln
+/CSharp/OOP/X. Others/02.HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/03.StudentsNames/Program.cs
+/CSharp/OOP/X. Others/02.HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/03.StudentsNames/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02.HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/03.StudentsNames/Student.cs
+/CSharp/OOP/X. Others/02.HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/04.AgeOfStudents/Program.cs
+/CSharp/OOP/X. Others/02.HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/04.AgeOfStudents/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02.HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/04.AgeOfStudents/Student.cs
+/CSharp/OOP/X. Others/02.HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/05.SortByFirstThenLastName/Program.cs
+/CSharp/OOP/X. Others/02.HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/05.SortByFirstThenLastName/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02.HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/05.SortByFirstThenLastName/Student.cs
+/CSharp/OOP/X. Others/02.HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/06.IntsDivisableBySevenAndFive/Program.cs
+/CSharp/OOP/X. Others/02.HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/06.IntsDivisableBySevenAndFive/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02.HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/07.ClassTimes/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02.HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/07.ClassTimes/Timer.cs
+/CSharp/OOP/X. Others/02.HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/09-19.StudentsInfo/Program.cs
+/CSharp/OOP/X. Others/02.HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/09-19.StudentsInfo/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02.HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/09-19.StudentsInfo/Student.cs
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/Animal/Animal.cs
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/Animal/Cat.cs
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/Animal/Dog.cs
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/Animal/Frog.cs
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/Animal/Gender.cs
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/Animal/ISound.cs
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/Animal/KIten.cs
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/Animal/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/Animal/Testing.cs
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/Animal/Tomcat.cs
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/Human/Human.cs
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/Human/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/Human/Student.cs
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/Human/Testing.cs
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/Human/Worker.cs
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/Object-Oriented-Programming.sln
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/School/Class.cs
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/School/Disciplines.cs
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/School/Person.cs
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/School/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/School/School.cs
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/School/Student.cs
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/School/Teacher.cs
+/CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-I/School/TestSchool.cs
+/CSharp/OOP/X. Others/03.HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Attribute/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/03.HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Attribute/SampleClass.cs
+/CSharp/OOP/X. Others/03.HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Attribute/VersionAttribute.cs
+/CSharp/OOP/X. Others/03.HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/DefiningClassesPartTwo.sln
+/CSharp/OOP/X. Others/03.HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Generic/GenericList.cs
+/CSharp/OOP/X. Others/03.HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Generic/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/03.HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Generic/TestList.cs
+/CSharp/OOP/X. Others/03.HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Matrix/Matrix.cs
+/CSharp/OOP/X. Others/03.HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Matrix/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/03.HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Matrix/TestMatrix.cs
+/CSharp/OOP/X. Others/03.HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Point3D/Distance.cs
+/CSharp/OOP/X. Others/03.HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Point3D/Path.cs
+/CSharp/OOP/X. Others/03.HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Point3D/PathStorage.cs
+/CSharp/OOP/X. Others/03.HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Point3D/Point3D.cs
+/CSharp/OOP/X. Others/03.HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Point3D/Point3DTest.cs
+/CSharp/OOP/X. Others/03.HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Point3D/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/03.HW_Razshiryavashti-metodi-delegati-lambda-dy/ExtensionLambdaLINQ.sln
+/CSharp/OOP/X. Others/03.HW_Razshiryavashti-metodi-delegati-lambda-dy/ExtensionMethods/ExtensionMethodsTests.cs
+/CSharp/OOP/X. Others/03.HW_Razshiryavashti-metodi-delegati-lambda-dy/ExtensionMethods/IEnumerableExtension.cs
+/CSharp/OOP/X. Others/03.HW_Razshiryavashti-metodi-delegati-lambda-dy/ExtensionMethods/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/03.HW_Razshiryavashti-metodi-delegati-lambda-dy/ExtensionMethods/SubstringExtension.cs
+/CSharp/OOP/X. Others/03.HW_Razshiryavashti-metodi-delegati-lambda-dy/StudentsSort/Age.cs
+/CSharp/OOP/X. Others/03.HW_Razshiryavashti-metodi-delegati-lambda-dy/StudentsSort/Names.cs
+/CSharp/OOP/X. Others/03.HW_Razshiryavashti-metodi-delegati-lambda-dy/StudentsSort/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/03.HW_Razshiryavashti-metodi-delegati-lambda-dy/StudentsSort/Sort.cs
+/CSharp/OOP/X. Others/03.HW_Razshiryavashti-metodi-delegati-lambda-dy/StudentsSort/Student.cs
+/CSharp/OOP/X. Others/03.HW_Razshiryavashti-metodi-delegati-lambda-dy/StudentsSort/StudentsTests.cs
