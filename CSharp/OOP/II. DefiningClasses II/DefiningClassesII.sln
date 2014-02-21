@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuclidianCoordinates", "EuclidianCoordinates\EuclidianCoordinates.csproj", "{8A98CE6E-42A0-4FC1-B42D-D551B9DB8E84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateList", "TemplateList\TemplateList.csproj", "{24968533-3549-44DD-B666-BE15CDE6F82F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixAssembly", "MatrixAssembly\MatrixAssembly.csproj", "{5E83DA21-C20E-4D9F-B7D3-4E364DBA0F79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Versions", "Versions\Versions.csproj", "{C5B00E72-7352-47AD-8085-46E96EFEBE88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A98CE6E-42A0-4FC1-B42D-D551B9DB8E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A98CE6E-42A0-4FC1-B42D-D551B9DB8E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A98CE6E-42A0-4FC1-B42D-D551B9DB8E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A98CE6E-42A0-4FC1-B42D-D551B9DB8E84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24968533-3549-44DD-B666-BE15CDE6F82F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24968533-3549-44DD-B666-BE15CDE6F82F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24968533-3549-44DD-B666-BE15CDE6F82F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24968533-3549-44DD-B666-BE15CDE6F82F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E83DA21-C20E-4D9F-B7D3-4E364DBA0F79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E83DA21-C20E-4D9F-B7D3-4E364DBA0F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E83DA21-C20E-4D9F-B7D3-4E364DBA0F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E83DA21-C20E-4D9F-B7D3-4E364DBA0F79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5B00E72-7352-47AD-8085-46E96EFEBE88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B00E72-7352-47AD-8085-46E96EFEBE88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B00E72-7352-47AD-8085-46E96EFEBE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B00E72-7352-47AD-8085-46E96EFEBE88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

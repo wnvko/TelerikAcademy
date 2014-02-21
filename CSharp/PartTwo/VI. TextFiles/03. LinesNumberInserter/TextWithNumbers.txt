@@ -1,0 +1,33 @@
+Line 1               == == == From - lae@mullauna.cs.mu.oz.au (Lewin EDWARDS) == == ==
+Line 2             -= A DIY Guide to Computer Repair & Modification (PC and Amiga 500) =-
+Line 3            [Note : To people who saved my earlier post re: installation of the 1Mb
+Line 4                Agnus, discard it and get a copy of this instead; the 1Mb Agnus
+Line 5                            installation procedure is included here]
+Line 6         
+Line 7                           -=<* About This Document - Disclaimer *>=-
+Line 8         
+Line 9         This document is intended to provide electronics hobbyists with some useful
+Line 10        notes the author has gathered whilst working on various systems. It is not
+Line 11        intended to train or encourage novices to attempt service or modifications
+Line 12        to expensive appliances. It is especially not intended to encourage
+Line 13        unqualified personnel to tamper with dangerous appliances such as monitors,
+Line 14        power supplies and other devices which contain vacuum tubes, live mains or
+Line 15        high-tension rails, or other hazardous areas. Any such work carried out is
+Line 16        done at the reader's own risk and the author accepts no reponsibility for
+Line 17        damage to property or person which occurs as a result of attempting any of
+Line 18        the procedures described herein.
+Line 19                Having said that, I can vouch for the workability of the
+Line 20        modifications listed here. I have personally performed them all myself on my
+Line 21        own machines (this is, after all, a chronicle of my own experiences, chopped
+Line 22        up under suitable headings for your convenience). With regards to the service
+Line 23        information, whilst I have described problems and the solution(s) I found,
+Line 24        keep in mind that this is rather like a doctor prescribing medication over
+Line 25        the telephone or from an encyclopaedia. What I mean by this statement is that
+Line 26        different problems may well cause the same symptoms; to take a trivial
+Line 27        example, if you turn your monitor on and nothing happens, perhaps the fuse is
+Line 28        blown, but on the other hand, perhaps it is not plugged in, or perhaps there
+Line 29        is a more sinister fault in the power supply section. For this reason, I
+Line 30        suggest you use the service information as a very vague guide ONLY. Remember;
+Line 31        it is very rare to find two machines which are exactly the same inside, and
+Line 32        so what I have found to be a suitable solution to a given fault may be
+Line 33        totally inappropriate to your situation.

@@ -1,0 +1,4 @@
+is          122 times
+in           85 times
+not          44 times
+start         4 times

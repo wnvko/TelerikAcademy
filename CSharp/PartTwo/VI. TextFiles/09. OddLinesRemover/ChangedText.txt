@@ -1,0 +1,368 @@
+      == == == From - lae@mullauna.cs.mu.oz.au (Lewin EDWARDS) == == ==
+   [Note : To people who saved my earlier post re: installation of the 1Mb
+                   installation procedure is included here]
+                  -=<* About This Document - Disclaimer *>=-
+This document is intended to provide electronics hobbyists with some useful
+intended to train or encourage novices to attempt service or modifications
+unqualified personnel to tamper with dangerous appliances such as monitors,
+high-tension rails, or other hazardous areas. Any such work carried out is
+damage to property or person which occurs as a result of attempting any of
+        Having said that, I can vouch for the workability of the
+own machines (this is, after all, a chronicle of my own experiences, chopped
+information, whilst I have described problems and the solution(s) I found,
+the telephone or from an encyclopaedia. What I mean by this statement is that
+example, if you turn your monitor on and nothing happens, perhaps the fuse is
+is a more sinister fault in the power supply section. For this reason, I
+it is very rare to find two machines which are exactly the same inside, and
+totally inappropriate to your situation.
+                      -=<* The Commodore Amiga 500 *>=-
+i. Serial Killer
+Problems with Amiga serial ports generally fall into three categories; problems
+and problems with the line level (caused by faulty line driver chips). The
+the CIA and Paula chips, so I advise exploring the line driver section of the
+        Faults in the line driver chips (MC1488 and MC1489, U38 and U39
+Commodore Amiga 500') are typified by either total loss of transmission, total
+RTS), you usually see that these lines are behaving normally (exactly why
+have a faulty CIA. Since the 1488 and 1489 only cost around A$1.00 each,
+investigate Paula. Unfortunately, they are not socketed so you will have to
+out, put in a couple of sockets to facilitate later repairs.
+time to look further. If you have suitable software, you can check whether the
+CIA, U8) or in the data lines (in which case you have a damaged Paula). If you
+make use of an old Amiga-tech wrinkle; exchange the CIA chips and see if your
+started out as U8; if the problem persists, then it is most likely a Paula
+
+------------------
+have the same make and model of internal floppy. It seems that Commodore
+weekly basis. Let's see.. three possible LED colors (red, green, yellow),
+Panasonic, Sony), two different styles of head connector (one film connector
+belt-drive head carriage mechanisms.. that makes 144 possible configurations
+of-the-large-chip" directions, and I can only state a couple of possible faults
+
+Probably caused by a defective odd CIA (U7). Try switching the CIAs over. Also
+Verify that the pads to which the switch assembly is connected have not flaked
+
+The head alignment is faulty. There is a method of adjusting it without
+and one of the X-Copy series of programs. The method is as follows :
+- Open your machine (or external drive). Remove the cover from the drive unit
+back). Locate the track zero sensor and loosen the screw which holds it in
+- You must now align the lower head. This can be accomplished by moving the
+you find a position in which the drive will read the lower side of the disk.
+stop it shifting. If you have any Lok-Tite, a drop of that on the screw is
+- You must now align the upper head. Loosen the two screws which hold it to
+idea of going over the floor with a metal detector looking for small springs).
+head. Now repeat the above trial-and-error process, tweaking the upper head
+cover and reassemble.
+I have successfully performed it on a number of Amiga and PC 3.5" drives. And
+
+--------------------
+Lock light will start blinking and the keyboard will lock up. This is caused
+noticed this fault when our school Amiga room (two rev. 5a A500's) acquired an
+this joystick would periodically jam the keyboard. If you have recently
+during boot fixes the problem. Otherwise, you can try the old "Atari Twist",
+equivalent to reseating the chips on the motherboard; if you have a spare
+
+------------------------
+-----------------------------
+part 8372a or 318069-02, is the relatively new Agnus which is capable of
+sampled music, screens, and other custom-chip data in memory simultaneously.
+in 16-color 640x512 (or 640x400, NTSC users) mode, without having to
+A-Max users, installing the new Agnus and configuring it to 1Mb chip-RAM mode
+it will make A-Max virtually 100% identical to a Mac Plus, memory-map-wise.
+
+the 8372a in most (nearly all Rev. 6a) A500's, without telling anybody. In
+connect an A501, it will still think it is "slow" [see below] RAM.
+iv-2. An Aside on Memory Speeds
+The Amiga has *three* types of RAM. Chip-RAM, Fast-RAM and "Slow"-RAM.
+the A501 expander, and the second 512K of RAM in A2000's) is NOT fast-RAM,
+accessed via Agnus, it is affected by buss contention in just the same way as
+chips and which is not faster than chip-RAM. Moving this RAM to $80000 (which
+all.
+iv-3. Compatibility
+To date (20-Oct-91, 18:11EST) I have personally tested at least 400 pieces of
+* Double Dragon II (Completely screwed up)
+* Impossible Mission II (This game requires memory at $C00000. It does not
+512K chip/512K slow mode. Lousy AllocAbs() programmer !)
+not play in-game music. Again, this can be rectified by switching into 512K
+machine, notably TechnoCop and R-Type, but this is of no real consequence.
+iv-4. Identifying the Version of your A500
+There are several versions of the A500 out there. I have only tried fitting
+ a. The Revision 5 board shipped until early 1989
+The way to identify your machine type is to check the expansion port which
+machine has a very fat strip (double width) at the back of the connector; the
+
+-----------------------------------------------
+to use the PAL mode, go to step 3.
+NTSC modes. When it is tied low (to ground), the machine boots in NTSC mode.
+PAL mode. On the Rev. 5 board, pin 41 is connected to ground by tracks on BOTH
+desoldering the socket. This means if you just plug in the new Agnus, you will
+this problem; I will detail here the one I undertook on my own Rev. 5 board. I
+If you only want to run in PAL mode, you can simply bend out pin 41 of the
+contact with Agnus. If you do this, proceed to step 3. Otherwise, get yourself
+stiff single-core wire). Solder wires to the switch :
+                            +---+
+                   +--------+-o |  When held as shown, UP=PAL, DOWN=NTSC.
+                   |        +---+
+                 \-/ <-- Fold the wire thru 180 degrees
+3. Insert the new Agnus. If installing the switch, you should now poke the
+that the bare copper side touches the pin on the chip and the insulated side
+find it necessary to bend out or remove entirely [Not recommended !] the pin
+
+locate JP2 (between 68000 and ROM). This consists of three pads. The center
+solder between the center and upper pads. Now locate the _EXRAM line coming
+motherboard parallel to the A501 connector). Cut this line. You have now
+
+pads. Locate the _EXRAM line from the A501 port (see step 4) and cut the
+the gap you cut in the _EXRAM track. Wire a DPDT switch as follows :
+                   +-----+  BACK VIEW OF SWITCH
+Center pad of JP2 -+-o o-+- To one side of the gap in the _EXRAM track
+                   +-----+
+
+------------------------------------------------
+not wish to use the PAL mode should go to step 3. When installing the new
+anti-clockwise from the orientation on the revision 5 board. For this reason,
+2. JP4 controls PAL/NTSC video mode. If you are in North America or Hong Kong
+used, this should be bridged by a track or a blob of solder. If you are in
+used, this jumper should be cut open. If you wish to install a switch, then
+3. Cut the track joining the center and upper pads of JP2, and the track
+and JP7a is just to the left of the A501 connector). If you wish to install a
+JP2 together. You have now completed the installation procedure.
+
+Upper pad of JP2 --+-o o |  When held as shown, UP=512K CHIP, DOWN=1M CHIP
+Lower pad of JP2 --+-o o-+-- Upper pad of JP7a
+You have now completed the installation procedure.
+v.  Is My Jumper On The Line ?
+Number  Rev5 ?  Rev6a ? Function
+JP1     yes     yes     Connects reset timer (NE555) to main reset
+JP3     yes     yes     Swaps _CAS of RAM banks (of use for test purposes)
+                        8372a Agnus : PAL/NTSC video mode select
+JP6     no      yes     7MHz clock on pin 7 of expansion connector
+JP7b    no      yes     CIA tick from VSYNC or pin 32 of A501 (default VSYNC)
+JP9     no      no      ??? A non-existent jumper. Future Rev. 7 ???
+JP10b   no      yes     Connects AUDOUT to pin 11 of RS232 port
+-------------------------------------------------------------------------------
+assignments. The 1000 *may* have similar settings but I cannot guarantee this.
+vi. Hol(e)y, Hol(e)y, Hol(e)y
+Owners of Rev. 6a A500's will notice that they only have 4 RAM chips as
+in between the RAM chips are empty sets of holes which look like something
+        Firstly, fear not - the reason you have a quarter the number of RAM
+four times as large as the 41256 1-bit x 256K chips used in the 5 and earlier
+uses these larger chips because they are slightly cheaper on a dollar-per-
+41256, and they will accept up to 2Mb. The new Series II A590's use the 44256
+        But, back to those extra holes. They are indeed designed to accept
+without having to buy an A501 or other expander (this is particularly useful
+1Mb chip-RAM). If you want to install your own RAM there, you should do as
+you have a solder-sniffer. Now look at those holes and you will see that they
+process covers all exposed copper areas with solder). You must clean this
+the other (or blowing the solder through; if you choose this method, make sure
+you have cleaned out all the holes, solder in the sockets. Now plug in four
+A501 (in Australia, the difference is roughly A$20).
+with no problems at all; however, I suspect that Commodore would recommend
+chips so that if you ever buy a series II A590, you can shift the chips over
+
+--------------------------------------------
+this modification is flaky at best and I cannot recommend it (having tried it
+memory to be mapped at $C00000 (the computer would only recognise it if I had
+interest to owners of the 1MB Agnus. (This failure to work as $C0 RAM may well
+        I will deliberately be vague because this is not a trivial
+not have enough knowledge to perform the mod.
+chips (for speed information, see the end of subsection vi. above). Bend the
+it is well clear of the other pins and easily accessible from the top of the
+of the existing RAM, making sure to install them in the same orientation as
+so you will have to content yourself with only soldering the corner pins.
+convenient take-off point of this signal). You should now have 1Mb of RAM. (If
+#32, of the A501 port. I had no success with this). This mod sounds all very
+secondhand A501 than to buy 41256 chips. In addition, due to the precarious
+room to solder all of the pins down), the mod is sensitive to shock; if you
+"possible but ill-advised" modification.
+viii. Double Trouble
+The hack to accelerate your Amiga to 14MHz has been published in countless
+involves removing the original 68000 from your Amiga and substituting a
+have "16MHz" stamped on them, but the SGS-Thompson clones do not). The clock
+input is connected to the base 28MHz clock. THIS MODIFICATION SHOULD BE
+will refuse to load because they use timing-dependent loaders.
+down-side to this modification is that some floppy drives will not handle the
+the high speed, you can either replace them or run a program called "DFDelay"
+swapping df1: for df0: - to do which you will need a Commodore df1:. The
+quieter than the new rubbishy things; if you have an A1010, you can be fairly
+        To perform the mod, remove your old 68000 and embed it in a perspex
+divide-by-2 counter. Connect the input of this to a convenient take-off point
+anywhere will do). Now bend out pin 15 of the new CPU and solder a wire to
+insulation from one end, and stick this end down pin 15 of the 68000 socket.
+wire in the socket. Now wire a SPDT switch as follows :
+                                            BACK VIEW
+   To output of divide-by-2 counter -+-o |  DOWN=14.28MHz
+  To wire in pin 15 of 68000 socket -+-o |
+
+pins, bend the remaining pins out, and stick the chip on top of one of the
+off the existing components rather than stringing yet another pair of wires
+        If you only have chip and/or slow memory (see subsubsection iv-2.)
+CPU-intensive operations; DMA rates will be unchanged). If you have true
+normal speed. Try placing a large perpective brush with anti-aliasing HIGH
+
+--------------------
+
+                1 0 9 8 7 6 5 4 3 2 1 4 3 2 1 0 9 8 7 6 5
+              /-------------------------------------------|
+         13 -|                                            |- 73
+         15 -|                                            |- 71
+         17 -|                                            |- 69
+         19 -|                                            |- 67
+         21 -|                                            |- 65
+         23 -|                 TOP  VIEW                  |- 63
+         25 -|                                            |- 61
+         27 -|                                            |- 59
+         29 -|                                            |- 57
+         31 -|                                            |- 55
+             |____________________________________________|
+                3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 5 5 5 5
+
+-------------------
+and plug the new one straight in. Note that to use the new video modes, you
+installing the new Denise, you also eliminate the annoying video glitches
+
+-------------------------
+advertise a tasteless soggy mess called Rice Bubbles].
+sometimes goes unaccountably blank after being switched on for a while.
+badly. It is caused by arcing of the EHT rail (around 14kV, from memory) to
+leave it for a couple of days (to allow capacitors to discharge), and then to
+        If it does not, however, sterner measures are called for. Open your
+hours. If you actively work against Murphy's Law by watching it from behind
+eventually be lucky enough to actually catch it in the act of arcing. Mark the
+has a very high dielectric constant and hence helps to prevent arcs).
+xii. Yo Ho Ho And A Packet Of Disks
+I sometimes describe A-Max as the only useful productivity tool for the Amiga;
+incomparably better than their Amiga counterparts. However, due to suppression
+a piece of dead plant, the future of this marvellous product looks slightly
+        There exists a software patch which will allow you to [illegally] run
+drive with the A-Max cartridge, you must have ROMs or EPROMs in the ROM
+sockets.
+NB: The above procedure is wholly illegal and the author is not explicitly
+ROMs (purchased before the great ROM drought). The above information is
+
+
+---------------------
+have invested in a 10MHz 286 motherboard with just enough RAM to get started,
+ancient XT casing, with an equally ancient 150W power supply. The total cost
+(not EISA cards, but then I have no EISA-buss machines anyway !), drives and
+and so on, I heartily recommend buying such a system, unless you are game
+
+------------------
+80286 rather than the Intel original, the CPU becomes extremely warm, too hot
+uses an AMD 80286-16 processor, and after 25 minutes of operation at turbo
+This kind of heating is undesirable in that it shortens the chip life and,
+shutdown. (The so-called XT-286's, XT-class machines with 80286 processors,
+property, you should consider attaching some sort of heatsink to the CPU. An
+ineffective for this task.
+some reason, the Intel line stays a lot cooler than the AMD line in general.
+iii. Sudden Death
+Scenario : You are working on an important document under an operating system
+to take your ten-minutes-per-hour anti-RSI coffee break. You return (having
+Your document is there on the screen, but the program has halted.
+subsection ii). It is also sometimes caused by dirty or otherwise imperfect
+than 2 years old, it may well be that your sockets are becoming dirty. (An
+all of which seemed to fail simultaneously. It turned out that the network
+sockets used on the motherboards, and occasionally the fileserver would start
+the faulty network card corrupted the transfer. Because of a "feature" in the
+for an ID sequence to indicate the machine the corrupted packet was destined
+the serviceperson (erm, me) puzzled for quite a few days).
+cards, clean the connectors with an ink eraser (pencil erasers are not
+can also push down on all the socketed chips to reseat them.
+Associates' SCAN (and if necessary CLEAN) programs to detect and kill these.
+iv. Overworked FPU's
+Due to the large price discrepancy between the different speed ratings of
+387 for your 33MHz 386. The chances are good that such an arrangement will in
+increased. In simple terms, it will get hot. For this reason, you should
+than plastic-bodied devices. And whenever possible, run in non-turbo mode.
+v. Hot-Rodding, Across the Universe
+It is relatively common knowledge nowadays that it is quite possible to
+naturally carries with it the same overheating problems mentioned in
+modification, there are a couple of pieces of information you may find useful:
+(make sure you know which you need) which is TWICE the frequency you want your
+- The crystal to replace is the one rated at TWICE the listed speed of your
+led astray by the I/O clock crystal(s) !
+the old crystal, so that if you ever have to sell your machine you can pop in
+        Note that I have never performed this type of enhancement to 80386
+from 12MHz to 16MHz.
+vi. Hacked Reset Switches
+Most 286/386/486 motherboards (all I have ever seen) come with a reset switch
+a number of postings to USENET describing how to add a pushbutton to the
+wisdom advise the installation of a pullup resistor "to make sure the line
+that when you turn on your machine, you only have a 50/50 chance that the
+designers already put in a pullup resistor, so there is absolutely no need to
+pin of the CPU and any convenient signal ground.
+vii. Tearing Your Hair
+Scenario : Your favorite machine, with SoundBlaster, LAN, VGA, Hercules, Voice
+start.
+display adaptor and the floppy controller (if this is integrated with the hard
+adding cards until the machine no longer starts up (assuming it starts up in
+by the number of people who leave all their cards in and just poke about with
+
+-------------------
+(I have both VGA and Hercules cards in my "useful" machines). However, not all
+conflicts). Below is a table of the allowable configurations; a star indicates
+
+                         MDA  .    *    *    *    *
+                         EGA  *    *    .    .    .
+                         VGA  *    .    .    .    .
+For the purposes of display mixing, an MDA (mono 80x25 text only) is identical
+VGA card as one of your displays (the most common configuration is VGA + MDA
+(If you load up the extended-mode-handler program supplied with most SVGA
+the possible pitfall with Hercules cards; most of them contain a parallel
+a parallel port mapped at this address, strange errors will crop up. (Also
+port is at 3BC, the Herc card will become LPT1: - this may necessitate some
+it to an unused port address.
+companies have released so-called "color Hercules" cards, which support both
+video card.
+ix. Expanding SVGA Cards
+Many people ask, "Can I expand my SVGA card ?". In most cases, the answer is
+RAM. The two examples of this which I have seen are Tseng Laboratories SVGA
+(again, mine came with 512K, but had sockets for the extra RAM). In such
+requisite RAM chips (usually 44256; however, some older cards will use 4464
+you spend the money on this, however, consider - do you really need the extra
+you to use ONE extra mode, viz. 1024x768x256. This mode is not really useful
+you will understand why !). Also, on monitors coarser than 0.28" dot pitch,
+displayed properly (the edges of the screen are compressed). Although my
+resolution (except when viewing very large GIFs, eg the 1152x900 pictures
+        A final note : I have yet to see a card which was supplied with 256K
+older (true VGA) chipsets incompatible with the newer de facto video
+
+---------------------------
+the best BIOS should be an original IBM chip; however, since most software is
+I haven't seen anything more recent than an original 5-slot PC, although I do
+with a "real" BIOS is not necessarily more compatible than a clone. So the
+386 BIOSs, and Award 386 BIOS, and I have used Phoenix 286 and Award 286 BIOS.
+it seems a lot more sensibly designed than the Award or Phoenix programs. For
+chipset parameters related to memory speed and setup, whilst the Award only
+the XCMOS settings and have managed to make your computer non-functional, if
+button, and the XCMOS settings will be set to default values, unlocking your
+no mono monitor, and I accidentally set the display type to "MONO", meaning
+order to get the machine usable again I had to open it and unplug the Hercules
+especially since the machine in question was the bottom (Murphy again !) in a
+        NB: Since the BIOS is resident on a standard EPROM, it is quite
+type. However, the astute will notice that there are *two* chips in the
+controller. I have never had occasion to try pirating BIOSs, but I doubt that
+another, because when you boot a slow AMI machine, you see a serial number of
+then another digit indicating the keyboard controller version.
+                         -=<* General Information *>=-
+i. Desoldering Small IC's (Less than 40 pins)
+Small chips can be fairly easily desoldered by inserting a suitable lever
+the rows of pins. When one end is substantially further out than the other,
+
+--------------------------------------------
+strongly recommend the use of an IC desoldering tool. If this is unavailable,
+"wet" the joints with a plentiful amount of fresh solder.
+iii. Desoldering Surface-Mounting Resistors and Capacitors
+Unfortunately, one really needs to apply heat to both ends of these components
+solder-sniffer to remove most of the solder, then heat up the entire component
+sure you have the correct value of replacement component; SM resistors and
+
+------------------------------------------
+has a chip like this which is damaged, replace the motherboard; it will
+Japan. Not to mention the hours you will waste soldering all those .025" pitch
+        (Note : For those who do not believe 160-pin IC's exist, please refer
+160-pin surface-mounting ULA).
+v. Old PCB's
+Printed circuit boards which have been in service for a while are MUCH more
+more recent boards. In the case of plated-thru-hole double-sided boards
+board when desoldering components. This necessitates much laborious flying
+device made in late 1979 (an old glass tty, in fact), and I would strongly

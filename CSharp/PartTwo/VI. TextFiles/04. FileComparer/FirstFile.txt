@@ -1,0 +1,18 @@
+      == == == From - lae@mullauna.cs.mu.oz.au (Lewin EDWARDS) == == ==
+    -= A DIY Guide to Computer Repair & Modification (PC and Amiga 500) =-
+who saved my earlier post re: installation of the 1Mb
+       Agnus, discard it and get a copy of this instead; the 1Mb Agnus
+                   installation procedure is included here]
+
+                  -=<* About This Document - Disclaimer *>=-
+
+is intended to provide electronics hobbyists with some useful
+notes the author has gathered whilst working on various systems. It is not
+intended to train or encourage novices to attempt service or modifications
+to expensive appliances. It is especially not intended to encourage
+nqualified personnel to tamper with dangerous appliances such as monitors,
+power supplies and other devices which contain vacuum tubes, live mains or
+high-tension rails, or other hazardous areas. Any such work carried out is
+one at the reader's own risk and the author accepts no reponsibility for
+damage to property or person which occurs as a result of attempting any of
+the procedures described herein.
