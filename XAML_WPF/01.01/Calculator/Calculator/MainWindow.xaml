@@ -1,0 +1,52 @@
+﻿<Window x:Class="Calculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Calculator" Height="330" Width="210">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock Name="Result" Background="White" FontSize="20" Grid.Column="4" Grid.Row="0" VerticalAlignment="Center" Margin="30,8,0,8" Text="{Binding Path=}" />
+        <Button Name="buttonMC" Height="30" Width="30" FontSize="15" Grid.Column="0" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center" >MC</Button>
+        <Button Name="buttonMR" Height="30" Width="30" FontSize="15" Grid.Column="1" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center" >MR</Button>
+        <Button Name="buttonMS" Height="30" Width="30" FontSize="15" Grid.Column="2" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center" >MS</Button>
+        <Button Name="buttonMPlus" Height="30" Width="30" FontSize="15" Grid.Column="3" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center" >M+</Button>
+        <Button Name="buttonMMinus" Height="30" Width="30" FontSize="15" Grid.Column="4" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center" >M-</Button>
+        <Button Name="buttonBackSpace" Height="30" Width="30" FontSize="15" Grid.Column="0" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center" >←</Button>
+        <Button Name="buttonCE" Height="30" Width="30" FontSize="15" Grid.Column="1" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center" >CE</Button>
+        <Button Name="buttonC" Height="30" Width="30" FontSize="15" Grid.Column="2" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center" >C</Button>
+        <Button Name="buttonPlusMinus" Height="30" Width="30" FontSize="15" Grid.Column="3" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center" >±</Button>
+        <Button Name="buttonSqrt" Height="30" Width="30" FontSize="15" Grid.Column="4" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center" >√</Button>
+        <Button Name="button7" Height="30" Width="30" FontSize="15" Grid.Column="0" Grid.Row="3" VerticalAlignment="Center" HorizontalAlignment="Center" >7</Button>
+        <Button Name="button8" Height="30" Width="30" FontSize="15" Grid.Column="1" Grid.Row="3" VerticalAlignment="Center" HorizontalAlignment="Center" >8</Button>
+        <Button Name="button9" Height="30" Width="30" FontSize="15" Grid.Column="2" Grid.Row="3" VerticalAlignment="Center" HorizontalAlignment="Center" >9</Button>
+        <Button Name="buttonDivide" Height="30" Width="30" FontSize="15" Grid.Column="3" Grid.Row="3" VerticalAlignment="Center" HorizontalAlignment="Center" >/</Button>
+        <Button Name="buttonPercent" Height="30" Width="30" FontSize="15" Grid.Column="4" Grid.Row="3" VerticalAlignment="Center" HorizontalAlignment="Center" >%</Button>
+        <Button Name="button4" Height="30" Width="30" FontSize="15" Grid.Column="0" Grid.Row="4" VerticalAlignment="Center" HorizontalAlignment="Center" >4</Button>
+        <Button Name="button5" Height="30" Width="30" FontSize="15" Grid.Column="1" Grid.Row="4" VerticalAlignment="Center" HorizontalAlignment="Center" >5</Button>
+        <Button Name="button6" Height="30" Width="30" FontSize="15" Grid.Column="2" Grid.Row="4" VerticalAlignment="Center" HorizontalAlignment="Center" >6</Button>
+        <Button Name="buttonMiltiply" Height="30" Width="30" FontSize="15" Grid.Column="3" Grid.Row="4" VerticalAlignment="Center" HorizontalAlignment="Center" >*</Button>
+        <Button Name="buttonReciprocal" Height="30" Width="30" FontSize="15" Grid.Column="4" Grid.Row="4" VerticalAlignment="Center" HorizontalAlignment="Center" >1/x</Button>
+        <Button Name="button1" Height="30" Width="30" FontSize="15" Grid.Column="0" Grid.Row="5" VerticalAlignment="Center" HorizontalAlignment="Center" Click="Button_Click" >1</Button>
+        <Button Name="button2" Height="30" Width="30" FontSize="15" Grid.Column="1" Grid.Row="5" VerticalAlignment="Center" HorizontalAlignment="Center" >2</Button>
+        <Button Name="button3" Height="30" Width="30" FontSize="15" Grid.Column="2" Grid.Row="5" VerticalAlignment="Center" HorizontalAlignment="Center" >3</Button>
+        <Button Name="buttonMinus" Height="30" Width="30" FontSize="15" Grid.Column="3" Grid.Row="5" VerticalAlignment="Center" HorizontalAlignment="Center" >-</Button>
+        <Button Name="buttonEqual" Width="30" Height="75" FontSize="15" Grid.RowSpan="2" Grid.Column="4" Grid.Row="5" VerticalAlignment="Center" HorizontalAlignment="Center" >=</Button>
+        <Button Name="button0" Height="30" Width="70" FontSize="15" Grid.ColumnSpan="2" Grid.Column="0" Grid.Row="6" VerticalAlignment="Center" HorizontalAlignment="Center" Click="button0_Click" >0</Button>
+        <Button Name="buttonDot" Height="30" Width="30" FontSize="15" Grid.Column="2" Grid.Row="6" VerticalAlignment="Center" HorizontalAlignment="Center" >,</Button>
+        <Button Name="buttonPlus" Height="30" Width="30" FontSize="15" Grid.Column="3" Grid.Row="6" VerticalAlignment="Center" HorizontalAlignment="Center" >+</Button>
+    </Grid>
+</Window>

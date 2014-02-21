@@ -1,0 +1,126 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Game
+{
+    /// <summary>
+    /// A class for the maze.
+    /// </summary>
+    class Maze
+    {
+        // variables
+        public const short maxScreenX = 140; // max width of the game screen 140
+        public const short maxScreenY = 60; // max height of the game screen 60
+        public const short freeLines = 10; // lines to hold the player's name, current score and lives
+        public const short maxMazeX = maxScreenX; // max width of the maze
+        public const short maxMazeY = maxScreenY - freeLines; // max height of the maze
+
+        public const char symbolDot = '.'; // dot to be eaten 
+        public const char symbolPacman = '0'; // pacman
+        public const char symbolGhostPink = 'P'; // ghost pink
+        public const char symbolGhostCyan = 'C'; // ghost cyan 
+        public const char symbolGhostRed = 'R'; // ghost red
+        public const char symbolGhostOrange = 'O'; // ghost orange
+        public const char symbolWall = '|'; // wall
+        public const char symbolEmplty = ' '; // space
+        public const char symbolPower = '@'; // power pellets
+
+        public static Icon pacmanIcon; 
+        public static Icon ghostPinkIcon;
+        public static Icon ghostRedIcon;
+        public static Icon ghostOrangeIcon;
+        public static Icon ghostCyanIcon;
+
+        private static readonly string[] files =  { "maze1.txt", "maze2.txt", "maze3.txt" }; // TODO Create level 2 and 3.
+
+        private static char[,] symbols;
+
+        public static char[,] Matrix
+        {
+            get { return symbols; }
+            set { symbols = value; }
+        }
+
+        /// <summary>
+        /// Reads a text to generate a maze.
+        /// </summary>
+        public static void CreateMaze() // TODO modify this to be one dimensional array?
+        {
+            StreamReader reader = new StreamReader(File.OpenRead(files[0]));  // TODO Create a random generator for a file
+            Matrix = new char[maxMazeY, maxMazeX]; 
+            for (short row = 0; row < Matrix.GetLength(0); row++)
+            {
+                string line = reader.ReadLine();
+
+                for (short col = 0; col < Matrix.GetLength(1); col++)
+                {
+                    Matrix[row, col] = line[col];
+                    switch (Matrix[row, col])
+                    {
+                        case symbolPacman:
+                            pacmanIcon = new Icon(col, row, symbolPacman);
+                            break;
+                        case symbolGhostCyan:
+                            ghostCyanIcon = new Icon(col, row, symbolGhostCyan);
+                            break;
+                        case symbolGhostOrange:
+                            ghostOrangeIcon = new Icon(col, row, symbolGhostOrange);
+                            break;
+                        case symbolGhostPink:
+                            ghostPinkIcon = new Icon(col, row, symbolGhostPink);
+                            break;
+                        case symbolGhostRed:
+                            ghostRedIcon = new Icon(col, row, symbolGhostRed);
+                            break;
+                    }
+                }
+            }
+
+            reader.Close();
+        }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="x"></param>
+        /// <param name="y"></param>
+        /// <returns></returns>
+        public Icon CheckSymbol(byte x, byte y){
+
+            Icon icon = new Icon();
+            icon.X = x;
+            icon.Y = y;
+            icon.Symbol = Matrix[y,x];
+            return icon;
+        }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="icon"></param>
+        public void SetSymbol(Icon icon)
+        {
+            Matrix[icon.Y, icon.X] = icon.Symbol;
+        }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="x"></param>
+        /// <param name="y"></param>
+        /// <returns></returns>
+        public bool IsWall(byte x, byte y)
+        {
+            bool isWall = false;
+            if (Matrix[y, x] == symbolWall)
+            {
+                isWall = true;
+            }
+            return isWall;
+        }
+    }
+}
