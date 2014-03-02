@@ -1,10 +1,10 @@
-﻿namespace TradeAndTravel
-{
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 
+namespace TradeAndTravel
+{
     public class InteractionManager
     {
         const int InitialPersonMoney = 100;
@@ -58,9 +58,6 @@
                     break;
                 case "travel":
                     HandleTravelInteraction(commandWords, actor);
-                    break;
-                case "gather":
-                    HandleGaterInteraction(commandWords[2], actor);
                     break;
                 default:
                     break;
@@ -215,28 +212,6 @@
             }
         }
 
-        protected void HandleGaterInteraction(string itemNameString, Person actor)
-        {
-            switch (actor.Location.LocationType)
-            {
-                case LocationType.Forest:
-                    {
-                        if (actor.)
-                        {
-                            
-                        }
-                        this.HandleItemCreation("wood", itemNameString, actor.Location.Name);
-                        break;
-                    }
-                case LocationType.Mine:
-                    {
-                        break;
-                    }
-                default:
-                    break;
-            }
-        }
-
         protected virtual void HandleLocationCreation(string locationTypeString, string locationName)
         {
             Location location = CreateLocation(locationTypeString, locationName);
@@ -276,15 +251,6 @@
                 case "armor":
                     item = new Armor(itemNameString, itemLocation);
                     break;
-                case "weapon":
-                    item = new Weapon(itemNameString, itemLocation);
-                    break;
-                case "wood":
-                    item = new Wood(itemNameString, itemLocation);
-                    break;
-                case "iron":
-                    item = new Iron(itemNameString, itemLocation);
-                    break;
                 default:
                     break;
             }
@@ -315,12 +281,6 @@
             {
                 case "town":
                     location = new Town(locationName);
-                    break;
-                case "mine":
-                    location = new Mine(locationName);
-                    break;
-                case "forest":
-                    location = new Forest(locationName);
                     break;
                 default:
                     break;

@@ -43,17 +43,17 @@
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
-  <Class Name="TradeAndTravel.Forest">
+  <Class Name="TradeAndTravel.Town">
     <Position X="7" Y="8.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Forest.cs</FileName>
+      <FileName>Town.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TradeAndTravel.Item">
     <Position X="9.25" Y="6.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAgAAAAAgA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAgA=</HashCode>
       <FileName>Item.cs</FileName>
     </TypeIdentifier>
     <ShowAsAssociation>
@@ -80,22 +80,21 @@
   <Class Name="TradeAndTravel.InteractionManager">
     <Position X="6.25" Y="12" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>ECBCggAAEAIBARAAAA0cAAgCEAAAQAACAAAABACAAAA=</HashCode>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAYAAAAAA=</HashCode>
       <FileName>InteractionManager.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="TradeAndTravel.Weapon">
+  <Class Name="TradeAndTravel.Armor">
     <Position X="9.25" Y="8.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
-      <FileName>Weapon.cs</FileName>
-      <NewMemberFileName>Armor.cs</NewMemberFileName>
+      <HashCode>AAAAAAAAgAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Armor.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Interface Name="TradeAndTravel.ITraveller" Collapsed="true">
     <Position X="19.5" Y="4.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ITraveller.cs</FileName>
     </TypeIdentifier>
   </Interface>

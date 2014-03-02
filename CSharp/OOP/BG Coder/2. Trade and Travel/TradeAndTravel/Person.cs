@@ -5,7 +5,7 @@ using System.Text;
 
 namespace TradeAndTravel
 {
-    public class Person : WorldObject, IGatheringLocation
+    public class Person : WorldObject
     {
         HashSet<Item> inventoryItems;
 
@@ -37,21 +37,6 @@ namespace TradeAndTravel
             }
 
             return items;
-        }
-
-        public ItemType GatheredType
-        {
-            get { throw new NotImplementedException(); }
-        }
-
-        public ItemType RequiredItem
-        {
-            get { throw new NotImplementedException(); }
-        }
-
-        public Item ProduceItem(string name)
-        {
-            throw new NotImplementedException();
         }
     }
 }
