@@ -1,24 +1,24 @@
 ﻿<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title></title>
+    <title>Personal Information</title>
 </head>
 <body>
     <div>
-        <form name="DataEntry" method="post" action="">
+        <form name="DataEntry" method="post" action="#">
             <div>
                 <label for="MemberName">Member name:</label>
-                <input type="text" name="MemberName" value="Enter your name" required="true" />
+                <input type="text" id="MemberName" value="Enter your name" required />
                 <strong>*req</strong>
             </div>
             <div>
                 <label for="email">Email:</label>
-                <input type="text" name="email" value="Enter your email" required="true" pattern="\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}\b" />
+                <input type="text" id="email" value="Enter your email" required pattern="\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}\b" />
                 <strong>*req</strong>
             </div>
             <div>
                 <label for="School">School:</label>
-                <input type="text" name="School" value="Enter your school" required="true" />
+                <input type="text" id="School" value="Enter your school" required />
                 <strong>*req</strong>
             </div>
             <div>
