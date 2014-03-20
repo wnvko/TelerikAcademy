@@ -1,0 +1,27 @@
+table, td, th{
+	padding: 0px;
+	border-spacing: 0px;
+}
+
+input{
+	font-size: 14px;
+	color: #00ffff;
+	height: 40px;
+	width: 40px;
+	background: #646464;
+	border: 1px solid #00ffff;
+}
+
+input[type=button]{
+	cursor: pointer;
+}
+
+#result{
+	height: 20px;
+	width:158px;
+	text-align: right;
+}
+
+#zero{
+	width: 80px;
+}

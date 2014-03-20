@@ -4,14 +4,7 @@
     <title>
 		Calculator
 	</title>
-		<style type="text/css">
-			table, td, th
-			{
-				border: 0px;
-				padding: 5px;
-				border-spacing: 1px;
-			}
-		</style>
+	<link rel="stylesheet" href="CSS/calcStyle.css" type="text/css" />
 </head>
 <body>
     <div>
@@ -25,7 +18,7 @@
                 </colgroup>
                 <tr>
                     <td colspan="4">
-                        <input type="text" value="result" />
+                        <input type="text" value="result" id="result" />
                     </td>
                 </tr>
                 <tr>
@@ -47,7 +40,7 @@
                     <td><input type="button" value="*" /></td>
                 </tr>
                 <tr>
-                    <td colspan="2"><input type="button" value="0" /></td>
+                    <td colspan="2"><input type="button" value="0" id="zero" /></td>
                     <td><input type="button" value="." /></td>
                     <td><input type="button" value="/" /></td>
                 </tr>
