@@ -1,0 +1,6 @@
+﻿table, th, td {
+    font-family: Arial;
+    border: 2px solid lightgray;
+    border-collapse: collapse;
+    padding: 5px;
+}   

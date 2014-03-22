@@ -1,0 +1,24 @@
+﻿table, td, th {
+    border-collapse: collapse;
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightblue;
+}
+
+thead, tfoot {
+    background-color: aliceblue;
+    text-align: left;
+}
+
+img {
+    height: 1.5em;
+    vertical-align:central;
+}
+
+#tableFooterLeft, #tableFooterCenter {
+    float: left;
+}
+
+#tableFooterRight {
+    float: right;
+}

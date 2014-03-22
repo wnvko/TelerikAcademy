@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Inventory</title>
+    <link rel="stylesheet" type="text/css" href="CSS/InventoryStyle.css" />
+</head>
+<body>
+    <div>
+        Drag a column header and drop it here to group by that column
+    </div>
+    <table>
+        <thead>
+            <tr>
+                <th>
+                    ProductID
+                </th>
+                <th>
+                    Product name
+                </th>
+                <th>
+                    Unite price
+                </th>
+                <th>
+                    Quantity per unit
+                </th>
+                <th>
+                    Units in stock
+                </th>
+                <th>
+                    Discontinued
+                </th>
+            </tr>
+            <tr>
+                <th>
+                    <form method="post" action="#" id="ProductID">
+                        <input type="text" />
+                    </form>
+                </th>
+                <th>
+                    <form method="post" action="#" id="ProductName">
+                        <input type="text" />
+                    </form>
+                </th>
+                <th>
+                    <form method="post" action="#" id="UnitePrice">
+                        <input type="text" />
+                        <img src="Pictures/stock_standard-filter.png" alt="Filter" />
+                    </form>
+                </th>
+                <th>
+                    <form method="post" action="#" id="QuantityPerUnit">
+                        <input type="text" />
+                    </form>
+                </th>
+                <th>
+                    <form method="post" action="#" id="UnitsInStock">
+                        <input type="text" />
+                        <img src="Pictures/stock_standard-filter.png" alt="Filter" />
+                    </form>
+                </th>
+                <th>
+                    <form method="post" action="#" id="Discountinued">
+                        <input type="checkbox" />
+                        <img src="Pictures/stock_standard-filter.png" alt="Filter" />
+                    </form>
+                </th>
+            </tr>
+        </thead>
+        <tfoot>
+            <tr>
+                <td colspan="6">
+                    <div id="tableFooterLeft">
+                        <form method="post" action="#">
+                            <input type="image" src="Pictures/resultset_first.png" alt="First"/>
+                            <input type="image" src="Pictures/resultset_previous.png" alt="Previous" />
+                            <a href="04.%20Inventory.html">1</a>
+                            <a href="04.%20Inventory.html">2</a>
+                            <a href="04.%20Inventory.html">3</a>
+                            <a href="04.%20Inventory.html">4</a>
+                            <a href="04.%20Inventory.html">5</a>
+                            <a href="04.%20Inventory.html">6</a>
+                            <a href="04.%20Inventory.html">7</a>
+                            <a href="04.%20Inventory.html">8</a>
+                            <a href="04.%20Inventory.html">9</a>
+                            <a href="04.%20Inventory.html">10</a>
+                            ...
+                            <input type="image" src="Pictures/resultset_next.png" alt="Next" />
+                            <input type="image" src="Pictures/resultset_last.png" alt="Last" />
+                        </form>
+                    </div>
+                    <div id="tableFooterCenter" >
+                        <form method="post" action="#">
+                            <label for="PageSize">Page size</label>
+                            <select id="PageSize">
+                                <option selected="selected">10</option>
+                                <option>50</option>
+                                <option>100</option>
+                            </select>
+                        </form>
+                    </div>
+                    <div id="tableFooterRight">
+                        335104 items in 33511 pages
+                    </div>
+                </td>
+            </tr>
+        </tfoot>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Chai</td>
+                <td>$18.00</td>
+                <td>10 boxes x 20 bags</td>
+                <td>39</td>
+                <td>
+                    <form method="post" action="#">
+                        <input type="checkbox" />
+                    </form>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

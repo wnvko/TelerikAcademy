@@ -1,0 +1,65 @@
+﻿table {
+    width: 555px;
+}
+
+table, th, td {
+    font-family: Arial;
+    border: 2px solid gray;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+input[type=text], input[type=radio], select, textarea {
+    border-left-width: 3px;
+    border-top-width: 3px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-style: inset;
+}
+
+input[type=submit], input[type=reset] {
+    border-width: 3px;
+    border-style: outset;
+}
+
+textarea {
+    resize: none;
+    width: 20em;
+    height: 4em;
+}
+
+td {
+    text-align: right;
+    font-weight: bold;
+    width: 100px;
+}
+
+    td + td {
+        text-align: left;
+    }
+
+        td + td + td {
+            text-align: right;
+            font-weight: bold;
+        }
+
+            td + td + td + td {
+                text-align: left;
+            }
+
+.bigTextBox {
+    width: 300px;
+}
+
+.smallTextBox {
+    width: 60px;
+}
+
+.xtraSmallTextBox {
+    width: 40px;
+}
+
+#tableFoot {
+    text-align: center;
+    background-color: aquamarine;
+}
