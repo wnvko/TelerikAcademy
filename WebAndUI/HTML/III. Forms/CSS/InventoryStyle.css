@@ -2,17 +2,43 @@
     border-collapse: collapse;
     border-style: solid;
     border-width: 1px;
-    border-color: lightblue;
+    border-color: grey;
+    font-weight: normal;
+    padding: 5px;
 }
 
+th {
+    width: 8%;
+}
+
+    th + th {
+        width: 28%;
+    }
+
+        th + th + th {
+            width: 18%;
+        }
+
+            th + th + th + th {
+                width: 17%;
+            }
+
+                th + th + th + th + th {
+                    width: 19%;
+                }
+
+                    th + th + th + th + th + th {
+                        width: 9%;
+                    }
+
 thead, tfoot {
-    background-color: aliceblue;
+    background-color: lightgrey;
     text-align: left;
 }
 
 img {
     height: 1.5em;
-    vertical-align:central;
+    vertical-align: central;
 }
 
 #tableFooterLeft, #tableFooterCenter {
@@ -21,4 +47,16 @@ img {
 
 #tableFooterRight {
     float: right;
+}
+
+input[type="text"] {
+    width: 40%;
+}
+
+input[type="checkbox"] {
+    -ms-transform: scale(1.5); /* IE */
+    -moz-transform: scale(1.5); /* FF */
+    -webkit-transform: scale(1.5); /* Safari and Chrome */
+    -o-transform: scale(1.5); /* Opera */
+    padding: 10px;
 }
