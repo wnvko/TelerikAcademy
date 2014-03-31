@@ -52,8 +52,8 @@ div:last-child {
 }
 
 #circle {
-    width: 8px;
-    height: 8px;
+    width: 12px;
+    height: 12px;
     background: #71B47A;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
