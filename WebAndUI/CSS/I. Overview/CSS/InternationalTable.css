@@ -1,0 +1,103 @@
+body, table, thead, tbody, tr, th, td
+{
+    margin: 0;
+    padding: 0;
+}
+
+table, thead, tbody, tr, td, th
+{
+	border-spacing: 0;
+}
+
+
+body
+{
+    background-color: #ECECD8;
+    font-family: "Arial", sans-serif;
+	font-size: 16px;
+}
+
+tr
+{
+	height: 2rem;
+}
+
+tr:nth-child(2n)
+{
+	background-color: white;
+}
+
+th
+{
+	font-weight: normal;
+	text-align: left;
+	background-color: #54b706;
+	color: white;
+	border-bottom-style: solid;
+	border-bottom-color: #555;
+	border-bottom-width: 1px;
+}
+
+td, th
+{
+	padding-left: 1%;
+}
+
+ th:nth-child(n+2), td:nth-child(n+2)
+ {
+	border-collapse: collapse;
+	border-left-style: solid;
+	border-left-color: #CAC6AF;
+	border-left-width: 1px;
+ }
+ 
+.ME:before
+{
+	content: "";
+	display: inline-block;
+	height: 1.2rem;
+	width: 2rem;
+	background-image: url("../PIC/ME.png");
+	background-size: 100%;
+	background-position: left;
+	background-repeat: no-repeat;
+}
+
+.DE:before
+{
+	content: "";
+	display: inline-block;
+	height: 1.2rem;
+	width: 2rem;
+	background-image: url("../PIC/DE.png");
+	background-size: 100%;
+	background-position: left;
+	background-repeat: no-repeat;
+}
+
+.UK:before
+{
+	content: "";
+	display: inline-block;
+	height: 1.2rem;
+	width: 2rem;
+	background-image: url("../PIC/UK.png");
+	background-size: 100%;
+	background-position: left;
+	background-repeat: no-repeat;
+}
+
+ #col_01, #col_03
+ {
+	width: 10rem;
+ }
+ 
+ #col_02
+ {
+	width: 8rem;
+ }
+ 
+ #col_04
+ {
+	width: 6rem;
+ }

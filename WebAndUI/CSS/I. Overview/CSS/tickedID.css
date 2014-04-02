@@ -1,59 +1,76 @@
-* {
+
+body, div, p
+{
     margin: 0;
     padding: 0;
 }
 
-body {
+
+body
+{
     background-color: #595959;
     font-family: "Arial", sans-serif;
-
+	font-size: 16px;
 }
 
-div {
-    display: inline;
-    font-weight: bold;
-    width: 30em;
-}
 
 p{
     display: inline-block;
 }
 
-div:first-child {
+div
+{
+    display: inline;
+    font-weight: bold;
+    width: 30rem;
+}
+
+div:first-child 
+{
     color: white;
     font-style: italic;
-    width: 10em;
+    width: 10rem;
     float: left;
-    border-width: 1px;
-    border-color: white;
-    margin-bottom: 1em;
 }
 
-div:last-child {
+.toRight10rem
+{
+	margin-left: 10rem;
+}
+
+.bottomMargin
+{
     display: block;
-    margin-bottom: 1em;
+    margin-bottom: 1rem;
 }
 
-.grey {
+.grey 
+{
     color: #AAA;
-    margin-bottom: 1em;
 }
 
-.red {
+
+.red 
+{
     color: red;
 }
 
-.orange {
+
+.orange 
+{
     color: #D86833;
 }
 
-.shitty {
+
+.shitty 
+{
     color: #E3D8A3;
 }
 
-#circle {
-    width: 12px;
-    height: 12px;
+#circle 
+{
+    width: 14px;
+    height: 14px;
     background: #71B47A;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
