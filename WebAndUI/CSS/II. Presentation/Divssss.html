@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>60 divssss...</title>
+        <link rel="stylesheet" href="css/Divssss.css">
+    </head>
+    <body>
+        <script>
+            var contentWithDivs = "";
+            var width = 4020;
+            
+            for (var i = 0; i < 60; i++ )
+            {
+                var height = (60 - i) * 2;
+                var radius = 60 - i;
+                contentWithDivs += "<div style='width: " + width + "px; height: " + height + "px; border: 1px solid red; border-radius: " + radius + "px; background-color: black; float: left;'>";
+                width = width - 8 - (59 - i) * 2;
+            }
+            
+            for(var i; i < 60; i++)
+            {
+                contentWithDivs += "</div>";
+            }
+            
+            document.write(contentWithDivs);
+        </script>
+    </body>
+</html>
