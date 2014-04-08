@@ -1,0 +1,126 @@
+body, div, img, nav, ul, li, a, table, tr, td, form, input, label, button {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.clearfix {
+    zoom: 1;
+}
+
+.clearfix:after, form:after, nav:after {
+    content: "";
+    display: block;
+    clear: both;
+    height: 0;
+}
+
+#MainBody{
+    width: 454px;
+    height: 432px;
+    font-family: "Arial" sans-serif;
+    font-size: 14px;
+    
+    background: #edf4fd; /* Old browsers */
+    background: -moz-linear-gradient(top,  #edf4fd 0%, #d9e4f1 23%, #dae5f2 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#edf4fd), color-stop(23%,#d9e4f1), color-stop(100%,#dae5f2)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #edf4fd 0%,#d9e4f1 23%,#dae5f2 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #edf4fd 0%,#d9e4f1 23%,#dae5f2 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #edf4fd 0%,#d9e4f1 23%,#dae5f2 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #edf4fd 0%,#d9e4f1 23%,#dae5f2 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#edf4fd', endColorstr='#dae5f2',GradientType=0 ); /* IE6-9 */
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.block {
+    display: block;
+}
+
+.border {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 2px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+    margin-left: 4px;
+    margin-right: 4px;
+    
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+li:hover:first-letter {
+    text-decoration: underline;
+}
+
+nav {
+    border-bottom: 1px;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+}
+
+form {
+    width: 54px;
+    height: 90px;
+    padding-right: 11px;
+    padding-left: 5px;
+    margin-left: 10px;
+    margin-top: 3px;
+    margin-bottom: 4px;
+    margin-right: 4px
+}
+
+input {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+button {
+    width: 33px;
+    height: 30px;
+    margin: 2px;
+}
+
+table {
+    margin: 4px;
+}
+
+td {
+    padding-left: 8px;
+    padding-right: 9px;
+}
+
+#Calculator {
+    margin: 8px;
+}
+
+#Result {
+    padding-top: 23px;
+    padding-bottom: 13px;
+    padding-right: 5px;
+    font-size: 1.4rem;
+    text-align: right;
+    margin: 10px;
+}
