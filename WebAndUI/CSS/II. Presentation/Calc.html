@@ -8,7 +8,8 @@
     <body>
         <div id="MainBody">
             <div name="MainBodyTitle" class="clearfix">
-                <img src="images/CalcIcon.png">
+                &nbsp;&nbsp;
+                <img src="images/CalcIcon.png" id="calc-pic">
                 Calculator
                 <img src="images/CaptionButtons.png" class="right clearfix">
             </div>
@@ -26,7 +27,7 @@
                         </li>
                     </ul>
                 </nav>
-                <div name="Main" class="center">
+                <div id="Main" class="center">
                     <div id="Result" class="border">
                     885445
                     </div>
@@ -73,34 +74,34 @@
                         <label for="Bin">Bin</label>
                     </form>
                     <div class="buttons-div">
-                        <button type="button" class="border">&nbsp;</button>
+                        <button type="button" class="border" disabled="disabled">&nbsp;</button>
                         <button type="button" class="border">Mod</button>
-                        <button type="button" class="border">A</button>
-                        <button type="button" class="border">MC</button>
-                        <button type="button" class="border">MR</button>
-                        <button type="button" class="border">MS</button>
-                        <button type="button" class="border">M+</button>
-                        <button type="button" class="border">M-</button>
+                        <button type="button" class="border" disabled="disabled">A</button>
+                        <button type="button" class="border" disabled="disabled">MC</button>
+                        <button type="button" class="border" disabled="disabled">MR</button>
+                        <button type="button" class="border" disabled="disabled">MS</button>
+                        <button type="button" class="border" disabled="disabled">M+</button>
+                        <button type="button" class="border" disabled="disabled">M-</button>
                     </div>
                     <div class="buttons-div">
                         <button type="button" class="border">(</button>
                         <button type="button" class="border">)</button>
-                        <button type="button" class="border">B</button>
+                        <button type="button" class="border" disabled="disabled">B</button>
                         <button type="button" class="border">-</button>
                         <button type="button" class="border">CE</button>
                         <button type="button" class="border">C</button>
-                        <button type="button" class="border">+/-</button>
-                        <button type="button" class="border">Sqrt</button>
+                        <button type="button" class="border">&#177;</button>
+                        <button type="button" class="border" disabled="disabled">&radic;</button>
                     </div>
                     <div class="buttons-div">
                         <button type="button" class="border">Rol</button>
                         <button type="button" class="border">Ror</button>
-                        <button type="button" class="border">C</button>
+                        <button type="button" class="border" disabled="disabled">C</button>
                         <button type="button" class="border">7</button>
                         <button type="button" class="border">8</button>
                         <button type="button" class="border">9</button>
                         <button type="button" class="border">/</button>
-                        <button type="button" class="border">%</button>
+                        <button type="button" class="border" disabled="disabled">%</button>
                     </div>
                     <form class="left border clearfix">
                         <input type="radio" name="WordLenght" value="Qword">Qword</input>
@@ -111,29 +112,29 @@
                     <div class="buttons-div">
                         <button type="button" class="border">Or</button>
                         <button type="button" class="border">Xor</button>
-                        <button type="button" class="border">D</button>
+                        <button type="button" class="border" disabled="disabled">D</button>
                         <button type="button" class="border">4</button>
                         <button type="button" class="border">5</button>
                         <button type="button" class="border">6</button>
                         <button type="button" class="border">*</button>
-                        <button type="button" class="border">1/x</button>
+                        <button type="button" class="border" disabled="disabled">1/x</button>
                     </div>
                     <div class="buttons-div">
                         <button type="button" class="border">Lsh</button>
                         <button type="button" class="border">Rsh</button>
-                        <button type="button" class="border">E</button>
+                        <button type="button" class="border" disabled="disabled">E</button>
                         <button type="button" class="border">1</button>
                         <button type="button" class="border">2</button>
                         <button type="button" class="border">3</button>
                         <button type="button" class="border">-</button>
-                        <button type="button" class="border">=</button>
+                        <button type="button" id="Equal" class="border">=</button>
                     </div>
-                    <div class="buttons-div">
+                    <div id="last-row" class="buttons-div">
                         <button type="button" class="border">Not</button>
                         <button type="button" class="border">And</button>
-                        <button type="button" class="border">F</button>
-                        <button type="button" class="border">0</button>
-                        <button type="button" class="border">.</button>
+                        <button type="button" class="border" disabled="disabled">F</button>
+                        <button type="button" id="Zero" class="border">0</button>
+                        <button type="button" class="border" disabled="disabled">.</button>
                         <button type="button" class="border">+</button>
                     </div>
                 </div>
