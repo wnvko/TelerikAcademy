@@ -7,11 +7,11 @@
     </head>
     <body>
         <div id="MainBody">
-            <div name="MainBodyTitle" class="clearfix">
+            <div id="MainBodyTitle" class="clearfix">
                 &nbsp;&nbsp;
-                <img src="images/CalcIcon.png" id="calc-pic">
+                <img src="images/CalcIcon.png" alt="Calc" id="calc-pic">
                 Calculator
-                <img src="images/CaptionButtons.png" class="right clearfix">
+                <img src="images/CaptionButtons.png" alt="Windows cption buttons" class="right clearfix">
             </div>
             <div id="Calculator" class="center border">
                 <nav>
@@ -31,7 +31,7 @@
                     <div id="Result" class="border">
                     885445
                     </div>
-                    <table name="Binary" class="center border">
+                    <table id="Binary" class="center border">
                         <tr>
                             <td>0000</td>
                             <td>0000</td>
@@ -65,13 +65,13 @@
                     </table>
                     <form class="left border clearfix">
                         <input type="radio" name="NumSystem" value="Hex" id="Hex"/>
-                        <label for="Hex">Hex</label>
+                        <label for="Hex">Hex</label><br/>
                         <input type="radio" name="NumSystem" value="Dec" id="Dec"/>
-                        <label for="Dec">Dec</label>
+                        <label for="Dec">Dec</label><br/>
                         <input type="radio" name="NumSystem" value="Oct" id="Oct"/>
-                        <label for="Oct">Oct</label>
+                        <label for="Oct">Oct</label><br/>
                         <input type="radio" name="NumSystem" value="Bin" id="Bin"/>
-                        <label for="Bin">Bin</label>
+                        <label for="Bin">Bin</label><br/>
                     </form>
                     <div class="buttons-div">
                         <button type="button" class="border" disabled="disabled">&nbsp;</button>
@@ -104,10 +104,14 @@
                         <button type="button" class="border" disabled="disabled">%</button>
                     </div>
                     <form class="left border clearfix">
-                        <input type="radio" name="WordLenght" value="Qword">Qword</input>
-                        <input type="radio" name="WordLenght" value="Dword">Dword</input>
-                        <input type="radio" name="WordLenght" value="Word">Word</input>
-                        <input type="radio" name="WordLenght" value="Byte">Byte</input>
+                        <input type="radio" name="WordLenght" value="Qword" id="Qword"/>
+                        <label for="Qword">Hex</label><br/>
+                        <input type="radio" name="WordLenght" value="Dword" id="Dword"/>
+                        <label for="Dword">Dword</label><br/>
+                        <input type="radio" name="WordLenght" value="Word" id="Word"/>
+                        <label for="Word">Word</label><br/>
+                        <input type="radio" name="WordLenght" value="Byte" id="Byte"/>
+                        <label for="Byte">Byte</label><br/>
                     </form>
                     <div class="buttons-div">
                         <button type="button" class="border">Or</button>
