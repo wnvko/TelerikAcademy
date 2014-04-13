@@ -1,0 +1,79 @@
+﻿body, div, form, img, label, input, button, section, h1, articel, p {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+#wraper {
+    width: 660px;
+    font-size: 15px;
+    color: #a1a1a1;
+    background-color: #3b3b3b;
+    border: 1px solid #806850;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+}
+
+form {
+    background: #3b3b3b; /* Old browsers */
+    background: -moz-linear-gradient(top, #3b3b3b 0%, #3b3b3b 39%, #373737 79%, #333333 92%, #2c2c2c 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#3b3b3b), color-stop(39%,#3b3b3b), color-stop(79%,#373737), color-stop(92%,#333333), color-stop(100%,#2c2c2c)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #3b3b3b 0%,#3b3b3b 39%,#373737 79%,#333333 92%,#2c2c2c 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #3b3b3b 0%,#3b3b3b 39%,#373737 79%,#333333 92%,#2c2c2c 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #3b3b3b 0%,#3b3b3b 39%,#373737 79%,#333333 92%,#2c2c2c 100%); /* IE10+ */
+    background: linear-gradient(to bottom, #3b3b3b 0%,#3b3b3b 39%,#373737 79%,#333333 92%,#2c2c2c 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b3b3b', endColorstr='#2c2c2c',GradientType=0 ); /* IE6-9 */
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    height: 50px;
+    position: relative;
+    padding: 18px 0 0 72px;
+    font-size: 1.3rem;
+    color: white;
+    font-family: serif;
+}
+
+img {
+    position: absolute;
+    left: 12px;
+    top: 10px;
+}
+
+input {
+    margin: 0 10px;
+    border: 1px solid #819db3;
+    height: 20px;
+    width: 125px;
+    padding: 0 15px;
+}
+
+button {
+    background-image: url(../PIC/GOButton.png);
+    width: 54px;
+    height: 26px;
+    border: 1px solid white;
+    border-radius: 10px;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+section {
+    padding: 10px 80px 10px 10px;
+}
+
+h1 {
+    color: #fdd51b;
+    font-size: 1.8rem;
+    margin: 20px 0;
+    font-family: serif;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+strong {
+    color: white;
+    font-weight: normal;
+}
