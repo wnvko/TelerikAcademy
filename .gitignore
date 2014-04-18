@@ -970,3 +970,388 @@ UpgradeLog*.XML
 /CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-II/OOPFundamentalPrinciplesPartTwo-HW/Shapes/Shape.cs
 /CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-II/OOPFundamentalPrinciplesPartTwo-HW/Shapes/ShapesDemo.cs
 /CSharp/OOP/X. Others/03. HW_Principi-na-OOP---chast-II/OOPFundamentalPrinciplesPartTwo-HW/Shapes/Triangle.cs
+/CSharp/OOP/BG Coder/2013.03.25 Evening/AcademyEcosystem-Skeleton/AcademyEcosystem.sln
+/CSharp/OOP/BG Coder/2013.03.25 Evening/AcademyEcosystem-Skeleton/AcademyEcosystemDiagram.cd
+/CSharp/OOP/BG Coder/2013.03.25 Evening/AcademyEcosystem-Skeleton/Animal.cs
+/CSharp/OOP/BG Coder/2013.03.25 Evening/AcademyEcosystem-Skeleton/AnimalState.cs
+/CSharp/OOP/BG Coder/2013.03.25 Evening/AcademyEcosystem-Skeleton/Bush.cs
+/CSharp/OOP/BG Coder/2013.03.25 Evening/AcademyEcosystem-Skeleton/Deer.cs
+/CSharp/OOP/BG Coder/2013.03.25 Evening/AcademyEcosystem-Skeleton/Engine.cs
+/CSharp/OOP/BG Coder/2013.03.25 Evening/AcademyEcosystem-Skeleton/ICarnivore.cs
+/CSharp/OOP/BG Coder/2013.03.25 Evening/AcademyEcosystem-Skeleton/IHerbivore.cs
+/CSharp/OOP/BG Coder/2013.03.25 Evening/AcademyEcosystem-Skeleton/IOrganism.cs
+/CSharp/OOP/BG Coder/2013.03.25 Evening/AcademyEcosystem-Skeleton/Organism.cs
+/CSharp/OOP/BG Coder/2013.03.25 Evening/AcademyEcosystem-Skeleton/Plant.cs
+/CSharp/OOP/BG Coder/2013.03.25 Evening/AcademyEcosystem-Skeleton/Point.cs
+/CSharp/OOP/BG Coder/2013.03.25 Evening/AcademyEcosystem-Skeleton/Program.cs
+/CSharp/OOP/BG Coder/2013.03.25 Evening/AcademyEcosystem-Skeleton/Tree.cs
+/CSharp/OOP/BG Coder/2013.03.25 Evening/HTMLRenderer-Skeleton/HTMLElement.cs
+/CSharp/OOP/BG Coder/2013.03.25 Evening/HTMLRenderer-Skeleton/HTMLRenderer-Skeleton.sln
+/CSharp/OOP/BG Coder/2013.03.25 Evening/HTMLRenderer-Skeleton/HTMLRenderer.cs
+/CSharp/OOP/BG Coder/2013.03.25 Evening/HTMLRenderer-Skeleton/Table.cs
+/CSharp/OOP/IX. TeamWork/ChaosRPG/Documentation/Thumbs.db
+/CSharp/OOP/IX. TeamWork/ChaosRPG/Documentation/UMLClassDiagram.jpg
+/CSharp/OOP/IX. TeamWork/ChaosRPG/ShooterRPG/Content/Thumbs.db
+/CSharp/OOP/X. Others/01. HW_Definirane-na-klasove---chast-I/homework1/homework1.sln
+/CSharp/OOP/X. Others/01. HW_Obshta-sistema-ot-tipove-v-.NET/CTS.NET/CTS.NET/01.Student/Faculties.cs
+/CSharp/OOP/X. Others/01. HW_Obshta-sistema-ot-tipove-v-.NET/CTS.NET/CTS.NET/01.Student/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/01. HW_Obshta-sistema-ot-tipove-v-.NET/CTS.NET/CTS.NET/01.Student/Specialities.cs
+/CSharp/OOP/X. Others/01. HW_Obshta-sistema-ot-tipove-v-.NET/CTS.NET/CTS.NET/01.Student/Student.cs
+/CSharp/OOP/X. Others/01. HW_Obshta-sistema-ot-tipove-v-.NET/CTS.NET/CTS.NET/01.Student/TestClass.cs
+/CSharp/OOP/X. Others/01. HW_Obshta-sistema-ot-tipove-v-.NET/CTS.NET/CTS.NET/01.Student/Universities.cs
+/CSharp/OOP/X. Others/01. HW_Obshta-sistema-ot-tipove-v-.NET/CTS.NET/CTS.NET/04.Person/Person.cs
+/CSharp/OOP/X. Others/01. HW_Obshta-sistema-ot-tipove-v-.NET/CTS.NET/CTS.NET/04.Person/PersonTest.cs
+/CSharp/OOP/X. Others/01. HW_Obshta-sistema-ot-tipove-v-.NET/CTS.NET/CTS.NET/04.Person/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/01. HW_Obshta-sistema-ot-tipove-v-.NET/CTS.NET/CTS.NET/05.BitArray/BitArray64.cs
+/CSharp/OOP/X. Others/01. HW_Obshta-sistema-ot-tipove-v-.NET/CTS.NET/CTS.NET/05.BitArray/Program.cs
+/CSharp/OOP/X. Others/01. HW_Obshta-sistema-ot-tipove-v-.NET/CTS.NET/CTS.NET/05.BitArray/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/01. HW_Obshta-sistema-ot-tipove-v-.NET/CTS.NET/CTS.NET/06.BinarySearchTree/BinarySearchTree.cs
+/CSharp/OOP/X. Others/01. HW_Obshta-sistema-ot-tipove-v-.NET/CTS.NET/CTS.NET/06.BinarySearchTree/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/01. HW_Obshta-sistema-ot-tipove-v-.NET/CTS.NET/CTS.NET/06.BinarySearchTree/TestCases.cs
+/CSharp/OOP/X. Others/01. HW_Obshta-sistema-ot-tipove-v-.NET/CTS.NET/CTS.NET/06.BinarySearchTree/TreeNode.cs
+/CSharp/OOP/X. Others/01. HW_Obshta-sistema-ot-tipove-v-.NET/CTS.NET/CTS.NET/CTS.NET.sln
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/March 2013 Var 1 zad 1/SoftwareAcademy-Skeleton - Try 2/Course.cs
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/March 2013 Var 1 zad 1/SoftwareAcademy-Skeleton - Try 2/LocalCourse.cs
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/March 2013 Var 1 zad 1/SoftwareAcademy-Skeleton - Try 2/OffsiteCourse.cs
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/March 2013 Var 1 zad 1/SoftwareAcademy-Skeleton - Try 2/SoftwareAcademy-Skeleton.sln
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/March 2013 Var 1 zad 1/SoftwareAcademy-Skeleton - Try 2/SoftwareAcademy.cs
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/March 2013 Var 1 zad 1/SoftwareAcademy-Skeleton - Try 2/Teacher.cs
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/March 2013 Var 1 zad 1/SoftwareAcademy-Skeleton - Try 2/test.000.001.in.txt
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/March 2013 Var 1 zad 1/SoftwareAcademy-Skeleton - Try 2/test.000.001.out.txt
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/Proletna akademiq 1 zad/WarMachines (2).sln
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/Proletna akademiq 1 zad/WarMachines/Engine/Command.cs
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/Proletna akademiq 1 zad/WarMachines/Engine/MachineFactory.cs
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/Proletna akademiq 1 zad/WarMachines/Engine/WarMachineEngine.cs
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/Proletna akademiq 1 zad/WarMachines/Interfaces/ICommand.cs
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/Proletna akademiq 1 zad/WarMachines/Interfaces/IFighter.cs
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/Proletna akademiq 1 zad/WarMachines/Interfaces/IMachine.cs
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/Proletna akademiq 1 zad/WarMachines/Interfaces/IMachineFactory.cs
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/Proletna akademiq 1 zad/WarMachines/Interfaces/IPilot.cs
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/Proletna akademiq 1 zad/WarMachines/Interfaces/ITank.cs
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/Proletna akademiq 1 zad/WarMachines/Interfaces/IWarMachineEngine.cs
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/Proletna akademiq 1 zad/WarMachines/Machines/Fighter.cs
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/Proletna akademiq 1 zad/WarMachines/Machines/Machine.cs
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/Proletna akademiq 1 zad/WarMachines/Machines/Pilot.cs
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/Proletna akademiq 1 zad/WarMachines/Machines/Tank.cs
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/Proletna akademiq 1 zad/WarMachines/Machines/Unit.cs
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/Proletna akademiq 1 zad/WarMachines/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/Proletna akademiq 1 zad/WarMachines/WarMachines.cd
+/CSharp/OOP/X. Others/01. HW_Podgotovka-za-izpit-po-OOP/Proletna akademiq 1 zad/WarMachines/WarMachinesProgram.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/02. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem.sln
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/02. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/AdvancedParticleOperator.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/02. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ChaoticParticle.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/02. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ChickenParticle.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/02. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ConsoleRenderer.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/02. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/DyingParticle.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/02. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/Engine.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/02. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/IMovingParticle.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/02. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/IParticle.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/02. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/IParticleOperator.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/02. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/IRenderable.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/02. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/IRenderer.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/02. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/MatrixCoords.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/02. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/Particle.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/02. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleAttractor.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/02. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleEmitter.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/02. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleRepeller.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/02. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystemDiagram.cd
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/02. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystemMain.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/02. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleUpdater.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/02. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/02. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/RepelParticleOperator.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/02. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/VariousLifetimeParticleEmitter.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem.sln
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/AdvancedParticleOperator.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/ChaoticParticle.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/ChickenParticle.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/ConsoleRenderer.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/DyingParticle.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/Engine.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/IMovingParticle.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/IParticle.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/IParticleOperator.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/IRenderable.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/IRenderer.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/MatrixCoords.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/Particle.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/ParticleAttractor.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/ParticleEmitter.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/ParticleRepeller.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/ParticleSystemDiagram.cd
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/ParticleSystemMain.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/ParticleUpdater.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/RepulsionParticleUpdater.cs
+/CSharp/OOP/X. Others/01. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/VariousLifetimeParticleEmitter.cs
+/CSharp/OOP/X. Others/02. HW_Definirane-na-klasove---chast-I/DefiningClasses/DefiningClasses.sln
+/CSharp/OOP/X. Others/02. HW_Definirane-na-klasove---chast-II/DefiningClasses2.sln
+/CSharp/OOP/X. Others/02. HW_Definirane-na-klasove---chast-II/GenericListExample/GenericList.cs
+/CSharp/OOP/X. Others/02. HW_Definirane-na-klasove---chast-II/GenericListExample/GenericListExample.cs
+/CSharp/OOP/X. Others/02. HW_Definirane-na-klasove---chast-II/GenericListExample/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02. HW_Definirane-na-klasove---chast-II/MatrixExample/Matrix.cs
+/CSharp/OOP/X. Others/02. HW_Definirane-na-klasove---chast-II/MatrixExample/MatrixExample.cs
+/CSharp/OOP/X. Others/02. HW_Definirane-na-klasove---chast-II/MatrixExample/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02. HW_Definirane-na-klasove---chast-II/PointStructure/DistanceBetweentTwoPoints.cs
+/CSharp/OOP/X. Others/02. HW_Definirane-na-klasove---chast-II/PointStructure/Path.cs
+/CSharp/OOP/X. Others/02. HW_Definirane-na-klasove---chast-II/PointStructure/PathStorage.cs
+/CSharp/OOP/X. Others/02. HW_Definirane-na-klasove---chast-II/PointStructure/Point3D.cs
+/CSharp/OOP/X. Others/02. HW_Definirane-na-klasove---chast-II/PointStructure/PointStructure.cs
+/CSharp/OOP/X. Others/02. HW_Definirane-na-klasove---chast-II/PointStructure/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02. HW_Definirane-na-klasove---chast-II/VersionAttributeExample/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02. HW_Definirane-na-klasove---chast-II/VersionAttributeExample/VersionAttribute.cs
+/CSharp/OOP/X. Others/02. HW_Definirane-na-klasove---chast-II/VersionAttributeExample/VersionAttributeExample.cs
+/CSharp/OOP/X. Others/02. HW_Obshta-sistema-ot-tipove-v-.NET/CommonTypeSystemHomework/BitArray/BitArray64.cs
+/CSharp/OOP/X. Others/02. HW_Obshta-sistema-ot-tipove-v-.NET/CommonTypeSystemHomework/BitArray/BitArrayDEMO.cs
+/CSharp/OOP/X. Others/02. HW_Obshta-sistema-ot-tipove-v-.NET/CommonTypeSystemHomework/BitArray/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02. HW_Obshta-sistema-ot-tipove-v-.NET/CommonTypeSystemHomework/CommonTypeSystemHomework.sln
+/CSharp/OOP/X. Others/02. HW_Obshta-sistema-ot-tipove-v-.NET/CommonTypeSystemHomework/Person/Person.cs
+/CSharp/OOP/X. Others/02. HW_Obshta-sistema-ot-tipove-v-.NET/CommonTypeSystemHomework/Person/PersonDEMO.cs
+/CSharp/OOP/X. Others/02. HW_Obshta-sistema-ot-tipove-v-.NET/CommonTypeSystemHomework/Person/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02. HW_Obshta-sistema-ot-tipove-v-.NET/CommonTypeSystemHomework/StudenOperations/EnumFaculties.cs
+/CSharp/OOP/X. Others/02. HW_Obshta-sistema-ot-tipove-v-.NET/CommonTypeSystemHomework/StudenOperations/EnumSpecialties.cs
+/CSharp/OOP/X. Others/02. HW_Obshta-sistema-ot-tipove-v-.NET/CommonTypeSystemHomework/StudenOperations/EnumUniversities.cs
+/CSharp/OOP/X. Others/02. HW_Obshta-sistema-ot-tipove-v-.NET/CommonTypeSystemHomework/StudenOperations/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02. HW_Obshta-sistema-ot-tipove-v-.NET/CommonTypeSystemHomework/StudenOperations/StudenOperationsDEMO.cs
+/CSharp/OOP/X. Others/02. HW_Obshta-sistema-ot-tipove-v-.NET/CommonTypeSystemHomework/StudenOperations/Student.cs
+/CSharp/OOP/X. Others/02. HW_Podgotovka-za-izpit-po-OOP/WarMachines.sln
+/CSharp/OOP/X. Others/02. HW_Podgotovka-za-izpit-po-OOP/WarMachines/Engine/Command.cs
+/CSharp/OOP/X. Others/02. HW_Podgotovka-za-izpit-po-OOP/WarMachines/Engine/MachineFactory.cs
+/CSharp/OOP/X. Others/02. HW_Podgotovka-za-izpit-po-OOP/WarMachines/Engine/WarMachineEngine.cs
+/CSharp/OOP/X. Others/02. HW_Podgotovka-za-izpit-po-OOP/WarMachines/Interfaces/ICommand.cs
+/CSharp/OOP/X. Others/02. HW_Podgotovka-za-izpit-po-OOP/WarMachines/Interfaces/IFighter.cs
+/CSharp/OOP/X. Others/02. HW_Podgotovka-za-izpit-po-OOP/WarMachines/Interfaces/IMachine.cs
+/CSharp/OOP/X. Others/02. HW_Podgotovka-za-izpit-po-OOP/WarMachines/Interfaces/IMachineFactory.cs
+/CSharp/OOP/X. Others/02. HW_Podgotovka-za-izpit-po-OOP/WarMachines/Interfaces/IPilot.cs
+/CSharp/OOP/X. Others/02. HW_Podgotovka-za-izpit-po-OOP/WarMachines/Interfaces/ITank.cs
+/CSharp/OOP/X. Others/02. HW_Podgotovka-za-izpit-po-OOP/WarMachines/Interfaces/IWarMachineEngine.cs
+/CSharp/OOP/X. Others/02. HW_Podgotovka-za-izpit-po-OOP/WarMachines/Machines/Fighter.cs
+/CSharp/OOP/X. Others/02. HW_Podgotovka-za-izpit-po-OOP/WarMachines/Machines/Machine.cs
+/CSharp/OOP/X. Others/02. HW_Podgotovka-za-izpit-po-OOP/WarMachines/Machines/Tank.cs
+/CSharp/OOP/X. Others/02. HW_Podgotovka-za-izpit-po-OOP/WarMachines/Pilot.cs
+/CSharp/OOP/X. Others/02. HW_Podgotovka-za-izpit-po-OOP/WarMachines/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02. HW_Podgotovka-za-izpit-po-OOP/WarMachines/WarMachinesProgram.cs
+/CSharp/OOP/X. Others/02. HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/01.StringBuilderExtension/Program.cs
+/CSharp/OOP/X. Others/02. HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/01.StringBuilderExtension/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02. HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/02.IEnumerableExtension/Program.cs
+/CSharp/OOP/X. Others/02. HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/02.IEnumerableExtension/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02. HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/03.ExtensionMDelegatesLambdaLINQ.sln
+/CSharp/OOP/X. Others/02. HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/03.StudentsNames/Program.cs
+/CSharp/OOP/X. Others/02. HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/03.StudentsNames/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02. HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/03.StudentsNames/Student.cs
+/CSharp/OOP/X. Others/02. HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/04.AgeOfStudents/Program.cs
+/CSharp/OOP/X. Others/02. HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/04.AgeOfStudents/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02. HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/04.AgeOfStudents/Student.cs
+/CSharp/OOP/X. Others/02. HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/05.SortByFirstThenLastName/Program.cs
+/CSharp/OOP/X. Others/02. HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/05.SortByFirstThenLastName/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02. HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/05.SortByFirstThenLastName/Student.cs
+/CSharp/OOP/X. Others/02. HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/06.IntsDivisableBySevenAndFive/Program.cs
+/CSharp/OOP/X. Others/02. HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/06.IntsDivisableBySevenAndFive/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02. HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/07.ClassTimes/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02. HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/07.ClassTimes/Timer.cs
+/CSharp/OOP/X. Others/02. HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/09-19.StudentsInfo/Program.cs
+/CSharp/OOP/X. Others/02. HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/09-19.StudentsInfo/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/02. HW_Razshiryavashti-metodi-delegati-lambda-dy/03.ExtensionMDelegatesLambdaLINQ/09-19.StudentsInfo/Student.cs
+/CSharp/OOP/X. Others/03. HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Attribute/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/03. HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Attribute/SampleClass.cs
+/CSharp/OOP/X. Others/03. HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Attribute/VersionAttribute.cs
+/CSharp/OOP/X. Others/03. HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/DefiningClassesPartTwo.sln
+/CSharp/OOP/X. Others/03. HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Generic/GenericList.cs
+/CSharp/OOP/X. Others/03. HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Generic/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/03. HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Generic/TestList.cs
+/CSharp/OOP/X. Others/03. HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Matrix/Matrix.cs
+/CSharp/OOP/X. Others/03. HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Matrix/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/03. HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Matrix/TestMatrix.cs
+/CSharp/OOP/X. Others/03. HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Point3D/ClassDiagram1.cd
+/CSharp/OOP/X. Others/03. HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Point3D/Distance.cs
+/CSharp/OOP/X. Others/03. HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Point3D/PPathFile.txt
+/CSharp/OOP/X. Others/03. HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Point3D/Path.cs
+/CSharp/OOP/X. Others/03. HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Point3D/PathFile.txt
+/CSharp/OOP/X. Others/03. HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Point3D/PathStorage.cs
+/CSharp/OOP/X. Others/03. HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Point3D/Point3D.cs
+/CSharp/OOP/X. Others/03. HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Point3D/Point3DTest.cs
+/CSharp/OOP/X. Others/03. HW_Definirane-na-klasove---chast-II/DefiningClassesPartTwo/Point3D/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/03. HW_Obshta-sistema-ot-tipove-v-.NET/06 Common Type System.sln
+/CSharp/OOP/X. Others/03. HW_Obshta-sistema-ot-tipove-v-.NET/ProblemBitArray64/BitArray64.cs
+/CSharp/OOP/X. Others/03. HW_Obshta-sistema-ot-tipove-v-.NET/ProblemBitArray64/MainTest.cs
+/CSharp/OOP/X. Others/03. HW_Obshta-sistema-ot-tipove-v-.NET/ProblemBitArray64/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/03. HW_Obshta-sistema-ot-tipove-v-.NET/ProblemStudent/Faculty.cs
+/CSharp/OOP/X. Others/03. HW_Obshta-sistema-ot-tipove-v-.NET/ProblemStudent/MainTest.cs
+/CSharp/OOP/X. Others/03. HW_Obshta-sistema-ot-tipove-v-.NET/ProblemStudent/Person.cs
+/CSharp/OOP/X. Others/03. HW_Obshta-sistema-ot-tipove-v-.NET/ProblemStudent/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/03. HW_Obshta-sistema-ot-tipove-v-.NET/ProblemStudent/Specialty.cs
+/CSharp/OOP/X. Others/03. HW_Obshta-sistema-ot-tipove-v-.NET/ProblemStudent/Student.cs
+/CSharp/OOP/X. Others/03. HW_Obshta-sistema-ot-tipove-v-.NET/ProblemStudent/University.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel-Skeleton.sln
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/Armor.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/Engine.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/Forest.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/GatheringLocation.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/IGatheringLocation.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/IShopkeeper.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/ITraveller.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/InteractionManager.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/InteractionManagerExtend.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/Iron.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/Item.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/ItemType.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/Location.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/LocationType.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/Merchant.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/Mine.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/Person.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/Program.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/Shopkeeper.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/Town.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/TradeAndTravel.sln
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/TradeAndTravelDiagram.cd
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/Traveller.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/Weapon.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/Wood.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/TradeAndTravel/TradeAndTravel-Skeleton/TradeAndTravel/WorldObject.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/WarMAchines/OOP/WarMachines-Skeleton/WarMachines.sln
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/WarMAchines/OOP/WarMachines-Skeleton/WarMachines/Class1.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/WarMAchines/OOP/WarMachines-Skeleton/WarMachines/Engine/Command.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/WarMAchines/OOP/WarMachines-Skeleton/WarMachines/Engine/MachineFactory.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/WarMAchines/OOP/WarMachines-Skeleton/WarMachines/Engine/WarMachineEngine.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/WarMAchines/OOP/WarMachines-Skeleton/WarMachines/Interfaces/ICommand.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/WarMAchines/OOP/WarMachines-Skeleton/WarMachines/Interfaces/IFighter.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/WarMAchines/OOP/WarMachines-Skeleton/WarMachines/Interfaces/IMachine.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/WarMAchines/OOP/WarMachines-Skeleton/WarMachines/Interfaces/IMachineFactory.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/WarMAchines/OOP/WarMachines-Skeleton/WarMachines/Interfaces/IPilot.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/WarMAchines/OOP/WarMachines-Skeleton/WarMachines/Interfaces/ITank.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/WarMAchines/OOP/WarMachines-Skeleton/WarMachines/Interfaces/IWarMachineEngine.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/WarMAchines/OOP/WarMachines-Skeleton/WarMachines/Machines/DeleteMe.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/WarMAchines/OOP/WarMachines-Skeleton/WarMachines/Machines/Fighter.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/WarMAchines/OOP/WarMachines-Skeleton/WarMachines/Machines/Machine.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/WarMAchines/OOP/WarMachines-Skeleton/WarMachines/Machines/Pilot.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/WarMAchines/OOP/WarMachines-Skeleton/WarMachines/Machines/Tank.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/WarMAchines/OOP/WarMachines-Skeleton/WarMachines/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/WarMAchines/OOP/WarMachines-Skeleton/WarMachines/WarMachinesProgram.cs
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/WarMAchines/OOP/test.000.001.in.txt
+/CSharp/OOP/X. Others/03. HW_Podgotovka-za-izpit-po-OOP/WarMAchines/OOP/test.000.001.out.txt
+/CSharp/OOP/X. Others/03. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem.sln
+/CSharp/OOP/X. Others/03. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/AdvancedParticleOperator.cs
+/CSharp/OOP/X. Others/03. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/ChaoticParticle.cs
+/CSharp/OOP/X. Others/03. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/ChickenParticle.cs
+/CSharp/OOP/X. Others/03. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/ConsoleRenderer.cs
+/CSharp/OOP/X. Others/03. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/DyingParticle.cs
+/CSharp/OOP/X. Others/03. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/Engine.cs
+/CSharp/OOP/X. Others/03. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/IMovingParticle.cs
+/CSharp/OOP/X. Others/03. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/IParticle.cs
+/CSharp/OOP/X. Others/03. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/IParticleOperator.cs
+/CSharp/OOP/X. Others/03. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/IRenderable.cs
+/CSharp/OOP/X. Others/03. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/IRenderer.cs
+/CSharp/OOP/X. Others/03. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/MatrixCoords.cs
+/CSharp/OOP/X. Others/03. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/Particle.cs
+/CSharp/OOP/X. Others/03. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/ParticleAttractor.cs
+/CSharp/OOP/X. Others/03. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/ParticleEmitter.cs
+/CSharp/OOP/X. Others/03. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/ParticleRepeller .cs
+/CSharp/OOP/X. Others/03. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/ParticleSystemDiagram.cd
+/CSharp/OOP/X. Others/03. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/ParticleSystemMain.cs
+/CSharp/OOP/X. Others/03. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/ParticleUpdater.cs
+/CSharp/OOP/X. Others/03. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/Properties/AssemblyInfo.cs
+/CSharp/OOP/X. Others/03. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/RepulsionParticleUpdater.cs
+/CSharp/OOP/X. Others/03. HW_Prakticheska-rabotilnica-po-OOP/ParticleSystem/ParticleSystem/VariousLifetimeParticleEmitter.cs
+/WebAndUI/CSS/V. Others/01.1 HW_CSS---selektori-stilove-klasove/01.TicketLayout/Properties/AssemblyInfo.cs
+/WebAndUI/CSS/V. Others/01.1 HW_CSS---selektori-stilove-klasove/01.TicketLayout/css/styles.css
+/WebAndUI/CSS/V. Others/01.1 HW_CSS---selektori-stilove-klasove/01.TicketLayout/index.html
+/WebAndUI/CSS/V. Others/01.1 HW_CSS---selektori-stilove-klasove/02.ContactDetails/Properties/AssemblyInfo.cs
+/WebAndUI/CSS/V. Others/01.1 HW_CSS---selektori-stilove-klasove/02.ContactDetails/css/styles.css
+/WebAndUI/CSS/V. Others/01.1 HW_CSS---selektori-stilove-klasove/02.ContactDetails/images/Germany-Flag-icon.png
+/WebAndUI/CSS/V. Others/01.1 HW_CSS---selektori-stilove-klasove/02.ContactDetails/images/Mexico-Flag-icon.png
+/WebAndUI/CSS/V. Others/01.1 HW_CSS---selektori-stilove-klasove/02.ContactDetails/images/United-Kingdom-flag-icon.png
+/WebAndUI/CSS/V. Others/01.1 HW_CSS---selektori-stilove-klasove/02.ContactDetails/images/de.png
+/WebAndUI/CSS/V. Others/01.1 HW_CSS---selektori-stilove-klasove/02.ContactDetails/images/mx.png
+/WebAndUI/CSS/V. Others/01.1 HW_CSS---selektori-stilove-klasove/02.ContactDetails/images/uk.png
+/WebAndUI/CSS/V. Others/01.1 HW_CSS---selektori-stilove-klasove/02.ContactDetails/index.html
+/WebAndUI/CSS/V. Others/01.1 HW_CSS---selektori-stilove-klasove/03.WebPage/Properties/AssemblyInfo.cs
+/WebAndUI/CSS/V. Others/01.1 HW_CSS---selektori-stilove-klasove/03.WebPage/css/styles.css
+/WebAndUI/CSS/V. Others/01.1 HW_CSS---selektori-stilove-klasove/03.WebPage/images/homework-3.png
+/WebAndUI/CSS/V. Others/01.1 HW_CSS---selektori-stilove-klasove/03.WebPage/index.html
+/WebAndUI/CSS/V. Others/01.1 HW_CSS---selektori-stilove-klasove/Overview.sln
+/WebAndUI/HTML/V. Others/01. HW_Formi-v-HTML/HTML_forms_frames_HW/Web-form-temlpate.html
+/WebAndUI/HTML/V. Others/01. HW_Formi-v-HTML/HTML_forms_frames_HW/computers.html
+/WebAndUI/HTML/V. Others/01. HW_Formi-v-HTML/HTML_forms_frames_HW/images/bg-tile.png
+/WebAndUI/HTML/V. Others/01. HW_Formi-v-HTML/HTML_forms_frames_HW/images/left.png
+/WebAndUI/HTML/V. Others/01. HW_Formi-v-HTML/HTML_forms_frames_HW/images/next.png
+/WebAndUI/HTML/V. Others/01. HW_Formi-v-HTML/HTML_forms_frames_HW/images/pc.png
+/WebAndUI/HTML/V. Others/01. HW_Formi-v-HTML/HTML_forms_frames_HW/images/previews.png
+/WebAndUI/HTML/V. Others/01. HW_Formi-v-HTML/HTML_forms_frames_HW/images/right.png
+/WebAndUI/HTML/V. Others/01. HW_Formi-v-HTML/HTML_forms_frames_HW/images/sort.png
+/WebAndUI/HTML/V. Others/01. HW_Formi-v-HTML/HTML_forms_frames_HW/style/comp.css
+/WebAndUI/HTML/V. Others/01. HW_Formi-v-HTML/HTML_forms_frames_HW/style/form.css
+/WebAndUI/HTML/V. Others/01. HW_Formi-v-HTML/HTML_forms_frames_HW/style/style.css
+/WebAndUI/HTML/V. Others/01. HW_Formi-v-HTML/HTML_forms_frames_HW/style/tables_forms.css
+/WebAndUI/HTML/V. Others/01. HW_Formi-v-HTML/HTML_forms_frames_HW/table-second.html
+/WebAndUI/HTML/V. Others/01. HW_Formi-v-HTML/HTML_forms_frames_HW/tables_and_forms.html
+/WebAndUI/HTML/V. Others/01. HW_Semantichen-HTML/SemanticWeb/LinkedIn/Properties/AssemblyInfo.cs
+/WebAndUI/HTML/V. Others/01. HW_Semantichen-HTML/SemanticWeb/LinkedIn/index.html
+/WebAndUI/HTML/V. Others/01. HW_Semantichen-HTML/SemanticWeb/Refactoring/Properties/AssemblyInfo.cs
+/WebAndUI/HTML/V. Others/01. HW_Semantichen-HTML/SemanticWeb/Refactoring/index.html
+/WebAndUI/HTML/V. Others/01. HW_Semantichen-HTML/SemanticWeb/Scores/Properties/AssemblyInfo.cs
+/WebAndUI/HTML/V. Others/01. HW_Semantichen-HTML/SemanticWeb/Scores/index.html
+/WebAndUI/HTML/V. Others/01. HW_Semantichen-HTML/SemanticWeb/SemanticWeb.sln
+/WebAndUI/HTML/V. Others/01. HW_Tablici-v-HTML/2. HTML таблици/Homework-1/Thumbs.db
+/WebAndUI/HTML/V. Others/01. HW_Tablici-v-HTML/2. HTML таблици/Homework-1/fruit.jpg
+/WebAndUI/HTML/V. Others/01. HW_Tablici-v-HTML/2. HTML таблици/Homework-1/index.html
+/WebAndUI/HTML/V. Others/01. HW_Tablici-v-HTML/2. HTML таблици/Homework-2/index.html
+/WebAndUI/HTML/V. Others/01. HW_Tablici-v-HTML/2. HTML таблици/Homework-3/Thumbs.db
+/WebAndUI/HTML/V. Others/01. HW_Tablici-v-HTML/2. HTML таблици/Homework-3/index.html
+/WebAndUI/HTML/V. Others/01. HW_Tablici-v-HTML/2. HTML таблици/Homework-3/submitbutton.png
+/WebAndUI/HTML/V. Others/01. HW_Tablici-v-HTML/2. HTML таблици/Homework-4/index.html
+/WebAndUI/HTML/V. Others/01. HW_Vuvedenie-v-HTML/List.html
+/WebAndUI/HTML/V. Others/01. HW_Vuvedenie-v-HTML/doge.jpeg
+/WebAndUI/HTML/V. Others/01. HW_Vuvedenie-v-HTML/friends.html
+/WebAndUI/HTML/V. Others/01. HW_Vuvedenie-v-HTML/home.html
+/WebAndUI/HTML/V. Others/01. HW_Vuvedenie-v-HTML/homework1.html
+/WebAndUI/HTML/V. Others/01. HW_Vuvedenie-v-HTML/profile.html
+/WebAndUI/HTML/V. Others/02. HW_Formi-v-HTML/HTML - HW3/FakeGridView.html
+/WebAndUI/HTML/V. Others/02. HW_Formi-v-HTML/HTML - HW3/LaptopShop.html
+/WebAndUI/HTML/V. Others/02. HW_Formi-v-HTML/HTML - HW3/RegistrationForm.html
+/WebAndUI/HTML/V. Others/02. HW_Formi-v-HTML/HTML - HW3/UniversityMarks.html
+/WebAndUI/HTML/V. Others/02. HW_Formi-v-HTML/HTML - HW3/img/back.jpg
+/WebAndUI/HTML/V. Others/02. HW_Formi-v-HTML/HTML - HW3/img/back10.jpg
+/WebAndUI/HTML/V. Others/02. HW_Formi-v-HTML/HTML - HW3/img/background.jpg
+/WebAndUI/HTML/V. Others/02. HW_Formi-v-HTML/HTML - HW3/img/filter.jpg
+/WebAndUI/HTML/V. Others/02. HW_Formi-v-HTML/HTML - HW3/img/forward.jpg
+/WebAndUI/HTML/V. Others/02. HW_Formi-v-HTML/HTML - HW3/img/forward10.jpg
+/WebAndUI/HTML/V. Others/02. HW_Formi-v-HTML/HTML - HW3/img/mac.jpg
+/WebAndUI/HTML/V. Others/02. HW_Semantichen-HTML/Homework - HTML - 4 - Semantics/01 REFACTORING/MODIFIED.html
+/WebAndUI/HTML/V. Others/02. HW_Semantichen-HTML/Homework - HTML - 4 - Semantics/02 PAGE 1/index.html
+/WebAndUI/HTML/V. Others/02. HW_Semantichen-HTML/Homework - HTML - 4 - Semantics/03 PAGE 2/index.html
+/WebAndUI/HTML/V. Others/02. HW_Tablici-v-HTML/0.2.HTML.H.W/Calculator.html
+/WebAndUI/HTML/V. Others/02. HW_Tablici-v-HTML/0.2.HTML.H.W/FreshFruits.html
+/WebAndUI/HTML/V. Others/02. HW_Tablici-v-HTML/0.2.HTML.H.W/Registration.html
+/WebAndUI/HTML/V. Others/02. HW_Tablici-v-HTML/0.2.HTML.H.W/Table.html
+/WebAndUI/HTML/V. Others/02. HW_Tablici-v-HTML/0.2.HTML.H.W/fruit.jpg
+/WebAndUI/HTML/V. Others/02. HW_Vuvedenie-v-HTML/First.html
+/WebAndUI/HTML/V. Others/02. HW_Vuvedenie-v-HTML/Second.html
+/WebAndUI/HTML/V. Others/02. HW_Vuvedenie-v-HTML/Third/Images/lotr.jpg
+/WebAndUI/HTML/V. Others/02. HW_Vuvedenie-v-HTML/Third/Profile.html
+/WebAndUI/HTML/V. Others/02. HW_Vuvedenie-v-HTML/Third/friends.html
+/WebAndUI/HTML/V. Others/02. HW_Vuvedenie-v-HTML/Third/home.html
+/WebAndUI/HTML/V. Others/03. HW_Formi-v-HTML/HTML-Forms-Frames-Homework/HTML-Forms-Frames-Homework.sln
+/WebAndUI/HTML/V. Others/03. HW_Formi-v-HTML/HTML-Forms-Frames-Homework/HTML-Forms-Frames-Homework/01.RegForm.html
+/WebAndUI/HTML/V. Others/03. HW_Formi-v-HTML/HTML-Forms-Frames-Homework/HTML-Forms-Frames-Homework/02.PeshoTable.html
+/WebAndUI/HTML/V. Others/03. HW_Formi-v-HTML/HTML-Forms-Frames-Homework/HTML-Forms-Frames-Homework/03.Laptops.html
+/WebAndUI/HTML/V. Others/03. HW_Formi-v-HTML/HTML-Forms-Frames-Homework/HTML-Forms-Frames-Homework/Properties/AssemblyInfo.cs
+/WebAndUI/HTML/V. Others/03. HW_Semantichen-HTML/Homework4/Homework1.html
+/WebAndUI/HTML/V. Others/03. HW_Semantichen-HTML/Homework4/Homework2.html
+/WebAndUI/HTML/V. Others/03. HW_Semantichen-HTML/Homework4/ReFactro.html
+/WebAndUI/HTML/V. Others/03. HW_Semantichen-HTML/Homework4/homework.css
+/WebAndUI/HTML/V. Others/03. HW_Semantichen-HTML/Homework4/linkedin.png
+/WebAndUI/HTML/V. Others/03. HW_Semantichen-HTML/Homework4/logo.png
+/WebAndUI/HTML/V. Others/03. HW_Semantichen-HTML/Homework4/semantic-web-homework/semantic-web-homework/refactoring-homework.html
+/WebAndUI/HTML/V. Others/03. HW_Tablici-v-HTML/01a.Fruits.html
+/WebAndUI/HTML/V. Others/03. HW_Tablici-v-HTML/01b.SomeTable.html
+/WebAndUI/HTML/V. Others/03. HW_Tablici-v-HTML/02.Member.html
+/WebAndUI/HTML/V. Others/03. HW_Tablici-v-HTML/03.Calculator.html
+/WebAndUI/HTML/V. Others/03. HW_Tablici-v-HTML/fruits.png
+/WebAndUI/HTML/V. Others/03. HW_Vuvedenie-v-HTML/Homework_Intro In HTML/Friends/Friends.html
+/WebAndUI/HTML/V. Others/03. HW_Vuvedenie-v-HTML/Homework_Intro In HTML/Friends/Home.html
+/WebAndUI/HTML/V. Others/03. HW_Vuvedenie-v-HTML/Homework_Intro In HTML/Friends/Profile.html
+/WebAndUI/HTML/V. Others/03. HW_Vuvedenie-v-HTML/Homework_Intro In HTML/Friends/image/IVO.jpg
+/WebAndUI/HTML/V. Others/03. HW_Vuvedenie-v-HTML/Homework_Intro In HTML/Html Basic Excersice 1.html
+/WebAndUI/HTML/V. Others/03. HW_Vuvedenie-v-HTML/Homework_Intro In HTML/Html Basic Excersice 2.html
+/WebAndUI/HTML/V. Others/Versions.txt
