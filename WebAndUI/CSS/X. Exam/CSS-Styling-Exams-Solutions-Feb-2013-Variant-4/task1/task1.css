@@ -1,0 +1,57 @@
+﻿html,
+body,
+div,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 960px;
+  font-family: Constantina, Georgia, 'Nimbus Roman No9 L', serif;
+  font-size: 16px;
+}
+#wrapper {
+  width: 933px;
+  height: 208px;
+  margin-top: 25px;
+  margin-left: 25px;
+  border: 1px solid #000000;
+  border-radius: 15px;
+  position: relative;
+  background: #de28ff;
+  background: -moz-linear-gradient(top, #de28ff 0%, #de28ff 15%, #ec83ff 45%, #ec84ff 46%, #e381f6 47%, #e382f5 47%, #ec8afe 48%, #ed8cff 49%, #f9dbff 75%, #f9dbff 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #de28ff), color-stop(15%, #de28ff), color-stop(45%, #ec83ff), color-stop(46%, #ec84ff), color-stop(47%, #e381f6), color-stop(47%, #e382f5), color-stop(48%, #ec8afe), color-stop(49%, #ed8cff), color-stop(75%, #f9dbff), color-stop(100%, #f9dbff));
+  background: -webkit-linear-gradient(top, #de28ff 0%, #de28ff 15%, #ec83ff 45%, #ec84ff 46%, #e381f6 47%, #e382f5 47%, #ec8afe 48%, #ed8cff 49%, #f9dbff 75%, #f9dbff 100%);
+  background: -o-linear-gradient(top, #de28ff 0%, #de28ff 15%, #ec83ff 45%, #ec84ff 46%, #e381f6 47%, #e382f5 47%, #ec8afe 48%, #ed8cff 49%, #f9dbff 75%, #f9dbff 100%);
+  background: -ms-linear-gradient(top, #de28ff 0%, #de28ff 15%, #ec83ff 45%, #ec84ff 46%, #e381f6 47%, #e382f5 47%, #ec8afe 48%, #ed8cff 49%, #f9dbff 75%, #f9dbff 100%);
+  background: linear-gradient(to bottom, #de28ff 0%, #de28ff 15%, #ec83ff 45%, #ec84ff 46%, #e381f6 47%, #e382f5 47%, #ec8afe 48%, #ed8cff 49%, #f9dbff 75%, #f9dbff 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#de28ff', endColorstr='#f9dbff', GradientType=0);
+}
+#wrapper h1 {
+  margin: 15px 35px 0;
+  font-size: 1.8rem;
+}
+#wrapper .left-arrow {
+  position: absolute;
+  top: 83px;
+}
+#wrapper .right-arrow {
+  position: absolute;
+  top: 83px;
+  right: 0;
+}
+#wrapper .postedby {
+  display: block;
+  width: 381px;
+  margin-left: 50px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  margin-top: 5px;
+  padding: 5px 0 5px 15px;
+}
+#wrapper .info {
+  margin: 21px 35px;
+  text-align: justify;
+}
+/*# sourceMappingURL=task1.css.map */

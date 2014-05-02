@@ -1,0 +1,87 @@
+﻿body,
+div,
+aside,
+ul,
+li,
+a {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+body {
+  font-family: Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+  font-size: 16px;
+  color: black;
+}
+#wrapper {
+  width: 960px;
+}
+#wrapper aside {
+  padding: 10px 20px;
+}
+#wrapper aside > ul {
+  background: #d29bff;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #d29bff 0%, #8977ff 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #d29bff), color-stop(100%, #8977ff));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #d29bff 0%, #8977ff 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #d29bff 0%, #8977ff 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #d29bff 0%, #8977ff 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #d29bff 0%, #8977ff 100%);
+  /* W3C */
+}
+#wrapper aside ul {
+  border-radius: 10px;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#d29bff', endColorstr='#8977ff', GradientType=0);
+  /* IE6-9 */
+  padding: 5px 15px;
+  font-size: 1.4rem;
+  width: 185px;
+}
+#wrapper aside a {
+  text-decoration: none;
+  color: inherit;
+}
+#wrapper aside li {
+  list-style: none;
+  padding: 5px 15px;
+  border-bottom: 1px solid #9d00ff;
+  position: relative;
+}
+#wrapper aside li:hover {
+  border: 0;
+  border: 1px solid #9d00ff;
+  border-radius: 5px;
+}
+#wrapper aside li:hover ul {
+  display: inline;
+}
+#wrapper aside li:last-of-type {
+  border: 0;
+}
+#wrapper aside li ul {
+  display: none;
+  background-color: #b5aaff;
+  width: 227px;
+  font-size: 1.1rem;
+  position: absolute;
+  top: -5px;
+  left: 190px;
+  padding: 5px;
+}
+#wrapper aside li ul:before {
+  content: url(imgs/arrow.png);
+  position: absolute;
+  top: 13px;
+  left: 5px;
+}
+#wrapper aside li ul li {
+  margin-left: 15px;
+  padding: 5px 18px 5px 18px;
+}
+/*# sourceMappingURL=task1.css.map */

@@ -1,0 +1,119 @@
+﻿html,
+body,
+div,
+hgroup,
+h3,
+h2,
+p,
+a,
+span {
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 960px;
+  font-family: Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+  font-size: 16px;
+}
+#wrapper {
+  margin: 20px;
+}
+#wrapper > div {
+  float: left;
+  width: 148px;
+  border: 2px solid #d3d7da;
+}
+#wrapper > div:nth-child(2n) {
+  height: 280px;
+  background: #ffffff;
+  background: -moz-linear-gradient(top, #ffffff 0, #f1f2f3 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #ffffff), color-stop(100%, #f1f2f3));
+  background: -webkit-linear-gradient(top, #ffffff 0, #f1f2f3 100%);
+  background: -o-linear-gradient(top, #ffffff 0, #f1f2f3 100%);
+  background: -ms-linear-gradient(top, #ffffff 0, #f1f2f3 100%);
+  background: linear-gradient(to bottom, #ffffff 0, #f1f2f3 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='@first', endColorstr='@second', GradientType=0);
+}
+#wrapper > div:nth-child(2n+1) {
+  border-right: none;
+  height: 260px;
+}
+#wrapper > div:nth-child(2n+3) {
+  border-left: none;
+}
+#wrapper > div:nth-child(1):before {
+  content: url(imgs/install.png);
+  display: inline-block;
+  margin-top: 14px;
+  margin-left: 4px;
+  width: 36px;
+}
+#wrapper > div:nth-child(2):before {
+  content: url(imgs/tuneUp.png);
+  display: inline-block;
+  margin-top: 14px;
+  margin-left: 4px;
+  width: 36px;
+}
+#wrapper > div:nth-child(3):before {
+  content: url(imgs/manage.png);
+  display: inline-block;
+  margin-top: 14px;
+  margin-left: 4px;
+  width: 36px;
+}
+#wrapper > div:nth-child(4):before {
+  content: url(imgs/openSource.png);
+  display: inline-block;
+  margin-top: 14px;
+  margin-left: 4px;
+  width: 36px;
+}
+#wrapper > div:nth-child(5):before {
+  content: url(imgs/twitter.png);
+  display: inline-block;
+  margin-top: 14px;
+  margin-left: 4px;
+  width: 36px;
+}
+#wrapper > div:nth-child(6):before {
+  content: url(imgs/about.png);
+  display: inline-block;
+  margin-top: 14px;
+  margin-left: 4px;
+  width: 36px;
+}
+#wrapper > div hgroup {
+  display: inline-block;
+  position: relative;
+  top: -5px;
+}
+#wrapper > div hgroup h3,
+#wrapper > div hgroup h2 {
+  font-size: 1rem;
+}
+#wrapper > div p {
+  margin-left: 4px;
+  margin-top: 11px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+#wrapper > div a {
+  display: block;
+  text-decoration: none;
+  color: #C72D2F;
+  margin-left: 4px;
+  margin-right: 5px;
+}
+#wrapper > div a span {
+  text-transform: uppercase;
+}
+#wrapper > div div.yellowBox {
+  border: 1px solid #ffff00;
+  margin: 0 4px;
+  background: #ffd;
+}
+#wrapper > div div.yellowBox a {
+  display: inline;
+}
+/*# sourceMappingURL=task3.css.map */

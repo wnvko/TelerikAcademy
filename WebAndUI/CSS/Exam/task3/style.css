@@ -1,0 +1,97 @@
+﻿html,
+body,
+div,
+h1,
+button,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-size: 14px;
+  font-family: 'Times New Roman';
+}
+#root {
+  width: 700px;
+  margin: 3px 5px;
+  position: relative;
+}
+#large {
+  width: 460px;
+  height: 363px;
+  border: 2px solid #999999;
+  display: inline-block;
+  padding: 15px;
+}
+#large h1 {
+  text-align: center;
+  margin: 4px auto;
+}
+#large img {
+  border: 2px solid #999999;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+#list {
+  position: absolute;
+  display: inline-block;
+  width: 200px;
+  height: 392px;
+  border: 2px solid #999999;
+  padding-top: 5px;
+}
+#list strong.title {
+  display: block;
+  text-align: center;
+  font-size: 1.3rem;
+}
+#list button {
+  display: inline-block;
+  width: 98px;
+  border: 2px solid #999999;
+  margin-top: 5px;
+  border-radius: 5px;
+  height: 51px;
+  font-size: 0.9rem;
+  background: #ccc;
+}
+#list button:hover {
+  background: #e6e6e6;
+}
+#list ul {
+  overflow: auto;
+  list-style: none;
+  height: 302px;
+  padding: 5px;
+}
+#list ul li {
+  width: 163px;
+  background: white;
+  padding: 5px;
+  border-bottom: 2px solid #999;
+}
+#list ul li:hover strong {
+  text-decoration: underline;
+}
+#list ul li strong {
+  display: block;
+  text-align: center;
+}
+#list ul li img {
+  display: block;
+  margin: 0 auto;
+  margin: 10px auto 4px;
+  border-radius: 5px;
+}
+#list ul li.current {
+  background: #ccc;
+  border-radius: 5px;
+}
+#list ul li.current img {
+  height: 43px;
+  width: 65px;
+  margin: 10px auto 4px;
+  border-radius: 5px;
+}
+/*# sourceMappingURL=style.css.map */
