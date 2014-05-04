@@ -10,18 +10,26 @@ public class AllExeInWindows
 
     public static void Main()
     {
-        if (File.Exists(WindowsPath))
+        try
         {
-            ProcessFile(WindowsPath);
+            if (File.Exists(WindowsPath))
+            {
+                ProcessFile(WindowsPath);
+            }
+            else if (Directory.Exists(WindowsPath))
+            {
+                ProcessDirectory(WindowsPath);
+            }
+            else
+            {
+                Console.WriteLine("{0} is not a lalid path", WindowsPath);
+            }
         }
-        else if (Directory.Exists(WindowsPath))
+        catch (UnauthorizedAccessException)
         {
-            ProcessDirectory(WindowsPath);
+            Console.WriteLine("Unauthorized access! Directory/Files cannot be traversed");
         }
-        else
-        {
-            Console.WriteLine("{0} is not a lalid path", WindowsPath);
-        }
+        
 
         Console.WriteLine();
         Console.WriteLine("In total {0} files of type {1}", filesCount, FilePatern);
