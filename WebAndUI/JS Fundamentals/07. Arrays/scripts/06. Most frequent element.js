@@ -1,11 +1,11 @@
-﻿var length = 20,
+﻿var length = 30,
     numbers = [],
     mostFrequentlyCount = 0,
     mostFrequently = 0;
     dictionary = {};
 
 for (var i = 0; i < length; i++) {
-    numbers[i] = (Math.random() * 5 + 1) | 0;
+    numbers[i] = (Math.random() * 10 - 4) | 0;
 }
 
 jsConsole.writeLine('Initial arra:');
