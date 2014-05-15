@@ -29,20 +29,29 @@ function generataRandomArray(length) {
 function takeValue() {
     input = document.getElementById('tb-number').value;
     input = ~~input;
-    countNumbers(input);
+    checkNeighbours(input);
     setTextBoxOnFocus();
 }
 
-function countNumbers(input) {
+function checkNeighbours(input) {
+
     arr = generataRandomArray(20);
-    var counter = 0;
-    for (var i = 0, length = arr.length; i < length; i++) {
-        if (arr[i] === input) {
-            counter++;
-        }
+    isBiggerThanNeighbours = false;
+
+    if (input === 0) {
+        isBiggerThanNeighbours = arr[input] > arr[1];
+    }
+    else if (input === (arr.length - 1)) {
+        isBiggerThanNeighbours = arr[input] > arr[arr.length - 2];
+    } else {
+        isBiggerThanNeighbours = ((arr[input] > arr[input + 1]) && (arr[input] > arr[input - 1]));
     }
 
     arr = arr.join(', ');
     jsConsole.writeLine('Arr: ' + arr);
-    jsConsole.writeLine('Number ' + lookupNumber + ' appears ' + counter + ' times in the array');
+    if (isBiggerThanNeighbours) {
+        jsConsole.writeLine('Number on poissition ' + input + ' is bigger than its neighbours');
+    } else {
+        jsConsole.writeLine('Number on poissition ' + input + ' is not bigger than its neighbours');
+    }
 }
