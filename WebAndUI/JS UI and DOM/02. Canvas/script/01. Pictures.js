@@ -1,4 +1,4 @@
-﻿var canvas = document.getElementById("my-canvas");
+﻿var canvas = document.getElementById('my-canvas');
 
 var bicycleStartPoint = {
     x: 70,
@@ -11,6 +11,12 @@ var headStartPoint = {
     y: 150
 };
 drawHead(headStartPoint);
+
+var houseStartPoint = {
+    x: 400,
+    y: 150
+}
+drawHouse(houseStartPoint);
 
 function drawBicycle(startPoint) {
     var ctxBicycle = canvas.getContext('2d'),
@@ -60,7 +66,7 @@ function drawHead(startPoint) {
 
     ctxHead.fillStyle = "rgb(142,200,213)";
     ctxHead.strokeStyle = "rgb(32,81,92)";
-    ctxHead.lineWidth = 4;
+    ctxHead.lineWidth = 2;
 
     //the head
     drawCircle(ctxHead, x, y, 40, true);
@@ -98,16 +104,76 @@ function drawHead(startPoint) {
 
 }
 
+function drawHouse(startPoint) {
+    var ctxHouse = canvas.getContext('2d'),
+        x = startPoint.x,
+        y = startPoint.y;
+
+    ctxHouse.fillStyle = 'RGB(149,89,89)';
+    ctxHouse.strokeStyle = 'black';
+    ctxHouse.lineWidth = 3;
+
+    // draw house
+    ctxHouse.fillRect(x, y, 300, 250);
+    ctxHouse.strokeRect(x, y, 300, 250);
+
+    // draw roof
+    ctxHouse.beginPath()
+    ctxHouse.moveTo(x, y);
+    ctxHouse.lineTo(x + 150, y - 130);
+    ctxHouse.lineTo(x + 300, y);
+    ctxHouse.fill();
+    ctxHouse.stroke();
+
+    // draw chimney
+    ctxHouse.fillRect(x + 220, y - 110, 40, 80);
+    drawElipse(ctxHouse, x + 240, y - 110, 20, 5, true);
+    drawLine(ctxHouse, x + 220, y - 110, x + 220, y - 20);
+    drawLine(ctxHouse, x + 260, y - 110, x + 260, y - 20);
+
+    // draw windows
+    drawWindow({ x: x + 30, y: y + 30 });
+    drawWindow({ x: x + 165, y: y + 30 });
+    drawWindow({ x: x + 165, y: y + 125 });
+
+    // draw door
+    drawElipse(ctxHouse, x + 82, y + 150, 40, 20, false, Math.PI, 2 * Math.PI);
+    ctxHouse.beginPath()
+    ctxHouse.moveTo(x + 42, y + 150);
+    ctxHouse.lineTo(x + 42, y + 250);
+    ctxHouse.moveTo(x + 122, y + 150);
+    ctxHouse.lineTo(x + 122, y + 250);
+    ctxHouse.moveTo(x + 82, y + 130);
+    ctxHouse.lineTo(x + 82, y + 250);
+    ctxHouse.stroke();
+    drawCircle(ctxHouse, x + 70, y + 210, 5, false);
+    drawCircle(ctxHouse, x + 94, y + 210, 5, false);
+
+    function drawWindow(startPoint) {
+        var x = startPoint.x,
+            y = startPoint.y;
+
+        ctxHouse.fillStyle = 'black';
+
+        ctxHouse.fillRect(x, y, 50, 30);
+        ctxHouse.fillRect(x + 55, y, 50, 30);
+        ctxHouse.fillRect(x, y + 35, 50, 30);
+        ctxHouse.fillRect(x + 55, y + 35, 50, 30);
+    }
+}
+
 function drawCircle(ctx, centerX, centerY, radius, hasFill, startAngle, endAngle) {
     startAngle = (startAngle || 0);
     endAngle = (endAngle || (2 * Math.PI));
 
     ctx.beginPath()
     ctx.arc(centerX, centerY, radius, startAngle, endAngle)
-    ctx.stroke();
+
     if (hasFill) {
         ctx.fill();
     }
+
+    ctx.stroke();
 }
 
 function drawElipse(ctx, centerX, centerY, radiusX, radiusY, hasFill, startAngle, endAngle) {
@@ -119,11 +185,13 @@ function drawElipse(ctx, centerX, centerY, radiusX, radiusY, hasFill, startAngle
     ctx.scale(1, axisRatio);
     ctx.beginPath();
     ctx.arc(centerX, centerY / axisRatio, radiusX, startAngle, endAngle);
-    ctx.stroke();
+    ctx.restore();
+
     if (hasFill) {
         ctx.fill();
     }
-    ctx.restore();
+
+    ctx.stroke();
 }
 
 function drawLine(ctx, startX, startY, endX, endY) {
