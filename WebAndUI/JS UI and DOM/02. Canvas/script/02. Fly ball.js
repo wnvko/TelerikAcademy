@@ -4,21 +4,23 @@
 		x: canvas.width / 2,
 		y: canvas.height / 2
 	},
-	radius = 30,
+	radius = 50,
 	offsetX = 3,
 	offsetY = 3,
 	showPosition = document.getElementById('ball-position');
 
-ctx.fillStyle = 'blue';
-ctx.strokeStyle = 'black';
+ctx.strokeStyle = 'white';
 ctx.lineWidth = 3;
 
 
 function movingBall() {
 	ctx.clearRect(0, 0, canvas.width, canvas.height);
 	ctx.strokeRect(0, 0, canvas.width, canvas.height);
+	ctx.fillStyle = 'brown';
+	ctx.fillRect(0, 0, canvas.width, canvas.height);
 	showPosition.innerHTML = 'X: = ' + (currentPosition.x - radius) + ' Y: = ' + (currentPosition.y - radius);
-
+	
+	ctx.fillStyle = 'white';
 	drawCircle(ctx, currentPosition.x, currentPosition.y, radius, true);
 
 	if (currentPosition.x < radius) {
@@ -44,7 +46,7 @@ function movingBall() {
 	currentPosition.x += offsetX;
 	currentPosition.y += offsetY;
 
-	setTimeout(movingBall, 25);
+	setTimeout(movingBall, 10);
 }
 
 movingBall();
