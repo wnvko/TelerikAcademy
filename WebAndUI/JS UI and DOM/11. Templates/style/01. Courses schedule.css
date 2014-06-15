@@ -1,0 +1,23 @@
+﻿body, div, table, thead, tr, th, td, tbody {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Verdana;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid black;
+    padding: 2px 5px;
+}
+
+thead {
+    background-color: #AAA;
+    color: white;
+}
+
+tbody tr:nth-child(2n) {
+    background-color: #AAA;
+}

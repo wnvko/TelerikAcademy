@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>02. Dynamic select</title>
+    <script src="scripts/handlebars-v1.3.0.js"></script>
+</head>
+<body>
+    <div id="root"></div>
+    <script id="dynamic-select" type="text/x-handlebars-template">
+        <select>
+            {{#values}}
+            <option value="{{value}}">{{description}}</option>
+            {{/values}}
+        </select>
+    </script>
+    <script src="scripts/02.%20Dynamic%20select.js"></script>
+</body>
+</html>
