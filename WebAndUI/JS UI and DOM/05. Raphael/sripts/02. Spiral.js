@@ -32,7 +32,7 @@ function drawSpyral() {
         pathString = 'M' + startX + ',' + startY + ' L' + endX + ',' + endY;
         spyral = paper.path(pathString);
 
-        if (startX > paper.width && startY > paper.height) {
+        if (startX >= paper.width || startY >= paper.height) {
             break;
         }
     }
