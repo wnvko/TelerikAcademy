@@ -1,0 +1,31 @@
+﻿<#@ template debug="true" hostSpecific="true" language="C#"#>
+<#@ output extension=".cs" #>
+<#@ Assembly Name="System.Xml" #>
+<#@ import namespace="System" #>
+<#@ import namespace="System.Collections.Generic" #> 
+<#@ import namespace="System.Xml" #> 
+
+   // add Xml file
+<#
+	var xmlData = new System.Xml.XmlDocument();
+	xmlData.Load(this.Host.ResolvePath("Source.xml"));
+#>
+
+
+// add class name
+<#
+	foreach (System.Xml.XmlElement className in xmlData.SelectNodes("//ClassName"))
+	{
+#>
+		public class <#=className.Attribures["name"].Value#>
+		{
+
+		// add properties
+		<#
+		foreach (System.Xml.XmlElement prop in xmlData.SelectNodes("//Property")) {
+		#>
+
+		public <#=prop.Attributes["type"].Value#> <#= prop.Attributes["name"].Value#> { get; set;}
+		}
+	}
+}

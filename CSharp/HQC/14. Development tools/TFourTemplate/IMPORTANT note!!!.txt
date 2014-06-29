@@ -1,0 +1,1 @@
+MS T4 is unfortunatelly apear to be paid aplication and I did not succeed to generate C# code

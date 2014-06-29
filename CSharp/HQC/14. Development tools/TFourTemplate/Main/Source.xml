@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <ClassName name="Student">
+    <Property name="FirstName" type="string" />
+    <Property name="LastName" type="string" />
+    <Property name="IDnumber" type="int" />
+  </ClassName>
+  <ClassName name="Course">
+    <Property name="Name" type="string" />
+    <Property name="Students" type="List&lt;Student&gt;" />
+  </ClassName>
+  <ClassName name="School">
+    <Property name="Name" type="string" />
+    <Property name="Students" type="List&lt;Student&gt;" />
+    <Property name="Courses" type="List&lt;Student&gt;" />
+  </ClassName>
+</root>
