@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="styles/style.css" rel="stylesheet" />
+    <script src="scripts/jquery-2.1.1.js"></script>
+    <script src="scripts/studentsAPI.js"></script>
+</head>
+<body>
+    <div id="container">
+        <div id="add-student">
+            <div>Add student</div>
+            <label for="student-name">Student name:</label>
+            <input type="text" id="student-name" />
+            <label for="student-grade">Student grade:</label>
+            <input type="text" id="student-grade" />
+            <div class="button">Add</div>
+            <div class="message added"></div>
+        </div>
+        <div id="delete-student">
+            <div>Delete student</div>
+            <label for="student-id">Student id:</label>
+            <input type="text" id="student-id" />
+            <div class="button">Delete</div>
+            <div class="message deleted"></div>
+        </div>
+        <div id="load-student">
+            <div class="button">Load all students</div>
+            <div class="students"></div>
+        </div>
+    </div>
+    <script src="scripts/main.js"></script>
+</body>
+</html>

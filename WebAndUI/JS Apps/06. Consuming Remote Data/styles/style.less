@@ -1,0 +1,55 @@
+﻿body, header, section, footer, article, h1, h2, h3, h4, h5, h6, input, button,
+label, p, fieldset, nav, ul, li, a, span, strong, em {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background-color: aliceblue;
+    font-size: 16px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#container {
+    border: 5px solid darkgray;
+    border-radius: 10px;
+    margin: 20px auto;
+    width: 480px;
+    padding: 20px;
+
+    #add-student, #delete-student, #load-student {
+        display: inline-block;
+        width: 160px;
+        height: 160px;
+        border: 3px solid darkgray;
+        border-radius: 6px;
+        padding: 20px;
+        margin: 20px 15px;
+
+        .button, .message {
+            width: 150px;
+            height: 25px;
+            border: 2px solid darkgray;
+            border-radius: 5px;
+            margin: 5px auto;
+            text-align: center;
+            background-color: lightcyan;
+
+            &:hover {
+                cursor: pointer;
+                background-color: darkcyan;
+            }
+        }
+
+        .message {
+            color: red;
+        }
+    }
+
+    #load-student {
+        width: 420px;
+        margin:20px auto;
+        height:auto;
+    }
+}

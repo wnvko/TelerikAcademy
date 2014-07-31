@@ -7,7 +7,9 @@
             'jQuery': 'libs/jquery-2.1.1',
             'Main': 'main',
             'Random': 'randomNumberGetter',
-            'FindNumber': 'findNumber'
+            'FindNumber': 'findNumber',
+            'NameChecker': 'nameChecker',
+            'Cookies': 'cookies'
         },
         shim: {
             'jQuery': {
