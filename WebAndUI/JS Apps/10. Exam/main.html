@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="style/style.css" rel="stylesheet" />
+    <script src="scripts/libs/require.js" data-main="scripts/app"></script>
+</head>
+<body>
+    <div id="main-container" class="clear-fix">
+        <div id="posts" class="clear-fix">
+            <h1>Forum posts</h1>
+            <div id="post-window"></div>
+            <div id="prev" class="button">Prev</div>
+            <label for="post-per-page">Posts per page</label>
+            <input type="text" id="post-per-page" />
+            <div id="next" class="button">Next</div>
+        </div>
+        <div id="user" class="clear-fix">
+            <p id="myName"></p>
+            <label for="name">Name</label>
+            <input type="text" id="name" />
+            <label for="name">Pass</label>
+            <input type="text" id="pass" />
+            <div id="login" class="button">Log in</div>
+            <div id="logout" class="button">Log out</div>
+            <div id="register" class="button">Register</div>
+            <div id="show" class="button">Show</div>
+            <input type="text" id="pattern" placeholder="pattern" />
+            <input type="text" id="user-filter" placeholder="by user" />
+            <div id="error"></div>
+        </div>
+    </div>
+    <script id="postUI" type="text/x-handlebars-template">
+        <dl>
+            {{#each posts}}
+            <dt>{{#with user}}{{username}}{{/with}} said at {{postDate}}</dt>
+            <dd>
+                <h5>{{title}}</h5>
+                <p>{{body}} </p>
+            </dd>
+            {{/each}}
+        </dl>
+    </script>
+</body>
+</html>
