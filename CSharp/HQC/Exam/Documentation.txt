@@ -1,0 +1,41 @@
+Design pattern: Simple Factory
+	* 
+
+Design pattern: Strategy
+	* 
+
+Design pattern: Template Method
+	* 
+
+Design pattern: Abstract factory
+	* 
+
+Design pattern: Composite
+	* 
+
+Design pattern: Mediator
+	* 
+
+Found bottlenecks:
+	in functions SquareNumber32() and SquareNumber64() unnecessary for cycle 
+	in function rand(int a, int b) unnecessary check for random number 
+
+Found bugs:
+	argument exception
+	* 
+	* 
+
+Single responsibility principle
+	each class is responsible for only what have to do 
+
+Open/closed principle
+	each class is implemented trough interfaces and can be easily changed and extended without cnanging the class itselves 
+
+Liskov substitution principle
+	each class is implemented trough interfaces according to Liskov substitution principe
+
+Interface segregation principle
+	* 
+
+Dependency inversion principle
+	each class accept its parameters mainly trough constructor or trough parameters in methods 
