@@ -29,7 +29,7 @@ public class AllExeInWindows
         {
             Console.WriteLine("Unauthorized access! Directory/Files cannot be traversed");
         }
-        
+
 
         Console.WriteLine();
         Console.WriteLine("In total {0} files of type {1}", filesCount, FilePatern);
