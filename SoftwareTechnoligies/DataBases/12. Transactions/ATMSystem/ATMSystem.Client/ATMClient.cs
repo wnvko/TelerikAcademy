@@ -26,7 +26,9 @@
             //string trigger = CreateTriggerString();
             //db.Database.ExecuteSqlCommand(trigger);
 
-            using (var dbTransaction = db.Database.BeginTransaction())
+            // RepeatableRead isolation level will lock all the fields that have been read during transaction
+            // this will asure data consistency after transaction is commited
+            using (DbContextTransaction dbTransaction = db.Database.BeginTransaction(System.Data.IsolationLevel.RepeatableRead))
             {
                 try
                 {
