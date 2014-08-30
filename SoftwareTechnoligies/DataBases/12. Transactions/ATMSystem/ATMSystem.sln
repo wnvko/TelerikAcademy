@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMSystem.Model", "ATMSystem.Model\ATMSystem.Model.csproj", "{693A1D1C-F75E-41EE-A926-C890AAE95E61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMSystem.Data", "ATMSystem.Data\ATMSystem.Data.csproj", "{3B69C9E6-AB83-4C61-BEBF-D284C78C2D28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMSystem.Client", "ATMSystem.Client\ATMSystem.Client.csproj", "{5B289B25-8BC2-4689-B792-383A6898EAFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{693A1D1C-F75E-41EE-A926-C890AAE95E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{693A1D1C-F75E-41EE-A926-C890AAE95E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{693A1D1C-F75E-41EE-A926-C890AAE95E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{693A1D1C-F75E-41EE-A926-C890AAE95E61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B69C9E6-AB83-4C61-BEBF-D284C78C2D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B69C9E6-AB83-4C61-BEBF-D284C78C2D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B69C9E6-AB83-4C61-BEBF-D284C78C2D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B69C9E6-AB83-4C61-BEBF-D284C78C2D28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B289B25-8BC2-4689-B792-383A6898EAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B289B25-8BC2-4689-B792-383A6898EAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B289B25-8BC2-4689-B792-383A6898EAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B289B25-8BC2-4689-B792-383A6898EAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
