@@ -26,6 +26,11 @@
             php.Student.Add(pesho);
             db.Courses.Add(php);
 
+            foreach (var cours in db.Courses)
+            {
+                System.Console.WriteLine(cours.Student.Count);
+            }
+
             db.SaveChanges();
         }
     }
