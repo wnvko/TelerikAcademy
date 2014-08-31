@@ -1,0 +1,11 @@
+﻿Kiril Kirilov			| Varna		| 052 / 23 45 67
+Munio					| Sofia		| 02 / 234 56 78
+Kiril Kirilov Petrov	| Plovdiv	| 0888 / 22 33 44
+Lili Petrovа			| Sofia		| 0899 / 11 22 33
+Kiril					| Pleven	| 064 / 88 77 66
+Kiril theBeer			| Varna		| 0897 / 44 55 66
+Kiril					| Pleven	| 0897 / 44 55 66
+Mimi Shmatkata          | Plovdiv	| 0888 12 34 56
+Kireto                  | Varna		| 052 23 45 67
+Daniela Ivanova Petrova | Karnobat	| 0899 999 888
+Bat Gancho              | Sofia		| 02 946 946 946
