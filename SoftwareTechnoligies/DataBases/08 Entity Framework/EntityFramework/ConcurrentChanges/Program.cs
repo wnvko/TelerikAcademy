@@ -11,8 +11,8 @@ namespace ConcurrentChanges
             NorthwindEntities dbOne = new NorthwindEntities();
             NorthwindEntities dbTwo = new NorthwindEntities();
 
-            var customerOne = (Customer)dbOne.Customers.Where(c => c.ContactName.Contains("ab")).FirstOrDefault();
-            var customerTwo = (Customer)dbTwo.Customers.Where(c => c.ContactName.Contains("ab")).FirstOrDefault();
+            var customerOne = (Customer)dbOne.Customers.Where(c => c.ContactName.Contains("no")).FirstOrDefault();
+            var customerTwo = (Customer)dbTwo.Customers.Where(c => c.ContactName.Contains("no")).FirstOrDefault();
             Console.WriteLine("Customer initial name:");
             Console.WriteLine("One {0}", customerOne.ContactName);
             Console.WriteLine("Two {0}", customerTwo.ContactName);

@@ -26,7 +26,9 @@ namespace SalesByRegionInPeriod
                             Shiped = o.ShippedDate
                         };
 
-            foreach (var sale in sales)
+            var sales2 = db.Orders.Where(o => o.ShipRegion == region && o.ShippedDate > startDate && o.ShippedDate < endDate).Select(o => new { o.ShipCountry, o.ShippedDate});
+
+            foreach (var sale in sales2)
             {
                 Console.WriteLine(sale);
             }
