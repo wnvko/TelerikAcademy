@@ -1,0 +1,20 @@
+A namespace is a collection of element and attribute names identified by a Uniform Resource 
+Identifier reference. The reference may appear in the root element as a value of the xmlns 
+attribute. For example, the namespace reference for an XML document with a root element <x> 
+might appear like this:
+ 
+<x xmlns="http://www.company.com/company-schema">
+	    
+More than one namespace may appear in a single XML document, to allow a name to be used more than 
+once. Each reference can declare a prefix to be used by each name, so the previous example might 
+appear as:
+ 
+<x xmlns:spc="http://www.company.com/company-schema">
+	    
+which would nominate the namespace for the ‘spc’ prefix:
+ 
+<spc:name>Mr. Big</spc:name>
+	    
+The reference does not need to be a physical file; it is simply a way to distinguish between 
+namespaces. The reference should tell a person looking at the XML document where to find 
+definitions of the element and attribute names using that particular namespace.

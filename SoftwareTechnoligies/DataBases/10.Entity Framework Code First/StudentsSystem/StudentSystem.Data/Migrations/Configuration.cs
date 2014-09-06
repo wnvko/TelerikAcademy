@@ -3,6 +3,8 @@ namespace StudentsSystem.Data.Migrations
     using System;
     using System.Data.Entity.Migrations;
     using StudentsSystem.Models;
+    using System.Diagnostics;
+    using System.Collections.Generic;
 
     public sealed class Configuration : DbMigrationsConfiguration<StudentsSystem.Data.StudentsSystemContext>
     {
@@ -28,17 +30,33 @@ namespace StudentsSystem.Data.Migrations
             string[] courseDescriptions = { "Databases", "Highquality code", "C# 1", "OOP", "Javascript", "HTML basics", "Java" };
 
             Random rnd = new Random();
+            Stopwatch sw = new Stopwatch();
 
-            for (int i = 0; i < 10; i++)
+            HashSet<Student> students = new HashSet<Student>();
+            HashSet<Course> courses = new HashSet<Course>();
+
+            sw.Start();
+            for (int i = 0; i < 100; i++)
             {
                 string studentName = studentNames[rnd.Next(studentNames.Length)];
                 string studentFacultyNumber = studentFacultyNumbers[rnd.Next(studentFacultyNumbers.Length)];
 
                 string courseDescription = courseDescriptions[rnd.Next(courseDescriptions.Length)];
 
-                context.Students.AddOrUpdate(new Student { FacultyNumber = studentFacultyNumber, Name = studentName });
-                context.Courses.AddOrUpdate(new Course { Description = courseDescription });
+                Student currentStudent = new Student();
+                currentStudent.Name = studentName;
+                currentStudent.FacultyNumber = studentFacultyNumber;
+                students.Add(currentStudent);
+
+                Course course = new Course();
+                course.Description = courseDescription;
+                courses.Add(course);
+
+                Console.WriteLine("N = {0} + {1}", i, sw.Elapsed);
             }
+
+            context.Students.AddRange(students);
+            context.Courses.AddRange(courses);
         }
     }
 }

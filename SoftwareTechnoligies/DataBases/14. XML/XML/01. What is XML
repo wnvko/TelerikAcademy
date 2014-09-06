@@ -1,0 +1,41 @@
+Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding 
+documents in a format that is both human-readable and machine-readable. It is defined in the 
+XML 1.0 Specification[2] produced by the W3C, and several other related specifications,[3] all free 
+open standards.[4]
+
+The design goals of XML emphasize simplicity, generality, and usability over the Internet.[5] It is 
+a textual data format with strong support via Unicode for different human languages. Although the 
+design of XML focuses on documents, it is widely used for the representation of arbitrary data 
+structures,[6] for example in web services.
+
+Many application programming interfaces (APIs) have been developed to aid software developers with 
+processing XML data, and several schema systems exist to aid in the definition of XML-based 
+languages.
+
+- XML can be used to describe and identify information accurately and unambiguously, in a way that 
+computers can be programmed to ‘understand’ your information (well, at least manipulate as if they 
+could understand it).
+- XML allows sets of documents which are all the same type to be created and handled consistently 
+and without structural errors, because it provides a standardised way of describing, controlling, 
+or allowing/disallowing particular types of document structure. Note that this has absolutely 
+nothing whatever to do with formatting, appearance, or the actual text or data content of the 
+documents, only the structure of them. If we want styling or formatting, we may use XSL template.
+- XML provides a robust and durable format for information storage and transmission. Robust because 
+it is based on a proven standard, and can thus be tested and verified; durable (persistent) because 
+it uses plain-text file formats which will outlast proprietary binary ones.
+- XML provides a common syntax for messaging systems for the exchange of information between 
+applications. Previously, each messaging system had its own format and all were different, which 
+made inter-system messaging unnecessarily messy, complex, and expensive. If everyone uses the same 
+syntax it makes writing these systems much faster and more reliable.
+- XML is free. Not just free of charge and free of legal encumbrances (free as in speech). It 
+doesn't belong to anyone, so it can't be hijacked or pirated. And you don't have to pay a fee to 
+use it (you can of course choose to use commercial software to deal with it, for lots of good 
+reasons, but you don't pay for XML itself).
+- XML information can be manipulated programmatically (under machine control), so XML documents can 
+be pieced together from disparate sources, or taken apart and re-used in different ways. They can 
+be converted into any other format with no loss of information.
+- XML lets you separate form (appearance) from content. Your XML file contains your document 
+information (text, data) and identifies its structure: your formatting and other processing needs 
+are identified separately in a stylesheet or processing system. The two are combined at output time 
+to apply the required formatting to the text or data identified by its structure (location, 
+position, rank, order, or whatever).
