@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. RecursiveNestedLoops", "RecursiveNestedLoops\01. RecursiveNestedLoops.csproj", "{37AFC8E2-1FF1-4FFB-AFE2-828C8C22C87E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. CmbinationsWithRepetiotions", "PermutationsWithDuplicatses\02. CmbinationsWithRepetiotions.csproj", "{C94C6A89-D172-4B78-9BCD-1C72E6AEA52D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. CmbinationsWithouRepetiotions", "PermutationsWithoutDuplications\03. CmbinationsWithouRepetiotions.csproj", "{AFBB8D60-4587-4674-A83C-D982EDADAC46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Permutations", "Permutations\04. Permutations.csproj", "{0FC72B73-2503-44E3-9F8D-7BF9DFD80F5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. VariationsWithRepetiotions", "VariationsWithRepetiotions\05. VariationsWithRepetiotions.csproj", "{7167F547-D650-45EC-B98C-5958988DC25C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. FindPathInMatrix", "FindPathInMatrix\07. FindPathInMatrix.csproj", "{F15637A2-7A9A-48E0-9434-100BB910D8D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. FindPathIfExist", "FindPathIfExist\08. FindPathIfExist.csproj", "{0E7CAC8E-051B-4F65-8386-8CFBDD42DF10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37AFC8E2-1FF1-4FFB-AFE2-828C8C22C87E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37AFC8E2-1FF1-4FFB-AFE2-828C8C22C87E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37AFC8E2-1FF1-4FFB-AFE2-828C8C22C87E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37AFC8E2-1FF1-4FFB-AFE2-828C8C22C87E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C94C6A89-D172-4B78-9BCD-1C72E6AEA52D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94C6A89-D172-4B78-9BCD-1C72E6AEA52D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94C6A89-D172-4B78-9BCD-1C72E6AEA52D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94C6A89-D172-4B78-9BCD-1C72E6AEA52D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFBB8D60-4587-4674-A83C-D982EDADAC46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBB8D60-4587-4674-A83C-D982EDADAC46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBB8D60-4587-4674-A83C-D982EDADAC46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBB8D60-4587-4674-A83C-D982EDADAC46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FC72B73-2503-44E3-9F8D-7BF9DFD80F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC72B73-2503-44E3-9F8D-7BF9DFD80F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC72B73-2503-44E3-9F8D-7BF9DFD80F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC72B73-2503-44E3-9F8D-7BF9DFD80F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7167F547-D650-45EC-B98C-5958988DC25C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7167F547-D650-45EC-B98C-5958988DC25C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7167F547-D650-45EC-B98C-5958988DC25C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7167F547-D650-45EC-B98C-5958988DC25C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F15637A2-7A9A-48E0-9434-100BB910D8D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15637A2-7A9A-48E0-9434-100BB910D8D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15637A2-7A9A-48E0-9434-100BB910D8D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15637A2-7A9A-48E0-9434-100BB910D8D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E7CAC8E-051B-4F65-8386-8CFBDD42DF10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E7CAC8E-051B-4F65-8386-8CFBDD42DF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E7CAC8E-051B-4F65-8386-8CFBDD42DF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E7CAC8E-051B-4F65-8386-8CFBDD42DF10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
