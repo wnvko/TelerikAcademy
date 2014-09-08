@@ -5,6 +5,182 @@
 <link>http://forums.academy.telerik.com/qa</link>
 <description>Powered by Question2Answer</description>
 <item>
+<title>Answered: Бази данни - изпит 2014 - авторско решение</title>
+<link>http://forums.academy.telerik.com/172654/%D0%B1%D0%B0%D0%B7%D0%B8-%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8-%D0%B8%D0%B7%D0%BF%D0%B8%D1%82-2014-%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%BE-%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5?show=172668#a172668</link>
+<description>&lt;p&gt;
+	Освен показаната горе грешка в заданието с големината на Модела на колата (code first частта от изпита), за която на два пъти в Enterprise се обяви, че е сгрешено, има и още една грешка. В файл data.0.json, колата&amp;nbsp;Renaut е с дилът &quot;T Моторс&quot;, а след това в примерния репорт същата кола трябва да е от дилър &quot;T&lt;strong&gt;A&lt;/strong&gt; Моторс&quot;.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	Ако искате да стартиране авторовото решение копирайте JSON и XML файловете в папки Bin/Debug на проекти Inport и Searcher.&lt;/p&gt;
+&lt;p&gt;
+	Отделно при пръв прочит на условието си мислех, че много коли се продават от много дилъри в различни градове, а то имало монопол. Еди дилър държи пазара на всички Мерцедеси и няма шанс да си купиш от друго място, :) Предполагам, че това е направено за опростяване на условието и на връзките между таблиците&lt;/p&gt;</description>
+<category>Databases</category>
+<guid isPermaLink="true">http://forums.academy.telerik.com/172654/%D0%B1%D0%B0%D0%B7%D0%B8-%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8-%D0%B8%D0%B7%D0%BF%D0%B8%D1%82-2014-%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%BE-%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5?show=172668#a172668</guid>
+<pubDate>Mon, 08 Sep 2014 17:46:09 +0000</pubDate>
+</item>
+<item>
+<title>Answered: Втори ден главоблъсканица в Wordpress.</title>
+<link>http://forums.academy.telerik.com/172635/%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%B4%D0%B5%D0%BD-%D0%B3%D0%BB%D0%B0%D0%B2%D0%BE%D0%B1%D0%BB%D1%8A%D1%81%D0%BA%D0%B0%D0%BD%D0%B8%D1%86%D0%B0-%D0%B2-wordpress?show=172653#a172653</link>
+<description>Здравей. Преди време и аз имах подобен проблем. Направих едно скрипче за google maps, което иначе си работеше супер и като го сложих в редактора на Wordpress нещо го прецакваше :). В крайна сметка реших проблема като направих javascript-a на 1 ред (използвах някакъв онлайн minifier за javascript). Пробвай и ти да си преправиш javascript-a набързо и предполагам ще тръгне. Успех и поздрави! ;)&lt;br /&gt;
+&lt;br /&gt;
+P.S. Сега като ти инспектнах html-a на Wordpress страничката виждам, че точно това е проблема. Просто редактора на Wordpress като види нов ред и добавя &amp;lt;p&amp;gt;&amp;lt;/p&amp;gt; независимо, че се намираш в скрипта и това омазва всичко :) Като направиш javascripta да ти е на 1 ред всичко би трябвало да се оправи ;)</description>
+<category>Web Development</category>
+<guid isPermaLink="true">http://forums.academy.telerik.com/172635/%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%B4%D0%B5%D0%BD-%D0%B3%D0%BB%D0%B0%D0%B2%D0%BE%D0%B1%D0%BB%D1%8A%D1%81%D0%BA%D0%B0%D0%BD%D0%B8%D1%86%D0%B0-%D0%B2-wordpress?show=172653#a172653</guid>
+<pubDate>Mon, 08 Sep 2014 15:45:50 +0000</pubDate>
+</item>
+<item>
+<title>Answered: Бъг на клавиатурата</title>
+<link>http://forums.academy.telerik.com/172611/%D0%B1%D1%8A%D0%B3-%D0%BD%D0%B0-%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0%D1%82%D0%B0?show=172652#a172652</link>
+<description>Така става ако си я залял с нещо. Кажи какъв е лаптопа. Някои клавиатури се мият, дуги не могат да се разглобяват. Не са много скъпи, но зависи от марка/модел.</description>
+<category>Общи приказки</category>
+<guid isPermaLink="true">http://forums.academy.telerik.com/172611/%D0%B1%D1%8A%D0%B3-%D0%BD%D0%B0-%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0%D1%82%D0%B0?show=172652#a172652</guid>
+<pubDate>Mon, 08 Sep 2014 15:41:10 +0000</pubDate>
+</item>
+<item>
+<title>Answered: Как да направя валидация на клас с атрибут в MVC</title>
+<link>http://forums.academy.telerik.com/172648/%D0%BA%D0%B0%D0%BA-%D0%B4%D0%B0-%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D1%8F-%D0%B2%D0%B0%D0%BB%D0%B8%D0%B4%D0%B0%D1%86%D0%B8%D1%8F-%D0%BD%D0%B0-%D0%BA%D0%BB%D0%B0%D1%81-%D1%81-%D0%B0%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%82-%D0%B2-mvc?show=172649#a172649</link>
+<description>Тук можеш да прочетеш информация по въпроса:&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://weblogs.asp.net/scottgu/class-level-model-validation-with-ef-code-first-and-asp-net-mvc-3&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;http://weblogs.asp.net/scottgu/class-level-model-validation-with-ef-code-first-and-asp-net-mvc-3&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+Общо взето наследяваш интерфейс, имплементираш си валидацията в него и... that's it!</description>
+<category>Софтуерна академия на Телерик</category>
+<guid isPermaLink="true">http://forums.academy.telerik.com/172648/%D0%BA%D0%B0%D0%BA-%D0%B4%D0%B0-%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D1%8F-%D0%B2%D0%B0%D0%BB%D0%B8%D0%B4%D0%B0%D1%86%D0%B8%D1%8F-%D0%BD%D0%B0-%D0%BA%D0%BB%D0%B0%D1%81-%D1%81-%D0%B0%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%82-%D0%B2-mvc?show=172649#a172649</guid>
+<pubDate>Mon, 08 Sep 2014 14:14:06 +0000</pubDate>
+</item>
+<item>
+<title>Answered: почистване на лаптоп</title>
+<link>http://forums.academy.telerik.com/172617/%D0%BF%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%B2%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%BB%D0%B0%D0%BF%D1%82%D0%BE%D0%BF?show=172641#a172641</link>
+<description>&lt;p&gt;
+	&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Verdana, Arial, Helvetica, sans-serif;&quot;&gt;В youtube e пълно с видеа за това, така че ако искаш може да видиш някое за твоя модел и ако не е много сложно да се пробваш сам :)&lt;/span&gt;&lt;/p&gt;</description>
+<category>Общи приказки</category>
+<guid isPermaLink="true">http://forums.academy.telerik.com/172617/%D0%BF%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%B2%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%BB%D0%B0%D0%BF%D1%82%D0%BE%D0%BF?show=172641#a172641</guid>
+<pubDate>Mon, 08 Sep 2014 09:03:55 +0000</pubDate>
+</item>
+<item>
+<title>Answered: Помощ с избора на лаптоп !</title>
+<link>http://forums.academy.telerik.com/172622/%D0%BF%D0%BE%D0%BC%D0%BE%D1%89-%D1%81-%D0%B8%D0%B7%D0%B1%D0%BE%D1%80%D0%B0-%D0%BD%D0%B0-%D0%BB%D0%B0%D0%BF%D1%82%D0%BE%D0%BF?show=172639#a172639</link>
+<description>&lt;p&gt;
+	&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Verdana, Arial, Helvetica, sans-serif;&quot;&gt;Здравейте, колега,&lt;/span&gt;&lt;br style=&quot;color: rgb(51, 51, 51); font-family: Verdana, Arial, Helvetica, sans-serif;&quot;&gt;
+	&lt;br style=&quot;color: rgb(51, 51, 51); font-family: Verdana, Arial, Helvetica, sans-serif;&quot;&gt;
+	&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Verdana, Arial, Helvetica, sans-serif;&quot;&gt;Като нов във форума бих те посъветвал преди да отваряш тема да погледнеш дали вече няма такава. Специално за покупка на лаптоп има доста теми, може да ги разгледаш и да посъбереш малко информация какво купуват и препоръчват хората. Просто напиши 'лаптоп' в търсачката.&lt;/span&gt;&lt;br style=&quot;color: rgb(51, 51, 51); font-family: Verdana, Arial, Helvetica, sans-serif;&quot;&gt;
+	&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Verdana, Arial, Helvetica, sans-serif;&quot;&gt;Относно моделът на който си се спрял, до колкото виждам е двуядрен пентиум. До миналото лято и аз бях с такъв (когато правех първите си стъпки в C#). Вършеше работа като за начало. Не знам с какво точно искаш да се занимаваш, но имай в предвид, че такъв процесор не е кой знае колко продуктивен. С напредването в програмирането ще ти трябва машина, която мисли малко по-бързо. Като за начало ще ти е ок, но може би до половин година ще ти се прииска да имаш нещо по-бързо(лично аз след това взех i3, a в момента съм с четириядрен i7).&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(51, 51, 51); font-family: Verdana, Arial, Helvetica, sans-serif;&quot;&gt;
+	&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Verdana, Arial, Helvetica, sans-serif;&quot;&gt;В този ценови диапазон (в който е асуса) е трудно да намериш нещо добро. Долната серия на Леново (B5400, G510) могат ти предложат за около 100 лв отгоре двуядрен i5 процесор, който с boost-a стига до над 3 гигахерца. i3-ки на същия производител може да намериш и за около 700 лв. Не мога да кажа от опит вече колко качествена е изработката. Просто за по-малко пари по-добър процесор може да се намери само от Lenovo и HP (HP не ги споменах досега просто, защото смятам, че ниските им серии не са нещо, за което си заслужава да се говори).&lt;/span&gt;&lt;/p&gt;</description>
+<category>Предложения</category>
+<guid isPermaLink="true">http://forums.academy.telerik.com/172622/%D0%BF%D0%BE%D0%BC%D0%BE%D1%89-%D1%81-%D0%B8%D0%B7%D0%B1%D0%BE%D1%80%D0%B0-%D0%BD%D0%B0-%D0%BB%D0%B0%D0%BF%D1%82%D0%BE%D0%BF?show=172639#a172639</guid>
+<pubDate>Mon, 08 Sep 2014 08:58:16 +0000</pubDate>
+</item>
+<item>
+<title>Answered: [Databases] Изпит и проблем с входните данни</title>
+<link>http://forums.academy.telerik.com/172285/databases-%D0%B8%D0%B7%D0%BF%D0%B8%D1%82-%D0%B8-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-%D1%81-%D0%B2%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D1%82%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8?show=172625#a172625</link>
+<description>&lt;p&gt;
+	Можеш да погледнеш тук:&amp;nbsp;&lt;a class=&quot;js-directory-link&quot; href=&quot;https://github.com/saykorz/TelerikAkademy/tree/9fd9cc2ff275db05966807d190611384596e2716/CSharpDevelopmentExams/DataBase/DataBaseExamPrepare&quot; id=&quot;aac9612e5c4acdcb8b391b9312c3f82f-1374505bc5f4bf390a8fbae1b67552bde9b7b12c&quot; rel=&quot;nofollow&quot; style=&quot;box-sizing: border-box; background-color: rgb(248, 248, 248); color: rgb(65, 131, 196); text-decoration: none; font-family: Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 13.333333015441895px; line-height: 20px; white-space: nowrap;&quot; title=&quot;Databases-Sample-Exam-July-2013-Bookmarks.docx&quot;&gt;Databases-Sample-Exam-July-2013-Bookmarks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+	Има&amp;nbsp;&lt;a href=&quot;https://github.com/saykorz/TelerikAkademy/blob/9fd9cc2ff275db05966807d190611384596e2716/CSharpDevelopmentExams/DataBase/DataBaseExamPrepare/BulkDataGenerator/Program.cs&quot; rel=&quot;nofollow&quot;&gt;BulkDataGenerator&lt;/a&gt;&amp;nbsp;и &lt;a href=&quot;https://github.com/saykorz/TelerikAkademy/blob/9fd9cc2ff275db05966807d190611384596e2716/CSharpDevelopmentExams/DataBase/DataBaseExamPrepare/DataBaseExamPrepare.Data/Extensions/Extensions.cs&quot; rel=&quot;nofollow&quot;&gt;Extension&lt;/a&gt; който вкарва &lt;a href=&quot;https://github.com/saykorz/TelerikAkademy/blob/9fd9cc2ff275db05966807d190611384596e2716/CSharpDevelopmentExams/DataBase/DataBaseExamPrepare/BulkInsert.png&quot; rel=&quot;nofollow&quot;&gt;2мил данни за 23сек&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;</description>
+<category>Databases</category>
+<guid isPermaLink="true">http://forums.academy.telerik.com/172285/databases-%D0%B8%D0%B7%D0%BF%D0%B8%D1%82-%D0%B8-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-%D1%81-%D0%B2%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D1%82%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8?show=172625#a172625</guid>
+<pubDate>Sun, 07 Sep 2014 21:30:09 +0000</pubDate>
+</item>
+<item>
+<title>Answered: Бъдещо развитие</title>
+<link>http://forums.academy.telerik.com/172610/%D0%B1%D1%8A%D0%B4%D0%B5%D1%89%D0%BE-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5?show=172621#a172621</link>
+<description>Здравей и от мен,&lt;br /&gt;
+&lt;br /&gt;
+абсолютно съм съгласен с написаното от колегите преди мен. Миналата година със започването ми на 11ти клас в училище записах акамедията и още се движа с пълна сила, така че със сигурност е възможно и на тази възраст.&lt;br /&gt;
+&lt;br /&gt;
+Тъй като уча в специализирано училище за ИТ, а и съм имал късмета да се запозная с хора работещи в сферата и извън училище, съм разпитвал доста и съм стигнал до заключението, че най-важното при кандидатстване за работа ти е портфолиото, заедно с impression-a, който създаваш при самия разговор с работодателя. Така че както колегите са казали с едни проектчета и лека подготовка си готов.&lt;br /&gt;
+&lt;br /&gt;
+Математиката, физиката и другите &amp;quot;странични&amp;quot; предмети могат да ти помогнат по много различни начини. Най-малкото математиката и физиката ти развиват логическото мислене, което е полезно и при програмирането. Има и сфери в програмирането, където без знания от други области няма да се справиш лесно, gamedev например.&lt;br /&gt;
+&lt;br /&gt;
+Това лято успях да се свържа с едни хора, завършили училището ми и ме взеха на стаж за 2 месеца (можеше и повече, но имах други ангажименти) и даже ме питаха дали предпочитам да ми осигурят място в офиса да работя или предпочитам от вкъщи, така че можеш и стаж да си намериш и вече по договаряне дали ще е дистанционно или не.&lt;br /&gt;
+&lt;br /&gt;
+Колкото до университетите, отново информацията ми идва от разпитване и research-ване. Не съм се интересувал от университети в чужбина, но имам мнение за тези в България и по-точно в София. СофтУни за мен е като по-лесна версия на Телерик, която обаче ти струва пари. Поради това не виждам смисъл от СофтУни освен ако не искаш просто да преминеш през някакво висше за хартийката както се казва (от някои от партньорите на СофтУни). От там остават ТУ, ФМИ и НБУ. За НБУ има толкова много шарени мнения, а за ТУ основните твърдения са, че знанията които преподават са остарели. Въф ФМИ определено можеш да научиш нещо, но не съвсем по ИТ. До колкото знам обаче математиката и физиката са на ниво там. Общо взето университетите ни, за тази специалност в България са там колкото да ги има по документи. Ако искаш да научиш нещо ще трябва да търсиш сам.&lt;br /&gt;
+&lt;br /&gt;
+Повечето ми мнения са от наблюдение ама реших, че може да ти е полезно да видиш как размишлява някой съвсем малко по-голям от теб.&lt;br /&gt;
+&lt;br /&gt;
+А да, наистина е яко, че имаш желание да се развиваш. Като човек, който се е отказвал от почти всичко започнато преди, при мен това имаше изключително значение :)</description>
+<category>Общи приказки</category>
+<guid isPermaLink="true">http://forums.academy.telerik.com/172610/%D0%B1%D1%8A%D0%B4%D0%B5%D1%89%D0%BE-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5?show=172621#a172621</guid>
+<pubDate>Sun, 07 Sep 2014 16:55:13 +0000</pubDate>
+</item>
+<item>
+<title>Answered: Въпрос за routes в ASP.NET</title>
+<link>http://forums.academy.telerik.com/172599/%D0%B2%D1%8A%D0%BF%D1%80%D0%BE%D1%81-%D0%B7%D0%B0-routes-%D0%B2-asp-net?show=172601#a172601</link>
+<description>Web Api 2 ли ползваш&lt;br /&gt;
+&lt;br /&gt;
+[Route(&amp;quot;artist/{artistId}/albums&amp;quot;)]&lt;br /&gt;
+&lt;br /&gt;
+[HttpGet]&lt;br /&gt;
+&lt;br /&gt;
+public IEnumerable&amp;lt;Album&amp;gt; GetArtistAlbumByArtistId(int artistId)&lt;br /&gt;
+&lt;br /&gt;
+{&lt;br /&gt;
+&lt;br /&gt;
+кода&lt;br /&gt;
+&lt;br /&gt;
+}</description>
+<category>Web services and cloud</category>
+<guid isPermaLink="true">http://forums.academy.telerik.com/172599/%D0%B2%D1%8A%D0%BF%D1%80%D0%BE%D1%81-%D0%B7%D0%B0-routes-%D0%B2-asp-net?show=172601#a172601</guid>
+<pubDate>Sun, 07 Sep 2014 13:00:18 +0000</pubDate>
+</item>
+<item>
+<title>Инсталиране на Entity Framework локално</title>
+<link>http://forums.academy.telerik.com/172590/%D0%B8%D0%BD%D1%81%D1%82%D0%B0%D0%BB%D0%B8%D1%80%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-entity-framework-%D0%BB%D0%BE%D0%BA%D0%B0%D0%BB%D0%BD%D0%BE</link>
+<description>&lt;p&gt;
+	Поради вероятните проблеми с тока по време на изпита утре и съответна липса на интернет, макар и да не е rocket science, описвам как се инсталира EF от свален локално package&lt;br&gt;
+	&lt;br&gt;
+	1. Теглим си пакета от тук: &lt;a href=&quot;http://packages.nuget.org/api/v1/package/entityframework/6.0.1&quot; rel=&quot;nofollow&quot;&gt;&amp;nbsp;packages.nuget.org/api/v1/package/entityframework/6.0.1&lt;/a&gt;&lt;br&gt;
+	&lt;br&gt;
+	2. На проекта, на който искаме да инсталираме EF даваме десен бутон - Manage Nuget Packages&lt;br&gt;
+	&lt;br&gt;
+	3. Влизаме долу вляво в settings -&amp;gt; &amp;nbsp;PackageManager -&amp;gt; PackageSources&lt;br&gt;
+	&lt;br&gt;
+	4. Махаме отметките на Avaliable package sources и на source полето си избираме folder-a, в който сме свалили package-a предварително&lt;br&gt;
+	&lt;br&gt;
+	5. Инсталираме по вече познатият ни начин&lt;br&gt;
+	&lt;br&gt;
+	Може много от вас да знаят как става това, но със сигурност има някой, който не знае и да се занимава на изпит да мисли не си е работа.&lt;br&gt;
+	&lt;br&gt;
+	Поздрави и успех утре!&lt;/p&gt;</description>
+<category>Databases</category>
+<guid isPermaLink="true">http://forums.academy.telerik.com/172590/%D0%B8%D0%BD%D1%81%D1%82%D0%B0%D0%BB%D0%B8%D1%80%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-entity-framework-%D0%BB%D0%BE%D0%BA%D0%B0%D0%BB%D0%BD%D0%BE</guid>
+<pubDate>Sun, 07 Sep 2014 09:43:17 +0000</pubDate>
+</item>
+<item>
+<title>Answered: [Databases] Видео от подготовка за изпит</title>
+<link>http://forums.academy.telerik.com/172514/databases-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE-%D0%BE%D1%82-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%B7%D0%B0-%D0%B8%D0%B7%D0%BF%D0%B8%D1%82?show=172589#a172589</link>
+<description>Аз имам едно въпросче по видеото. Явно нещо съм пропуснал докато съм го гледал, но не мога да открия какво. При създаването на BooksAuthors, след като се опитам да я генерирам в базада гърми и ми казва: Bookstore.Data.BookAuthors: : EntityType 'BookAuthors' has no key defined. Define the key for this EntityType. BookAuthors: EntityType: EntitySet 'BookAuthors' is based on type 'BookAuthors' that has no keys defined. Кодът е почти същия като във видеото, но не иска и това е.&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://pastebin.com/cDAXT8Sb&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;http://pastebin.com/cDAXT8Sb&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+Някой има ли идея защо?</description>
+<category>Databases</category>
+<guid isPermaLink="true">http://forums.academy.telerik.com/172514/databases-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE-%D0%BE%D1%82-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%B7%D0%B0-%D0%B8%D0%B7%D0%BF%D0%B8%D1%82?show=172589#a172589</guid>
+<pubDate>Sun, 07 Sep 2014 09:41:17 +0000</pubDate>
+</item>
+<item>
+<title>Answered: Дата, час и продължителност на изпита</title>
+<link>http://forums.academy.telerik.com/172400/%D0%B4%D0%B0%D1%82%D0%B0-%D1%87%D0%B0%D1%81-%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D1%8A%D0%BB%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D0%BD%D0%BE%D1%81%D1%82-%D0%BD%D0%B0-%D0%B8%D0%B7%D0%BF%D0%B8%D1%82%D0%B0?show=172585#a172585</link>
+<description>Някой може ли да се произнесе по въпроса със софтуера на компютрите в залата и дали има необходимите неща за изпита? Аз ще се опитам да си взема и лаптоп, но на не знам дали ще успея да запаля всички неща, които ще трябват по време на изпита.&lt;br /&gt;
+&lt;br /&gt;
+Друг някой ще ползва ли стационарните машини в залите?</description>
+<category>Databases</category>
+<guid isPermaLink="true">http://forums.academy.telerik.com/172400/%D0%B4%D0%B0%D1%82%D0%B0-%D1%87%D0%B0%D1%81-%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D1%8A%D0%BB%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D0%BD%D0%BE%D1%81%D1%82-%D0%BD%D0%B0-%D0%B8%D0%B7%D0%BF%D0%B8%D1%82%D0%B0?show=172585#a172585</guid>
+<pubDate>Sun, 07 Sep 2014 08:58:34 +0000</pubDate>
+</item>
+<item>
+<title>Answered: [Databases] Processing JSON in .NET</title>
+<link>http://forums.academy.telerik.com/172536/databases-processing-json-in-net?show=172583#a172583</link>
+<description>&lt;p&gt;
+	&lt;a rel=&quot;nofollow&quot; href=&quot;https://github.com/wnvko/TelerikAcademy/tree/master/SoftwareTechnoligies/DataBases/16.%20Processing%20JSON%20in%20.NET/JSONto.NET&quot;&gt;Ето&lt;/a&gt; и моето решение. Много приятна задача, която завършва с реален резултат в браузъра, което много ми хареса.&lt;/p&gt;
+&lt;p&gt;
+	Като цяло в началото ми беше малко трудно докато свикна с интерфейса, но след това нещата се наредиха. Самото решение ми е отделено в няколоко метода всеки от които решава по една задача от условието.&lt;/p&gt;</description>
+<category>Databases</category>
+<guid isPermaLink="true">http://forums.academy.telerik.com/172536/databases-processing-json-in-net?show=172583#a172583</guid>
+<pubDate>Sun, 07 Sep 2014 06:59:53 +0000</pubDate>
+</item>
+<item>
 <title>Answered: [Database] MongoDb Repository pattern and Unit of Work</title>
 <link>http://forums.academy.telerik.com/172546/database-mongodb-repository-pattern-and-unit-of-work?show=172566#a172566</link>
 <description>Колега, браво за труда, само искам да отбележа, че на изпита в понеделник няма да има MongoDB, Иво го каза на лекцията за подготовка в петък, за тези които още не са разбрали.&lt;br /&gt;
@@ -23,39 +199,6 @@
 <category>Училищна софтуерна академия</category>
 <guid isPermaLink="true">http://forums.academy.telerik.com/172564/%D0%B7%D0%B0%D0%BF%D0%B8%D1%82%D0%B2%D0%B0%D0%BD%D0%B5-%D0%B7%D0%B0-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B0-%D0%B5%D1%81%D0%B5%D0%BD-2014</guid>
 <pubDate>Sat, 06 Sep 2014 18:55:27 +0000</pubDate>
-</item>
-<item>
-<title>Answered: [Databases] Видео от подготовка за изпит</title>
-<link>http://forums.academy.telerik.com/172514/databases-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE-%D0%BE%D1%82-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%B7%D0%B0-%D0%B8%D0%B7%D0%BF%D0%B8%D1%82?show=172552#a172552</link>
-<description>&lt;p style=&quot;text-align: justify;&quot;&gt;
-	Не знам дали тук е най-подходящото място да попитам. На подготовката Ивайло казва, че най-добрия вариант е да се генерират нещата и да се пратят към базата. После им тегли ID-та за да генерира обектите които депендват на тях (играчките в случая).&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;
-	Аз вчера я решавах тази задача (онлайн съм и не съм бил на лекцията на живо) и го направих така, че да си пазя в паметта (като генерирам нещо го ръгам в hashSet) референция към генерираните обекти (производители, категории и възрастови групи) и после добавям тези референции към новите играчките.&amp;nbsp;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;
-	Моля някой да ми каже, ако това което съм направил е нередно, а още повече защо е нередно, за да не го правя на изпита, а и за в бъдеще ...&lt;/p&gt;</description>
-<category>Databases</category>
-<guid isPermaLink="true">http://forums.academy.telerik.com/172514/databases-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE-%D0%BE%D1%82-%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0-%D0%B7%D0%B0-%D0%B8%D0%B7%D0%BF%D0%B8%D1%82?show=172552#a172552</guid>
-<pubDate>Sat, 06 Sep 2014 16:04:28 +0000</pubDate>
-</item>
-<item>
-<title>Answered: [Databases] Изпит и проблем с входните данни</title>
-<link>http://forums.academy.telerik.com/172285/databases-%D0%B8%D0%B7%D0%BF%D0%B8%D1%82-%D0%B8-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-%D1%81-%D0%B2%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D1%82%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8?show=172541#a172541</link>
-<description>&lt;p&gt;
-	Докато разглеждах разни неща за създаване на данни за домашното за производителност ми попадна ето този пакет - &lt;a rel=&quot;nofollow&quot; href=&quot;https://efbulkinsert.codeplex.com/&quot;&gt;цък&lt;/a&gt;. Уви, за изпита едва ли ще става - аз лично за database first не успях да го накарам да работи и като гледам от дискусиите не съм единствен. За Code First датабази обаче е доста добро, 10 милиона данни при мен ги вкарва за две минути и половина (това включва и генерацията). Ако някой колега успее да разконспирира как може да се подкара на ef от database first може да е доста полезно (макар че на примерният изпит вече е намалена общата броика на данни за генериране).&lt;/p&gt;</description>
-<category>Databases</category>
-<guid isPermaLink="true">http://forums.academy.telerik.com/172285/databases-%D0%B8%D0%B7%D0%BF%D0%B8%D1%82-%D0%B8-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-%D1%81-%D0%B2%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D1%82%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8?show=172541#a172541</guid>
-<pubDate>Sat, 06 Sep 2014 13:06:21 +0000</pubDate>
-</item>
-<item>
-<title>Answered: [Databases] Processing JSON in .NET</title>
-<link>http://forums.academy.telerik.com/172536/databases-processing-json-in-net?show=172540#a172540</link>
-<description>&lt;p style=&quot;text-align: justify;&quot;&gt;
-	При мен е почти същото, освен конвертирането към POCO, тъй като конверитрам само items. Нарочно не съм отделял задачите в методи, за да се вижа ясно конвертирането между форматите.&lt;/p&gt;
-&lt;p&gt;
-	&lt;a href=&quot;https://github.com/neutrino-git/TelerikAcademy/blob/master/Databases/19.Processing-JSON-in-DotNET/JSON-in-dotNET/AcademyForumRSS/Program.cs&quot; rel=&quot;nofollow&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;</description>
-<category>Databases</category>
-<guid isPermaLink="true">http://forums.academy.telerik.com/172536/databases-processing-json-in-net?show=172540#a172540</guid>
-<pubDate>Sat, 06 Sep 2014 12:46:57 +0000</pubDate>
 </item>
 <item>
 <title>Answered: Бисери от лекторите</title>
@@ -162,14 +305,6 @@
 <category>Databases</category>
 <guid isPermaLink="true">http://forums.academy.telerik.com/172486/database-%D1%89%D0%B5-%D0%B8%D0%BC%D0%B0-%D0%BB%D0%B8-%D0%B7%D0%B0%D0%B4%D1%8A%D0%BB%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D0%BD%D0%B8-%D0%BF%D0%B0%D1%80%D1%81%D1%8A%D1%80%D0%B8-%D0%BD%D0%B0-%D0%B8%D0%B7%D0%BF%D0%B8%D1%82%D0%B0?show=172488#a172488</guid>
 <pubDate>Fri, 05 Sep 2014 21:13:22 +0000</pubDate>
-</item>
-<item>
-<title>Answered: Дата, час и продължителност на изпита</title>
-<link>http://forums.academy.telerik.com/172400/%D0%B4%D0%B0%D1%82%D0%B0-%D1%87%D0%B0%D1%81-%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D1%8A%D0%BB%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D0%BD%D0%BE%D1%81%D1%82-%D0%BD%D0%B0-%D0%B8%D0%B7%D0%BF%D0%B8%D1%82%D0%B0?show=172483#a172483</link>
-<description>За да не отварям нова тема, бих искала да попитам дали ще бъде качено видеото от днешната подготовка, тъй като все пак предстоят почивни дни...</description>
-<category>Databases</category>
-<guid isPermaLink="true">http://forums.academy.telerik.com/172400/%D0%B4%D0%B0%D1%82%D0%B0-%D1%87%D0%B0%D1%81-%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D1%8A%D0%BB%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D0%BD%D0%BE%D1%81%D1%82-%D0%BD%D0%B0-%D0%B8%D0%B7%D0%BF%D0%B8%D1%82%D0%B0?show=172483#a172483</guid>
-<pubDate>Fri, 05 Sep 2014 20:27:19 +0000</pubDate>
 </item>
 <item>
 <title>Answered: Генератор на фалшиви обекти за тестване</title>
@@ -387,51 +522,72 @@
 <pubDate>Fri, 05 Sep 2014 16:03:49 +0000</pubDate>
 </item>
 <item>
-<title>Answered: Конфигурация за графична станция</title>
-<link>http://forums.academy.telerik.com/172396/%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B7%D0%B0-%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%BD%D0%B0-%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F?show=172441#a172441</link>
-<description>Съветвам те да мислиш и за възможност за 2 видеокарти (като евентуален ъпгрейд след известно време, ще им паднат цените и за по-малко кинти ще получиш по-голяма производителност, отколкото да смениш с 1 нова, като имаш предвид и скоростие на дъното). Също провери за РАЙД с ССД та - дали си заслужава за твоите цели - не знам , но проучи и това в зависимост от нуждите си.</description>
-<category>Общи приказки</category>
-<guid isPermaLink="true">http://forums.academy.telerik.com/172396/%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B7%D0%B0-%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%BD%D0%B0-%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F?show=172441#a172441</guid>
-<pubDate>Fri, 05 Sep 2014 11:35:35 +0000</pubDate>
-</item>
-<item>
-<title>Answered: Подмяна на, Palit GTX 750 Ti с r9 270/270x?</title>
-<link>http://forums.academy.telerik.com/172421/%D0%BF%D0%BE%D0%B4%D0%BC%D1%8F%D0%BD%D0%B0-%D0%BD%D0%B0-palit-gtx-750-ti-%D1%81-r9-270-270x?show=172426#a172426</link>
-<description>r9 270/270x са стари карти с нови имена. Стой си с 750 Ti, не си струва.</description>
+<title>Подмяна на, Palit GTX 750 Ti с r9 270/270x?</title>
+<link>http://forums.academy.telerik.com/172421/%D0%BF%D0%BE%D0%B4%D0%BC%D1%8F%D0%BD%D0%B0-%D0%BD%D0%B0-palit-gtx-750-ti-%D1%81-r9-270-270x</link>
+<description>Здравейте колеги.&lt;br /&gt;
+Искам да попитам, заслужава ли си. Да подменя GTX с r9?&lt;br /&gt;
+Колко по-добра производителност ще получа?&lt;br /&gt;
+Играя на 19 инчов монитор, но имам и 24 full hd.&lt;br /&gt;
+Процесора, ще бави ли видеото и т.н.&lt;br /&gt;
+&lt;br /&gt;
+Конфигурацията ми е:&lt;br /&gt;
+Захранване - Chieftec 550w -A-135 &lt;br /&gt;
+Дъно - Asrock, FM2A55M+&lt;br /&gt;
+Процесор -AMD, А8 6600к&lt;br /&gt;
+Hdd - 320 &lt;br /&gt;
+SSD - Samsung, 840 EVO&lt;br /&gt;
+12-GB RAM&lt;br /&gt;
+&amp;nbsp;+ 4-ри допълнителни вентилатора.&lt;br /&gt;
+&lt;br /&gt;
+П.с: Ако имате други предложения, бих се радвал да ги споделите.</description>
 <category>Игри</category>
-<guid isPermaLink="true">http://forums.academy.telerik.com/172421/%D0%BF%D0%BE%D0%B4%D0%BC%D1%8F%D0%BD%D0%B0-%D0%BD%D0%B0-palit-gtx-750-ti-%D1%81-r9-270-270x?show=172426#a172426</guid>
-<pubDate>Fri, 05 Sep 2014 10:10:47 +0000</pubDate>
+<guid isPermaLink="true">http://forums.academy.telerik.com/172421/%D0%BF%D0%BE%D0%B4%D0%BC%D1%8F%D0%BD%D0%B0-%D0%BD%D0%B0-palit-gtx-750-ti-%D1%81-r9-270-270x</guid>
+<pubDate>Fri, 05 Sep 2014 08:47:51 +0000</pubDate>
 </item>
 <item>
-<title>Answered: SQL Server Express 2014 - проблем с инсталация</title>
-<link>http://forums.academy.telerik.com/171501/sql-server-express-2014-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-%D1%81-%D0%B8%D0%BD%D1%81%D1%82%D0%B0%D0%BB%D0%B0%D1%86%D0%B8%D1%8F?show=172408#a172408</link>
+<title>Конфигурация за графична станция</title>
+<link>http://forums.academy.telerik.com/172396/%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B7%D0%B0-%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%BD%D0%B0-%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F</link>
 <description>&lt;p&gt;
-	Колеги, пробвах да инсталирам MS SQL 2014 Express, и накрая получих следните &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.dropbox.com/s/sosgtuinyu37b9y/01.jpg?dl=0&quot;&gt;грешки&lt;/a&gt;. Преинсталирах го, и пак стана същото. Някой може ли да помогне?&lt;/p&gt;</description>
-<category>Databases</category>
-<guid isPermaLink="true">http://forums.academy.telerik.com/171501/sql-server-express-2014-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-%D1%81-%D0%B8%D0%BD%D1%81%D1%82%D0%B0%D0%BB%D0%B0%D1%86%D0%B8%D1%8F?show=172408#a172408</guid>
-<pubDate>Fri, 05 Sep 2014 00:49:41 +0000</pubDate>
-</item>
-<item>
-<title>Answered: [Databases] Изтекла дата за изпращане на отборните проекти</title>
-<link>http://forums.academy.telerik.com/172356/databases-%D0%B8%D0%B7%D1%82%D0%B5%D0%BA%D0%BB%D0%B0-%D0%B4%D0%B0%D1%82%D0%B0-%D0%B7%D0%B0-%D0%B8%D0%B7%D0%BF%D1%80%D0%B0%D1%89%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D1%82%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8?show=172387#a172387</link>
-<description>С риск за хейт. Тези срокове не са от вчера и си се знаят. Това че някой забравя си е негов пропуск и не мисля, че трябва да се прави нещо по въпроса а просто да се вземе конкретния урок и да се следят датите повече честно казано. Ако някой срок е сгрешен се оправя от лекторите но ако е стар и си се знае от седмица е различно.</description>
-<category>Databases</category>
-<guid isPermaLink="true">http://forums.academy.telerik.com/172356/databases-%D0%B8%D0%B7%D1%82%D0%B5%D0%BA%D0%BB%D0%B0-%D0%B4%D0%B0%D1%82%D0%B0-%D0%B7%D0%B0-%D0%B8%D0%B7%D0%BF%D1%80%D0%B0%D1%89%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D1%82%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8?show=172387#a172387</guid>
-<pubDate>Thu, 04 Sep 2014 14:20:05 +0000</pubDate>
-</item>
-<item>
-<title>Answered: Как да получа стойността на &quot;id&quot; - то на бутон при натискането му HTML/PHP?</title>
-<link>http://forums.academy.telerik.com/172377/%D0%BA%D0%B0%D0%BA-%D0%B4%D0%B0-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B0-%D1%81%D1%82%D0%BE%D0%B9%D0%BD%D0%BE%D1%81%D1%82%D1%82%D0%B0-%D1%82%D0%BE-%D0%B1%D1%83%D1%82%D0%BE%D0%BD-%D0%BF%D1%80%D0%B8-%D0%BD%D0%B0%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D0%BD%D0%B5%D1%82%D0%BE-%D0%BC%D1%83-html-php?show=172383#a172383</link>
-<description>До колкото разбрах той иска да вземе стойността на самото ID, когато направи POST ще му върне стойността на value. &lt;br /&gt;
-&lt;br /&gt;
-С чисто php не се сещам как може да стане това, но има една готина библиотека с която можеш да правиш DOM операции върху елементите. &lt;br /&gt;
-&lt;br /&gt;
-PHPQuery - &lt;a href=&quot;https://code.google.com/p/phpquery/&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;https://code.google.com/p/phpquery/&lt;/a&gt; &lt;br /&gt;
-&lt;br /&gt;
-Разгледай документацията всичко е описано, как да си include-неш библиотеката. И вече от там можеш да достъпваш атрибутите на елемента.</description>
-<category>HTML/CSS</category>
-<guid isPermaLink="true">http://forums.academy.telerik.com/172377/%D0%BA%D0%B0%D0%BA-%D0%B4%D0%B0-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B0-%D1%81%D1%82%D0%BE%D0%B9%D0%BD%D0%BE%D1%81%D1%82%D1%82%D0%B0-%D1%82%D0%BE-%D0%B1%D1%83%D1%82%D0%BE%D0%BD-%D0%BF%D1%80%D0%B8-%D0%BD%D0%B0%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D0%BD%D0%B5%D1%82%D0%BE-%D0%BC%D1%83-html-php?show=172383#a172383</guid>
-<pubDate>Thu, 04 Sep 2014 13:02:12 +0000</pubDate>
+	Здравейте, нужно ми е мнение за графична станция. Ще се използва за архитектура/дизайн. Основните програми: Revit, 3ds Max, Rhino/Grasshopper и V-ray. Бюджета за станцията е около 4000 лв с ддс. На следващ етап ще си взема монитор. След проучване съм се насочил към две конфигурации. Двоумя се на коя да заложа и дали да направя някакви промени по нея.&amp;nbsp;&lt;br&gt;
+	&lt;br&gt;
+	Вариант 1:&lt;br&gt;
+	-CPU INTEL CORE i7-4930K, 3.4GHz, 12MB, BOX, LGA2011&amp;nbsp;&lt;br&gt;
+	-MB ASUS P9X79, X79, DDR III 2400(O.C)/1600/1333, SATA III, TAID, eSATA, 1394, USB 3.0, GLAN, LGA2011&amp;nbsp;&lt;br&gt;
+	-RAM Kingston Genesis 4X8GB, DDR3, 1866Mhz&lt;br&gt;
+	-HDD WD Black HDD Desktop 2TB&amp;nbsp;&lt;br&gt;
+	-SSD Samsung&amp;nbsp;840 Pro Int. 2.5&quot; 256GB&lt;br&gt;
+	-VC NVIDIA Quadro Kepler K2000 2GB GDDR5 PCIe&lt;br&gt;
+	-DVD DVD RW&lt;br&gt;
+	-PSU Corsair Enthusiast Series RM750&lt;br&gt;
+	-CASE COOLERMASTER Silencio 652&lt;br&gt;
+	&lt;br&gt;
+	Вариант 2:&lt;br&gt;
+	-CPU Intel Xeon E5-1650 v2 (6 cores) 3.5Ghz,12MB L3 cache, s2011&lt;br&gt;
+	-MB Supermicro X9SRA, socket R, Intel C602, Up to 256GB DDR3, 2 PCI-E 3.0 x16, 1 PCI-E&amp;nbsp;&lt;br&gt;
+	-RAM 4х8GB DDR3-1600 ECC REG Kinston, KVR16R11S4/4&amp;nbsp;&lt;br&gt;
+	-HDD WD Black HDD Desktop 2TB&lt;br&gt;
+	-SSD Samsung SSD 840 Pro Int. 2.5&quot; 256GB&lt;br&gt;
+	-VC NVIDIA Quadro Kepler K2000 2GB GDDR5 PCIe&lt;br&gt;
+	-DVD DVD RW PSU Corsair Enthusiast Series RM750&lt;/p&gt;
+&lt;p&gt;
+	-PSU Corsair Enthusiast Series RM750&lt;br&gt;
+	-CASE COOLERMASTER Silencio 652&lt;br&gt;
+	&lt;br&gt;
+	Направих една табличка за захранването, ако има някакви пропуски или грешки, споделете&amp;nbsp;&lt;img alt=&quot;&quot; src=&quot;http://hardwarebg.com/forum/images/smilies/standard/smile.gif&quot; title=&quot;Smilie&quot;&gt;&lt;br&gt;
+	Процесор 1x 150 W = 150 w 150&lt;br&gt;
+	Видео картa 150 W 150&lt;br&gt;
+	Вентилатор 4x 10 W = 40 w 40&lt;br&gt;
+	Дъно 90w 90&lt;br&gt;
+	Рам памет по 10w на парче 40&lt;br&gt;
+	Хард диск 10w на парче 10&lt;br&gt;
+	SSD 1&lt;br&gt;
+	DVD 10w (20w при развъртане) 20&lt;br&gt;
+	мишка и клавиатура 12w 12&lt;br&gt;
+	Клокване 100w-опция 100&amp;nbsp;&lt;br&gt;
+	ОБЩО: 613&lt;/p&gt;</description>
+<category>Общи приказки</category>
+<guid isPermaLink="true">http://forums.academy.telerik.com/172396/%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B7%D0%B0-%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%BD%D0%B0-%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F</guid>
+<pubDate>Thu, 04 Sep 2014 17:17:49 +0000</pubDate>
 </item>
 <item>
 <title>Create MongoLab Account and Database Tutorial</title>
@@ -446,20 +602,45 @@ PHPQuery - &lt;a href=&quot;https://code.google.com/p/phpquery/&quot; rel=&quot;
 <pubDate>Thu, 04 Sep 2014 12:56:08 +0000</pubDate>
 </item>
 <item>
-<title>Answered: Macbook Air vs Toshiba Satellite Z30</title>
-<link>http://forums.academy.telerik.com/172301/macbook-air-vs-toshiba-satellite-z30?show=172371#a172371</link>
-<description>Ако ще даваш такива пари за ultrabook бих те посъветвал за други модели.&lt;br /&gt;
-&lt;br /&gt;
-И майка ми и приятелката ми имат Samsung Ativ Book 9 plus. Страхотен ултрабук, алуминиев корпус, бърз надежден, лек и много удобен. Дисплеят е страхотен! Ако можеш да си набавиш такъв от Щатите за 2300 лева ще вземеш най-мощния модел с i7. Батерията издържа около 7-8 часа с интернет и тежко ползване - клипове и т.н.&lt;br /&gt;
-&lt;br /&gt;
-Ако пък парите въобще не са проблем --&amp;gt; Lenovo X1 Carbon Touch. Имал съм Thinkpad, който вече е притежание на сестра ми. 6 години и все още работи безупречно! Имат най-невероятните клавиатури в света на лаптопите според мен и сервиза им в София е доста добър. Един мой много добър приятел QA инженер от много години, си купи този след дълго четене. Казва, че е предоволен. &lt;br /&gt;
-&lt;br /&gt;
-&amp;nbsp;&lt;br /&gt;
-&lt;br /&gt;
-Това е от мен :)</description>
-<category>Общи приказки</category>
-<guid isPermaLink="true">http://forums.academy.telerik.com/172301/macbook-air-vs-toshiba-satellite-z30?show=172371#a172371</guid>
-<pubDate>Thu, 04 Sep 2014 10:22:36 +0000</pubDate>
+<title>Как да получа стойността на &quot;id&quot; - то на бутон при натискането му HTML/PHP?</title>
+<link>http://forums.academy.telerik.com/172377/%D0%BA%D0%B0%D0%BA-%D0%B4%D0%B0-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B0-%D1%81%D1%82%D0%BE%D0%B9%D0%BD%D0%BE%D1%81%D1%82%D1%82%D0%B0-%D1%82%D0%BE-%D0%B1%D1%83%D1%82%D0%BE%D0%BD-%D0%BF%D1%80%D0%B8-%D0%BD%D0%B0%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D0%BD%D0%B5%D1%82%D0%BE-%D0%BC%D1%83-html-php</link>
+<description>&lt;p&gt;
+	Имам следния бутон:&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;span style=&quot;font-size:14px;&quot;&gt;&lt;span style=&quot;font-family:tahoma,geneva,sans-serif;&quot;&gt;&amp;lt;input type = &quot;button&quot; value = &quot;Button&quot; id=&quot;1&quot; onClick = &quot;displayID(id)&quot;/&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+	Направих функция в PHP файла :&lt;/p&gt;
+&lt;div&gt;
+	&lt;strong&gt;&lt;span style=&quot;font-size:14px;&quot;&gt;&lt;span style=&quot;font-family:georgia,serif;&quot;&gt;function displayID($id){&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;
+	&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;
+	&lt;strong&gt;&lt;span style=&quot;font-size:14px;&quot;&gt;&lt;span style=&quot;font-family:georgia,serif;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; return $id;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;
+	&lt;strong&gt;&lt;span style=&quot;font-size:14px;&quot;&gt;&lt;span style=&quot;font-family:georgia,serif;&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;
+	&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;
+	След това давам стойноста на тази функция на променлива:&lt;/div&gt;
+&lt;div&gt;
+	&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;
+	&lt;span style=&quot;font-size:14px;&quot;&gt;&lt;span style=&quot;font-family:georgia,serif;&quot;&gt;&lt;strong&gt;$valueID =&amp;nbsp;displayID($id);&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;
+	&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;
+	&lt;span style=&quot;font-size:14px;&quot;&gt;&lt;span style=&quot;font-family:georgia,serif;&quot;&gt;&lt;strong&gt;echo&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;strong style=&quot;font-family: georgia, serif; font-size: 14px;&quot;&gt;$valueID;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;
+	&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;
+	И ми дава грешка : Indefied variable $id;&lt;/div&gt;
+&lt;div&gt;
+	&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;
+	&amp;nbsp;&lt;/div&gt;</description>
+<category>HTML/CSS</category>
+<guid isPermaLink="true">http://forums.academy.telerik.com/172377/%D0%BA%D0%B0%D0%BA-%D0%B4%D0%B0-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B0-%D1%81%D1%82%D0%BE%D0%B9%D0%BD%D0%BE%D1%81%D1%82%D1%82%D0%B0-%D1%82%D0%BE-%D0%B1%D1%83%D1%82%D0%BE%D0%BD-%D0%BF%D1%80%D0%B8-%D0%BD%D0%B0%D1%82%D0%B8%D1%81%D0%BA%D0%B0%D0%BD%D0%B5%D1%82%D0%BE-%D0%BC%D1%83-html-php</guid>
+<pubDate>Thu, 04 Sep 2014 12:29:49 +0000</pubDate>
 </item>
 <item>
 <title>Профилактика на електрическото захранване в &quot;Академията на Телерик&quot;</title>
@@ -479,369 +660,12 @@ PHPQuery - &lt;a href=&quot;https://code.google.com/p/phpquery/&quot; rel=&quot;
 <pubDate>Thu, 04 Sep 2014 09:21:09 +0000</pubDate>
 </item>
 <item>
-<title>Answered: R programming language</title>
-<link>http://forums.academy.telerik.com/149055/r-programming-language?show=172365#a172365</link>
-<description>Открих R случайно в началото на годината. Занимавам се с анализ на финансови данни, като използвам доста иконометрика. SPSS никога не ми е бил приятен за разлика от EVIWS. Последният е подходящ за иконометрично моделиране, като и дава възможност за програмиране, така че да си насториш моделите според изискванията.&lt;br /&gt;
-&lt;br /&gt;
-Вече използвам R. Трябва много ровене и четене, докато устиш езика и спецификата му. Вятно има доста пакети, но трябва да си убеден в тяхната акуратност, като една и съща функция може да е в 3 пакета и ако ги използваш може да има конфликт.&lt;br /&gt;
-&lt;br /&gt;
-На мене ми върши страхотна работа - както за излседователска, така и за бизнес. Но имам 1 на ум, когаот исползвам готови пакети, а не мои.</description>
-<category>Общи приказки</category>
-<guid isPermaLink="true">http://forums.academy.telerik.com/149055/r-programming-language?show=172365#a172365</guid>
-<pubDate>Thu, 04 Sep 2014 08:21:09 +0000</pubDate>
-</item>
-<item>
-<title>Answered: [Databases] Защита на отборни проекти?</title>
-<link>http://forums.academy.telerik.com/172220/databases-%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BD%D0%B8-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8?show=172363#a172363</link>
-<description>&lt;p&gt;
-	Здравейте,&lt;/p&gt;
-&lt;p&gt;
-	Днес от 18.00 часа в зала „Ultimate“ ще се проведе лекцията „Ролята на специалиста по поддръжка на софтуера (Support Officer) в „Телерик““.&lt;/p&gt;
-&lt;p&gt;
-	Поради тази причина защитите отборните проекти, които трябва да се проведат след 17.00 часа, ще се състоят в зала „Enterprise“.&lt;/p&gt;
-&lt;p&gt;
-	Отборите, които са засегнати от промяната, са:&lt;/p&gt;
-&lt;table border=&quot;1&quot; cellpadding=&quot;1&quot; cellspacing=&quot;1&quot; style=&quot;width: 517px;&quot; width=&quot;517&quot;&gt;
-	&lt;tbody&gt;
-		&lt;tr&gt;
-			&lt;td style=&quot;width:244px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					&lt;strong&gt;Team&lt;/strong&gt;&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:55px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					&lt;strong&gt;Type&lt;/strong&gt;&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:104px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					&lt;strong&gt;Training hall&lt;/strong&gt;&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					&lt;strong&gt;Date&lt;/strong&gt;&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					&lt;strong&gt;Time&lt;/strong&gt;&lt;/p&gt;
-			&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr&gt;
-			&lt;td style=&quot;width:244px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Team &quot;Ancient Behemoth&quot;&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:55px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					on-site&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:104px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Enterprise&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					4.9.2014&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					17:00:00&lt;/p&gt;
-			&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr&gt;
-			&lt;td style=&quot;width:244px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Team &quot;Roc&quot;&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:55px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					on-site&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:104px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Enterprise&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					4.9.2014&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					17:15:00&lt;/p&gt;
-			&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr&gt;
-			&lt;td style=&quot;width:244px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Team &quot;Centaur&quot;&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:55px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					on-site&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:104px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Enterprise&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					4.9.2014&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					17:30:00&lt;/p&gt;
-			&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr&gt;
-			&lt;td style=&quot;width:244px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Team &quot;Orc&quot;&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:55px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					on-site&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:104px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Enterprise&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					4.9.2014&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					17:45:00&lt;/p&gt;
-			&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr&gt;
-			&lt;td style=&quot;width:244px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Team &quot;Griffin&quot;&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:55px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					on-site&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:104px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Enterprise&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					4.9.2014&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					18:00:00&lt;/p&gt;
-			&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr&gt;
-			&lt;td style=&quot;width:244px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Team &quot;Wolf Rider&quot;&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:55px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					on-site&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:104px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Enterprise&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					4.9.2014&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					18:15:00&lt;/p&gt;
-			&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr&gt;
-			&lt;td style=&quot;width:244px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Team &quot;Fire Elemental&quot;&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:55px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					on-site&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:104px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Enterprise&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					4.9.2014&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					18:30:00&lt;/p&gt;
-			&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr&gt;
-			&lt;td style=&quot;width:244px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Team &quot;Wyvern&quot;&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:55px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					on-site&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:104px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Enterprise&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					4.9.2014&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					18:45:00&lt;/p&gt;
-			&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr&gt;
-			&lt;td style=&quot;width:244px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Team &quot;Inferno&quot;&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:55px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					online&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:104px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Enterprise&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					4.9.2014&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					19:00:00&lt;/p&gt;
-			&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr&gt;
-			&lt;td style=&quot;width:244px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Team &quot;Tower&quot;&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:55px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					online&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:104px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Enterprise&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					4.9.2014&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					19:15:00&lt;/p&gt;
-			&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr&gt;
-			&lt;td style=&quot;width:244px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Team &quot;Stronghold&quot;&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:55px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					online&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:104px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Enterprise&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					4.9.2014&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					19:30:00&lt;/p&gt;
-			&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr&gt;
-			&lt;td style=&quot;width:244px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Team &quot;Conflux&quot;&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:55px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					online&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:104px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Enterprise&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					4.9.2014&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					19:45:00&lt;/p&gt;
-			&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr&gt;
-			&lt;td style=&quot;width:244px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Team &quot;Castle&quot;&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:55px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					online&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:104px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Enterprise&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					4.9.2014&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					20:00:00&lt;/p&gt;
-			&lt;/td&gt;
-		&lt;/tr&gt;
-		&lt;tr&gt;
-			&lt;td style=&quot;width:244px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Team &quot;Dungeon&quot;&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:55px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					online&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:104px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					Enterprise&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					4.9.2014&lt;/p&gt;
-			&lt;/td&gt;
-			&lt;td style=&quot;width:57px;height:17px; white-space: nowrap;&quot;&gt;
-				&lt;p style=&quot;text-align: center;&quot;&gt;
-					20:15:00&lt;/p&gt;
-			&lt;/td&gt;
-		&lt;/tr&gt;
-	&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;
-	&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;
-	Поздрави,&lt;/p&gt;</description>
-<category>Софтуерна академия на Телерик</category>
-<guid isPermaLink="true">http://forums.academy.telerik.com/172220/databases-%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BD%D0%B8-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8?show=172363#a172363</guid>
-<pubDate>Thu, 04 Sep 2014 07:57:20 +0000</pubDate>
+<title>[Databases] Изтекла дата за изпращане на отборните проекти</title>
+<link>http://forums.academy.telerik.com/172356/databases-%D0%B8%D0%B7%D1%82%D0%B5%D0%BA%D0%BB%D0%B0-%D0%B4%D0%B0%D1%82%D0%B0-%D0%B7%D0%B0-%D0%B8%D0%B7%D0%BF%D1%80%D0%B0%D1%89%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D1%82%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8</link>
+<description>Здравейте! Искам да попитам - датата за изпращане на отборните проекти в системата не беше ли до днес включително? Преди половин час някъде исках да си изпратя домашното, но срокът беше изтекъл. Искам да попитам трейнърите, има ли някаква възможност да удължат малко срока (до обяд примерно), защото така излиза, че нямаме отборна, а не е така. Не знам дали има други колеги с подобен проблем, които не са успяли да си изпратят домашното, но ако е възможно, нека го удължим малко. Мерси предварително.</description>
+<category>Databases</category>
+<guid isPermaLink="true">http://forums.academy.telerik.com/172356/databases-%D0%B8%D0%B7%D1%82%D0%B5%D0%BA%D0%BB%D0%B0-%D0%B4%D0%B0%D1%82%D0%B0-%D0%B7%D0%B0-%D0%B8%D0%B7%D0%BF%D1%80%D0%B0%D1%89%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D1%82%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8</guid>
+<pubDate>Thu, 04 Sep 2014 07:25:02 +0000</pubDate>
 </item>
 <item>
 <title>XML парсери - Demo Live различно от това в системата</title>
@@ -856,6 +680,14 @@ PHPQuery - &lt;a href=&quot;https://code.google.com/p/phpquery/&quot; rel=&quot;
 <category>Софтуерна академия на Телерик</category>
 <guid isPermaLink="true">http://forums.academy.telerik.com/172336/xml-%D0%BF%D0%B0%D1%80%D1%81%D0%B5%D1%80%D0%B8-demo-live-%D1%80%D0%B0%D0%B7%D0%BB%D0%B8%D1%87%D0%BD%D0%BE-%D0%BE%D1%82-%D1%82%D0%BE%D0%B2%D0%B0-%D0%B2-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B0</guid>
 <pubDate>Wed, 03 Sep 2014 22:07:56 +0000</pubDate>
+</item>
+<item>
+<title>Macbook Air vs Toshiba Satellite Z30</title>
+<link>http://forums.academy.telerik.com/172301/macbook-air-vs-toshiba-satellite-z30</link>
+<description>Здравейте колеги, приеха ме в ФМИ на СУ и сега ще ми трябва компютър, Спрял съм се на два модела, Macbook Air Intel i7 1.7Ghz, 8GB ram, 256GB SSD и &lt;a href=&quot;http://laptop.bg/archive/laptops-toshiba-Satellite_Z30_A-toshiba_satellite_z30_a_130&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;http://laptop.bg/archive/laptops-toshiba-Satellite_Z30_A-toshiba_satellite_z30_a_130&lt;/a&gt; , тук опира въпроса дали мак или уиндоус. Съвети, предложения, впечатления?</description>
+<category>Общи приказки</category>
+<guid isPermaLink="true">http://forums.academy.telerik.com/172301/macbook-air-vs-toshiba-satellite-z30</guid>
+<pubDate>Wed, 03 Sep 2014 11:23:31 +0000</pubDate>
 </item>
 <item>
 <title>Проблем при свързване на SQLite и C#!</title>
@@ -894,6 +726,17 @@ PHPQuery - &lt;a href=&quot;https://code.google.com/p/phpquery/&quot; rel=&quot;
 <category>Databases</category>
 <guid isPermaLink="true">http://forums.academy.telerik.com/172235/databases-ado-net-%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B8-%D0%B8-string-format</guid>
 <pubDate>Tue, 02 Sep 2014 13:34:46 +0000</pubDate>
+</item>
+<item>
+<title>[Databases] Защита на отборни проекти?</title>
+<link>http://forums.academy.telerik.com/172220/databases-%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BD%D0%B8-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8</link>
+<description>Здравейте!&lt;br /&gt;
+Знае ли се кога горе-долу ще са защитите на отборните проекти по Бази данни? Пред/след изпита ?&lt;br /&gt;
+&lt;br /&gt;
+Благодаря предварително за отговора :)</description>
+<category>Софтуерна академия на Телерик</category>
+<guid isPermaLink="true">http://forums.academy.telerik.com/172220/databases-%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BD%D0%B8-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8</guid>
+<pubDate>Tue, 02 Sep 2014 08:19:32 +0000</pubDate>
 </item>
 <item>
 <title>Работа с ASP.NET mvc и  AJAX</title>
@@ -980,144 +823,6 @@ queryResult.First().GetType().GetProperties().Length</description>
 <category>Databases</category>
 <guid isPermaLink="true">http://forums.academy.telerik.com/172147/%D0%BA%D0%B0%D0%BA-%D0%B4%D0%B0-%D0%B2%D0%B7%D0%B5%D0%BC%D0%B0-%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BF%D1%80%D0%BE%D0%BF%D1%8A%D1%80%D1%82%D0%B8%D1%82%D0%B0%D1%82%D0%B0</guid>
 <pubDate>Mon, 01 Sep 2014 10:23:48 +0000</pubDate>
-</item>
-<item>
-<title>[Databases] Домашни и отборната работа.</title>
-<link>http://forums.academy.telerik.com/172146/databases-%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8-%D0%B8-%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%82%D0%B0-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0</link>
-<description>Имам едно предложение... Нека домашните за сряда да се преместят с един ден(Четвъртък) или за уикенда, за да имаме повече време за отборните работи.</description>
-<category>Databases</category>
-<guid isPermaLink="true">http://forums.academy.telerik.com/172146/databases-%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8-%D0%B8-%D0%BE%D1%82%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%82%D0%B0-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0</guid>
-<pubDate>Mon, 01 Sep 2014 10:07:56 +0000</pubDate>
-</item>
-<item>
-<title>Wintellect.PowerCollections Namespace</title>
-<link>http://forums.academy.telerik.com/172053/wintellect-powercollections-namespace</link>
-<description>&lt;p&gt;
-	На лекцията за&amp;nbsp;Advanced Data Structures Иво спомена, че миналата година е успял да намери всички класове на&amp;nbsp;Wintellect.PowerCollections, но не можа да ни покаже къде са.&lt;/p&gt;
-&lt;p&gt;
-	Мисля че &lt;a rel=&quot;nofollow&quot; href=&quot;http://submain.com/ghostdoc/samples/PowerCollections/HTML/html/526895641.htm&quot;&gt;тук&lt;/a&gt; е това което търсеше :)&lt;/p&gt;</description>
-<category>Data Structures &amp; Algorithms</category>
-<guid isPermaLink="true">http://forums.academy.telerik.com/172053/wintellect-powercollections-namespace</guid>
-<pubDate>Sun, 31 Aug 2014 16:35:07 +0000</pubDate>
-</item>
-<item>
-<title>Рекурсия за ТОТО комбинациите</title>
-<link>http://forums.academy.telerik.com/172027/%D1%80%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F-%D0%B7%D0%B0-%D1%82%D0%BE%D1%82%D0%BE-%D0%BA%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%86%D0%B8%D0%B8%D1%82%D0%B5</link>
-<description>&lt;p&gt;
-	Здравейте,&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;
-	Освен с фор цикли, исках да пробвам с рекурсия да изкарам броя комбинации 6/49. Трябва да са&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: sans-serif; font-size: 14px; line-height: 22.3999996185303px; background-color: rgb(227, 227, 227);&quot;&gt;13,983,816&lt;/span&gt;, но моя код очевидно е грешен и изкарва доста повече. Много съм бос с рекурсията.&lt;/p&gt;
-&lt;div&gt;
-	class Program&lt;/div&gt;
-&lt;div&gt;
-	&amp;nbsp; &amp;nbsp; {&lt;/div&gt;
-&lt;div&gt;
-	&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; static int counter;&lt;/div&gt;
-&lt;div&gt;
-	&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; static void Main()&lt;/div&gt;
-&lt;div&gt;
-	&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/div&gt;
-&lt;div&gt;
-	&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; GenerateCombinations();&lt;/div&gt;
-&lt;div&gt;
-	&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Console.WriteLine(counter);&lt;/div&gt;
-&lt;div&gt;
-	&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;
-&lt;div&gt;
-	&amp;nbsp;&lt;/div&gt;
-&lt;div&gt;
-	&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; private static void GenerateCombinations(int start = 1, int end = 5)&lt;/div&gt;
-&lt;div&gt;
-	&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/div&gt;
-&lt;div&gt;
-	&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; counter++;&lt;/div&gt;
-&lt;div&gt;
-	&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; for (int i = start; i &amp;lt;= 49 - end; i++)&lt;/div&gt;
-&lt;div&gt;
-	&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/div&gt;
-&lt;div&gt;
-	&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;
-&lt;div&gt;
-	&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; if (end == 0)&lt;/div&gt;
-&lt;div&gt;
-	&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/div&gt;
-&lt;div&gt;
-	&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; break;&lt;/div&gt;
-&lt;div&gt;
-	&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;
-&lt;div&gt;
-	&amp;nbsp;&lt;/div&gt;
-&lt;div&gt;
-	&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; GenerateCombinations(start + 1, end - 1);&lt;/div&gt;
-&lt;div&gt;
-	&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;
-&lt;div&gt;
-	&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/div&gt;
-&lt;div&gt;
-	&amp;nbsp; &amp;nbsp; }&lt;/div&gt;</description>
-<category>Data Structures &amp; Algorithms</category>
-<guid isPermaLink="true">http://forums.academy.telerik.com/172027/%D1%80%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F-%D0%B7%D0%B0-%D1%82%D0%BE%D1%82%D0%BE-%D0%BA%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%86%D0%B8%D0%B8%D1%82%D0%B5</guid>
-<pubDate>Sun, 31 Aug 2014 11:15:20 +0000</pubDate>
-</item>
-<item>
-<title>Позволени библиотеки за Team work</title>
-<link>http://forums.academy.telerik.com/172026/%D0%BF%D0%BE%D0%B7%D0%B2%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8-%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8-%D0%B7%D0%B0-team-work</link>
-<description>&lt;p&gt;
-	Тъй като в заданието пише&lt;/p&gt;
-&lt;ul&gt;
-	&lt;li&gt;
-		For the PDF export use a non-commercial third party framework.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-	Това включва ли&lt;/p&gt;
-&lt;h3 class=&quot;r&quot;&gt;
-	&lt;a rel=&quot;nofollow&quot; href=&quot;http://sourceforge.net/projects/itextsharp/&quot;&gt;&lt;em&gt;iTextSharp&lt;/em&gt;&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;
-	като не позволена библиотека.&lt;/p&gt;</description>
-<category>Databases</category>
-<guid isPermaLink="true">http://forums.academy.telerik.com/172026/%D0%BF%D0%BE%D0%B7%D0%B2%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8-%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8-%D0%B7%D0%B0-team-work</guid>
-<pubDate>Sun, 31 Aug 2014 11:08:46 +0000</pubDate>
-</item>
-<item>
-<title>EF Домашно Task 8</title>
-<link>http://forums.academy.telerik.com/172016/ef-%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%BE-task-8</link>
-<description>Здравейте,&lt;br /&gt;
-&lt;br /&gt;
-някой да е направил наследяването в Task 8 - да даде някой жокер.&lt;br /&gt;
-&lt;br /&gt;
-Аз правя public partial class EmployeeExtended : Employee, след което public override ICollection&amp;lt;Territory&amp;gt; Territories и..... дотук</description>
-<category>Databases</category>
-<guid isPermaLink="true">http://forums.academy.telerik.com/172016/ef-%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%BE-task-8</guid>
-<pubDate>Sun, 31 Aug 2014 09:13:35 +0000</pubDate>
-</item>
-<item>
-<title>[Database] Проблем при избор на модел за работа с база данни</title>
-<link>http://forums.academy.telerik.com/171987/database-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-%D0%BF%D1%80%D0%B8-%D0%B8%D0%B7%D0%B1%D0%BE%D1%80-%D0%BD%D0%B0-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB-%D0%B7%D0%B0-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%B1%D0%B0%D0%B7%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8</link>
-<description>Здравейте колеги,&lt;br /&gt;
-&lt;br /&gt;
-След като изгледах видеото за ORM технологии и &amp;nbsp;Entity Framework, видях как се правят различните модели за работа с базата данни. Съответно на видеото Иво показва, че са възможни четири варианта за създаване на Entiry Framework - EF Designer from database, Empty EF Designer model, Empty code first model и Code first from database. Също така се споменава, че тези четири варианта са при Entity Framework 6. Инсталирам си Entity Framework към съответния проект през nuGet, версията е 6.1.1., обаче след това ми се показват само пърите два модела, няма Empty code first model и Code first from database. Моля за съвет как да се справя с проблема. Работя с VS2012 Ultimate.&lt;br /&gt;
-&lt;br /&gt;
-Благодаря предварително.</description>
-<category>Databases</category>
-<guid isPermaLink="true">http://forums.academy.telerik.com/171987/database-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-%D0%BF%D1%80%D0%B8-%D0%B8%D0%B7%D0%B1%D0%BE%D1%80-%D0%BD%D0%B0-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB-%D0%B7%D0%B0-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%B1%D0%B0%D0%B7%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8</guid>
-<pubDate>Sat, 30 Aug 2014 16:45:25 +0000</pubDate>
-</item>
-<item>
-<title>[Databases] Достъп на данни през навигационни полета</title>
-<link>http://forums.academy.telerik.com/171975/databases-%D0%B4%D0%BE%D1%81%D1%82%D1%8A%D0%BF-%D0%BD%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8-%D0%BF%D1%80%D0%B5%D0%B7-%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B8-%D0%BF%D0%BE%D0%BB%D0%B5%D1%82%D0%B0</link>
-<description>&lt;p&gt;
-	Здравейте,&lt;/p&gt;
-&lt;p&gt;
-	Опитвам се да изпълня следната заявка -&amp;gt; &lt;strong&gt;&lt;a rel=&quot;nofollow&quot; href=&quot;http://pastebin.com/BShHSmX1&quot; target=&quot;_blank&quot;&gt;цък.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;
-	Взимам си всички курсове през контекста и мога да принтирам полетата, които има всеки курс. Когато обаче се опитвам да достъпя студентите през навигационното поле в курса ми хвърля следната грешка:&lt;/p&gt;
-&lt;p&gt;
-	There is already an open DataReader associated with this Command which must be closed first.&lt;/p&gt;
-&lt;p&gt;
-	Някой има ли представа какъв е проблема и съответно как могат да се достъпят данните по този начин?&lt;/p&gt;</description>
-<category>Databases</category>
-<guid isPermaLink="true">http://forums.academy.telerik.com/171975/databases-%D0%B4%D0%BE%D1%81%D1%82%D1%8A%D0%BF-%D0%BD%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8-%D0%BF%D1%80%D0%B5%D0%B7-%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B8-%D0%BF%D0%BE%D0%BB%D0%B5%D1%82%D0%B0</guid>
-<pubDate>Sat, 30 Aug 2014 12:03:53 +0000</pubDate>
 </item>
 </channel>
 </rss>

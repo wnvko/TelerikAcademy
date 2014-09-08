@@ -1,0 +1,17 @@
+Connection string for "Company" database: (.)
+Connection string for "Cars" database: (.)
+Relationships for "Company" database: please look at the pictures. Everything is described there
+					Employees - Employees -> one to many
+					Departments - Employees -> one to many
+					Employees - Reports -> one to many
+					Employees - Projects -> many to many via EmployeesProjects table
+
+Please note the solution gives randomly out of memmory exception when generates EmployeesProjects data.
+Everything else works!!!
+					
+
+Relationships for "Cars" database: Manufacturers - Cars -> one to many
+				   Dealers - Cars -> one to many
+				   Dealers - Cities -> many to many
+
+Query files: Company\Queries and Company\PerformanceTuning
