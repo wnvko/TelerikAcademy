@@ -1,19 +1,16 @@
 ﻿using System;
 
-public class FindPathIfExist
+public class MaxArea
 {
     private static char[,] matrix;
     private static Random random = new Random();
-    private static int MaxAreaCount = 0;
 
     public static void Main()
     {
         int size = GetInput();
         matrix = GenerateMatrix(size);
         PrintMatrix(matrix);
-        FindMaxArea();
-        TryFindPath(0, 0);
-        Console.WriteLine("No path found");
+
     }
 
     private static int GetInput()
@@ -34,12 +31,15 @@ public class FindPathIfExist
             }
         }
 
+        matrix[0, 0] = ' ';
+        matrix[size - 1, size - 1] = 'e';
+
         return matrix;
     }
 
     private static char GetCell()
     {
-        bool isPassable = random.Next(100) > 40;
+        bool isPassable = random.Next(100) > 35;
 
         if (isPassable)
         {
@@ -62,43 +62,5 @@ public class FindPathIfExist
 
             Console.WriteLine();
         }
-    }
-
-    private static void FindMaxArea()
-    {
-
-        int maxArea = 0;
-        for (int row = 0; row < matrix.GetLength(0); row++)
-        {
-            for (int col = 0; col < matrix.GetLength(1); col++)
-            {
-                MaxAreaCount = 0;
-                TryFindPath(row, col);
-                if (maxArea < MaxAreaCount)
-                {
-                    maxArea = MaxAreaCount;
-                }
-            }
-        }
-
-        Console.WriteLine("Max area is {0} cells", maxArea);
-    }
-
-    private static void TryFindPath(int row, int col)
-    {
-        if (row < 0 || row >= matrix.GetLength(0) ||
-            col < 0 || col >= matrix.GetLength(1) ||
-            matrix[row,col] != ' ')
-        {
-            return;
-        }
-
-        MaxAreaCount++;
-        matrix[row, col] = 'v';
-
-        TryFindPath(row, col + 1); //right
-        TryFindPath(row + 1, col); //down
-        TryFindPath(row, col - 1); //left
-        TryFindPath(row - 1, col); //up
     }
 }

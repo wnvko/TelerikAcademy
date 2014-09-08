@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. FindPathInMatrix", "Fin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. FindPathIfExist", "FindPathIfExist\08. FindPathIfExist.csproj", "{0E7CAC8E-051B-4F65-8386-8CFBDD42DF10}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. MaxArea", "MaxArea\09. MaxArea.csproj", "{B1108947-4B57-44DE-A27B-9083B4C33FA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{0E7CAC8E-051B-4F65-8386-8CFBDD42DF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E7CAC8E-051B-4F65-8386-8CFBDD42DF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E7CAC8E-051B-4F65-8386-8CFBDD42DF10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1108947-4B57-44DE-A27B-9083B4C33FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1108947-4B57-44DE-A27B-9083B4C33FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1108947-4B57-44DE-A27B-9083B4C33FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1108947-4B57-44DE-A27B-9083B4C33FA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
