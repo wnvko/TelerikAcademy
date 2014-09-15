@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("PermutationsWithoutDuplications")]
+[assembly: AssemblyTitle("03. OnlineMarket")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("PermutationsWithoutDuplications")]
+[assembly: AssemblyProduct("03. OnlineMarket")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("55dc640b-233e-476c-9572-ebe585d393fa")]
+[assembly: Guid("8f976cee-0800-4d1d-85da-3be9c4ed9317")]
 
 // Version information for an assembly consists of the following four values:
 //

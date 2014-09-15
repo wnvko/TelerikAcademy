@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("RecursiveNestedLoops")]
+[assembly: AssemblyTitle("01.Portals")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("RecursiveNestedLoops")]
+[assembly: AssemblyProduct("01.Portals")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("a1c3553d-6bd7-443f-bae8-f7fae417e414")]
+[assembly: Guid("ac27dffd-6055-4bfc-965c-701d8d40ee38")]
 
 // Version information for an assembly consists of the following four values:
 //
