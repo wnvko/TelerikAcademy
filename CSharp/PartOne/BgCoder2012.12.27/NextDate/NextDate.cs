@@ -13,6 +13,7 @@
             int dateDay = int.Parse(Console.ReadLine());
             int dateMonth = int.Parse(Console.ReadLine());
             int dateYear = int.Parse(Console.ReadLine());
+            
             string dateAsString = "" + dateMonth + "." + dateDay + "." + dateYear;
             DateTime inputDate = Convert.ToDateTime(dateAsString);
             DateTime nextDay = inputDate.AddDays(1);

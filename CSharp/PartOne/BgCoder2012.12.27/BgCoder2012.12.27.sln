@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. NextDate", "NextDate\01. NextDate.csproj", "{BAAF745F-27A1-425F-9113-4CC053A6297D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. TribonacciTriangle", "TribonacciTriangle\02. TribonacciTriangle.csproj", "{642814C3-0AE2-47AA-BB9E-72D12FE1A5F4}"
@@ -10,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Carpets", "Carpets\04. Carpets.csproj", "{2955FCEA-1970-4915-BA4B-82DBE559CC1E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. FormulaBit1", "FormulaBit1\05. FormulaBit1.csproj", "{54510BA5-1BD8-431E-8133-8CCDC7A747A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{67AAB871-7D6D-43EA-ADA5-0B5905C1773B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +41,10 @@ Global
 		{54510BA5-1BD8-431E-8133-8CCDC7A747A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54510BA5-1BD8-431E-8133-8CCDC7A747A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54510BA5-1BD8-431E-8133-8CCDC7A747A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67AAB871-7D6D-43EA-ADA5-0B5905C1773B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67AAB871-7D6D-43EA-ADA5-0B5905C1773B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67AAB871-7D6D-43EA-ADA5-0B5905C1773B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67AAB871-7D6D-43EA-ADA5-0B5905C1773B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
