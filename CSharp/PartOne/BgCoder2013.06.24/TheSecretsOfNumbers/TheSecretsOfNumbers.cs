@@ -26,6 +26,7 @@
                     specilaSum = specilaSum + numberDigit[i] * numberDigit[i] * (i + 1);
                 }   
             }
+
             int firstLetter = (specilaSum % 26) + 1;
             
             //SAS stands for secret alpha-sequence
@@ -38,9 +39,11 @@
                 {
                     firstLetter -= 26;
                 }
+
                 SAS = (char)(firstLetter + i + 64);
                 outputString = outputString + SAS;
             }
+
             if (specilaSum % 10 == 0)
             {
                 Console.WriteLine(specilaSum);
