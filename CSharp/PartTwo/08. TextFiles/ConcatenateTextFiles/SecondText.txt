@@ -1,0 +1,15 @@
+        Having said that, I can vouch for the workability of the
+modifications listed here. I have personally performed them all myself on my
+own machines (this is, after all, a chronicle of my own experiences, chopped
+up under suitable headings for your convenience). With regards to the service
+information, whilst I have described problems and the solution(s) I found,
+keep in mind that this is rather like a doctor prescribing medication over
+the telephone or from an encyclopaedia. What I mean by this statement is that
+different problems may well cause the same symptoms; to take a trivial
+example, if you turn your monitor on and nothing happens, perhaps the fuse is
+blown, but on the other hand, perhaps it is not plugged in, or perhaps there
+is a more sinister fault in the power supply section. For this reason, I
+suggest you use the service information as a very vague guide ONLY. Remember;
+it is very rare to find two machines which are exactly the same inside, and
+so what I have found to be a suitable solution to a given fault may be
+totally inappropriate to your situation.

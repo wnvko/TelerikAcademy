@@ -1,0 +1,23 @@
+      == == == From - lae@mullauna.cs.mu.oz.au (Lewin EDWARDS) == == ==
+totally inappropriate to your situation.
+
+you find a position in which the drive will read the lower side of the disk.
+-----------------------------
+To date (20-Oct-91, 18:11EST) I have personally tested at least 400 pieces of
+desoldering the socket. This means if you just plug in the new Agnus, you will
+
+
+Owners of Rev. 6a A500's will notice that they only have 4 RAM chips as
+
+viii. Double Trouble
+   To output of divide-by-2 counter -+-o |  DOWN=14.28MHz
+         19 -|                                            |- 67
+sometimes goes unaccountably blank after being switched on for a while.
+
+iii. Sudden Death
+387 for your 33MHz 386. The chances are good that such an arrangement will in
+wisdom advise the installation of a pullup resistor "to make sure the line
+                         EGA  *    *    .    .    .
+you spend the money on this, however, consider - do you really need the extra
+button, and the XCMOS settings will be set to default values, unlocking your
+"wet" the joints with a plentiful amount of fresh solder.

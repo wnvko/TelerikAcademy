@@ -1,0 +1,33 @@
+      == == == From - lae@mullauna.cs.mu.oz.au (Lewin EDWARDS) == == ==
+    -= A DIY Guide to Computer Repair & Modification (PC and Amiga 500) =-
+   [Note : To people who saved my earlier post re: installation of the 1Mb
+       Agnus, discard it and get a copy of this instead; the 1Mb Agnus
+                   installation procedure is included here]
+
+                  -=<* About This Document - Disclaimer *>=-
+
+This document is intended to provide electronics hobbyists with some useful
+notes the author has gathered whilst working on various systems. It is not
+intended to train or encourage novices to attempt service or modifications
+to expensive appliances. It is especially not intended to encourage
+unqualified personnel to tamper with dangerous appliances such as monitors,
+power supplies and other devices which contain vacuum tubes, live mains or
+high-tension rails, or other hazardous areas. Any such work carried out is
+done at the reader's own risk and the author accepts no reponsibility for
+damage to property or person which occurs as a result of attempting any of
+the procedures described herein.
+        Having said that, I can vouch for the workability of the
+modifications listed here. I have personally performed them all myself on my
+own machines (this is, after all, a chronicle of my own experiences, chopped
+up under suitable headings for your convenience). With regards to the service
+information, whilst I have described problems and the solution(s) I found,
+keep in mind that this is rather like a doctor prescribing medication over
+the telephone or from an encyclopaedia. What I mean by this statement is that
+different problems may well cause the same symptoms; to take a trivial
+example, if you turn your monitor on and nothing happens, perhaps the fuse is
+blown, but on the other hand, perhaps it is not plugged in, or perhaps there
+is a more sinister fault in the power supply section. For this reason, I
+suggest you use the service information as a very vague guide ONLY. Remember;
+it is very rare to find two machines which are exactly the same inside, and
+so what I have found to be a suitable solution to a given fault may be
+totally inappropriate to your situation.
