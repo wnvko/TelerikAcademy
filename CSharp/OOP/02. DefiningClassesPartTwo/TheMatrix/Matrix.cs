@@ -7,6 +7,7 @@
     public class Matrix<T> where T : struct, IComparable<T>, IConvertible
     {
         private T[,] matrix;
+        private static readonly T minValue = (T)minValue.GetType().GetField("MinValue").GetValue(minValue);
 
         public Matrix(int rows, int cols)
         {
@@ -23,6 +24,14 @@
         {
             get { return this.matrix; }
             private set { this.matrix = value; }
+        }
+
+        public T MinValue
+        {
+            get
+            {
+                return minValue;
+            }
         }
 
         public T this[int row, int col]
