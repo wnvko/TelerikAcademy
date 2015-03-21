@@ -40,7 +40,7 @@
 
             private set
             {
-                if (this.classID != value)
+                if (this.classID == null)
                 {
                     if (string.IsNullOrEmpty(value))
                     {
