@@ -19,7 +19,10 @@ var persons = [
     { firstname: 'Mosho', lastname: 'Vetrov', age: 23 },
     { firstname: 'Goro', lastname: 'Peshrov', age: 45 },
     { firstname: 'Posho', lastname: 'Hetrov', age: 18 },
-    { firstname: 'Bay', lastname: 'Ivan', age: 81 },];for (var i = 0, length = persons.length; i < length; i++) {
+    { firstname: 'Bay', lastname: 'Ivan', age: 81 },
+];
+
+for (var i = 0, length = persons.length; i < length; i++) {
     console.log(persons[i].firstname + ' ' + persons[i].lastname + ' ' + persons[i].age);
 }
 

@@ -67,6 +67,5 @@ function sayNumber() {
             jsConsole.writeLine('Please enter a digit');
             break;
         }
-
     }
 }

@@ -22,7 +22,7 @@ for (var i = 0; i < 20; i++) {
         divProperties = getRandomProperties(),
         strongElement = document.createElement('strong');
 
-    strongElement.textContent = 'div'
+    strongElement.textContent = 'div' + (i+1);
 
     currentDiv.setAttribute('id', 'Number: ' + i);
     currentDiv.setAttribute(

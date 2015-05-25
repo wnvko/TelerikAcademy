@@ -15,4 +15,8 @@ var persons = [
     { firstname: 'Mosho', lastname: 'Vetrov', age: 23 },
     { firstname: 'Goro', lastname: 'Peshrov', age: 45 },
     { firstname: 'Posho', lastname: 'Hetrov', age: 18 },
-    { firstname: 'Bay', lastname: 'Ivan', age: 81 },];var youngestOne = findTheYoungestOne(persons);console.log(youngestOne.firstname + ' ' + youngestOne.lastname);
+    { firstname: 'Bay', lastname: 'Ivan', age: 81 },
+];
+
+var youngestOne = findTheYoungestOne(persons);
+console.log(youngestOne.firstname + ' ' + youngestOne.lastname);

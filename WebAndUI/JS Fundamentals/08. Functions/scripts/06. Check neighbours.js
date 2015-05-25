@@ -50,8 +50,8 @@ function checkNeighbours(input) {
     arr = arr.join(', ');
     jsConsole.writeLine('Arr: ' + arr);
     if (isBiggerThanNeighbours) {
-        jsConsole.writeLine('Number on poissition ' + input + ' is bigger than its neighbours');
+        jsConsole.writeLine('Number on position ' + input + ' is bigger than its neighbors');
     } else {
-        jsConsole.writeLine('Number on poissition ' + input + ' is not bigger than its neighbours');
+        jsConsole.writeLine('Number on position ' + input + ' is not bigger than its neighbors');
     }
 }

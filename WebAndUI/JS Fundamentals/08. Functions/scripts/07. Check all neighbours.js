@@ -4,9 +4,9 @@ var firstSpecial = checkArray(arr);
 arr = arr.join(', ');
 jsConsole.writeLine('Arr: ' + arr);
 if (firstSpecial >= 0) {
-    jsConsole.writeLine('First element bigger than his neighbours is on possition ' + firstSpecial);
+    jsConsole.writeLine('First element bigger than his neighbors is on position ' + firstSpecial);
 } else {
-    jsConsole.writeLine('There is no element bigger than his neighbours');
+    jsConsole.writeLine('There is no element bigger than his neighbors');
 }
 
 

@@ -66,5 +66,9 @@ function sayLastDigit(number) {
             jsConsole.writeLine('Last digit of ' + number + ' is NINE');
             break;
         }
+        default: {
+            jsConsole.writeLine('WTF, are you kidding me?!?');
+            break;
+        }
     }
 }

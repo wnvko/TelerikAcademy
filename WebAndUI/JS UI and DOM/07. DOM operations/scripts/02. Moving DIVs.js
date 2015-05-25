@@ -11,13 +11,19 @@
 for (var i = 0; i < 5; i++) {
     var newDiv = document.createElement('div');
 
-    newDiv.setAttribute(
-    'style', 'width:' + width +
-             'height:' + height +
-             'border:' + border +
-             'position: absolute;');
+    newDiv.style.width = width;
+    newDiv.style.height = height;
+    newDiv.style.borderStyle = border;
+    newDiv.style.position = 'absolute';
+    newDiv.id = i;
 
-    newDiv.setAttribute('id', i);
+    //newDiv.setAttribute(
+    //'style', 'width:' + width +
+    //         'height:' + height +
+    //         'border:' + border +
+    //         'position: absolute;');
+
+    //newDiv.setAttribute('id', i);
     dFrag.appendChild(newDiv);
 }
 
