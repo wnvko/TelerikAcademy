@@ -56,6 +56,3 @@ define([], function () {
 
     return Cookies;
 });
-
-
-

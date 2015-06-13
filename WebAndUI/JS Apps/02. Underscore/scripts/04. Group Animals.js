@@ -38,7 +38,8 @@
     //    return animal.species;
     //});
 
-    var sortedGroup = _.chain(zoo)
+    var sortedGroup = _
+		.chain(zoo)
         .groupBy(function (animal) {
             return animal.species;
         })
@@ -51,7 +52,7 @@
              .value();
             console.log(species);
         })
-    .value();
+		.value();
 
     console.log(sortedGroup);
 }());

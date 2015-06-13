@@ -1,16 +1,19 @@
 ﻿/// <reference path="require.js" />
+/// <reference path="cookies.js" />
 /// <reference path="jquery-2.1.1.min.js" />
-'use strict';
 
 define(['Cookies'], function (cookies) {
+    'use strict';
     var NameChecker = (function () {
-        function NameChecker(name) {
-            this.name = name || ' ';
-        }
+        function NameChecker(name, tries) {
+            this.name = 'SandR:' + name || ' ';
+            this.tries = tries || 0;
 
-        var myCookie = new cookies();
-        myCookie.createCookies('milko', 'test', 1);
-        console.log(myCookie);
+            if (this.name && this.name !== ' ') {
+                var myCookie = new cookies();
+                myCookie.createCookies(this.name, this.tries, 1);
+            }
+        }
 
         return NameChecker;
     }());

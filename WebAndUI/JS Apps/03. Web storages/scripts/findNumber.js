@@ -1,12 +1,13 @@
 ﻿/// <reference path="require.js" />
 /// <reference path="jquery-2.1.1.min.js" />
-'use strict';
 define([], function () {
+    'use strict';
     var FindNumber = (function () {
         function FindNumber(numberToGuess) {
             this.numberToGuess = numberToGuess;
             this.rams;
             this.sheep;
+            this.tries;
         }
 
         var userGuesses = 0,
@@ -20,7 +21,7 @@ define([], function () {
         FindNumber.prototype.go = function () {
             var $userInputHtml = $('.user-number>input');
             var $buttonGetUserInput = $('.getUserInput').first();
-            var $userGuesses = $('.userTrys').first();
+            var $userGuesses = $('.userTries').first();
 
             var userInput = parseInput($userInputHtml);
 
@@ -35,7 +36,8 @@ define([], function () {
 
             return this.sheepAndRams = {
                 sheep: sheep,
-                rams: rams
+                rams: rams,
+                tries: userGuesses,
             };
         }
 
@@ -74,17 +76,17 @@ define([], function () {
                 i,
                 $result = $('.result>img');
 
-            for (i = 0; i < rams; i++) {
+            for (i = 0; i < rams; i += 1) {
                 $($result[currentPossition]).attr('src', ramPicSrc);
                 currentPossition++;
             }
 
-            for (i = currentPossition; i < sheep + rams; i++) {
+            for (i = currentPossition; i < sheep + rams; i += 1) {
                 $($result[currentPossition]).attr('src', sheepSrc);
                 currentPossition++;
             }
 
-            for (i = sheep + rams; i < 4; i++) {
+            for (i = sheep + rams; i < 4; i += 1) {
                 $($result[currentPossition]).attr('src', errorPicSrc);
                 currentPossition++;
             }

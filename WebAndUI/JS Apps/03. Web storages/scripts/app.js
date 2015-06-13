@@ -1,7 +1,6 @@
 ﻿/// <reference path="lib/jquery-2.1.1.js" />
 /// <reference path="lib/require.js" />
 (function () {
-
     requirejs.config({
         paths: {
             'jQuery': 'libs/jquery-2.1.1',
@@ -9,7 +8,8 @@
             'Random': 'randomNumberGetter',
             'FindNumber': 'findNumber',
             'NameChecker': 'nameChecker',
-            'Cookies': 'cookies'
+            'Cookies': 'cookies',
+            'GetHighScores': 'getHighScores',
         },
         shim: {
             'jQuery': {
