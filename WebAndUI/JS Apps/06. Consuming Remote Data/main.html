@@ -3,11 +3,9 @@
 <head>
     <title></title>
     <link href="styles/style.css" rel="stylesheet" />
-    <script src="scripts/jquery-2.1.1.js"></script>
-    <script src="scripts/studentsAPI.js"></script>
 </head>
 <body>
-    <div id="container">
+    <div id="container" class="clearfix">
         <div id="add-student">
             <div>Add student</div>
             <label for="student-name">Student name:</label>
@@ -18,7 +16,9 @@
             <div class="message added"></div>
         </div>
         <div id="delete-student">
-            <div>Delete student</div>
+            <div>
+                Delete student
+            </div>
             <label for="student-id">Student id:</label>
             <input type="text" id="student-id" />
             <div class="button">Delete</div>
@@ -29,6 +29,6 @@
             <div class="students"></div>
         </div>
     </div>
-    <script src="scripts/main.js"></script>
+    <script src="scripts/libs/require.js" data-main="scripts/app"></script>
 </body>
 </html>
