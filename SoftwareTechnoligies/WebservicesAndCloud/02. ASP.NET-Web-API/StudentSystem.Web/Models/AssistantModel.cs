@@ -1,7 +1,7 @@
 ﻿namespace StudentSystem.Web.Models
 {
     using StudentSystem.Models;
-using System.Collections.Generic;
+    using System.Collections.Generic;
 
     public class AssistantModel : StudentModel
     {
