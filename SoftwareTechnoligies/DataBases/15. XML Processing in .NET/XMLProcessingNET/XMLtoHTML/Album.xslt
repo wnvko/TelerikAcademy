@@ -44,7 +44,7 @@
                     <xsl:for-each select="title">
                       <li>
                         <span>
-                          <xsl:value-of select="title"></xsl:value-of>
+                          <xsl:value-of select="title" />
                         </span>
                       </li>
                     </xsl:for-each>
