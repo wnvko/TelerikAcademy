@@ -11,7 +11,6 @@ public class OldAlbumsPricesLINQ
     {
         XDocument xmlDoc = XDocument.Load(xmlFilePath + xmlFileName);
 
-        string xPathQuery = @"/catalogue/album[year<{0}]/price";
         var prices = xmlDoc.Descendants("album")
                      .Where(a => int.Parse(a.Element("year").Value) < DateTime.Now.AddYears(-5).Year)
                      .Select(p => new { Price = p.Element("price").Value });

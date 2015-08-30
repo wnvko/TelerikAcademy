@@ -1,12 +1,13 @@
-﻿using System;
-using System.Linq;
-using NorthWind;
-
-namespace DbContext
+﻿namespace DbContext
 {
-    class Program
+    using System;
+    using System.Linq;
+
+    using NorthWind;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             NorthwindEntities db = new NorthwindEntities();
             var customers = db.Customers.Select(c => c.Address);

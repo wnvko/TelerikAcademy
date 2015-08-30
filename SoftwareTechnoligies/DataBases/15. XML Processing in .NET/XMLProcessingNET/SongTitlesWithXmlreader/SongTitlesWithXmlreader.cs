@@ -16,7 +16,7 @@ public class SongTitlesWithXmlreader
                 if (reader.NodeType == XmlNodeType.Element && reader.Name == "title")
                 {
                     Console.WriteLine(reader.ReadElementString());
-                }    
+                }
             }
         }
     }

@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.SqlClient;
-
-namespace CategoriesAndProducts
+﻿namespace CategoriesAndProducts
 {
-    class Program
+    using System;
+    using System.Collections.Generic;
+    using System.Data.SqlClient;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.Write("Enter product to search for:");
             string lookup = Console.ReadLine();
@@ -18,9 +18,15 @@ namespace CategoriesAndProducts
             dbCon.Open();
             using (dbCon)
             {
-                SqlCommand cmdCategoriesAndProducts = new SqlCommand(string.Format("SELECT p.ProductName FROM Products AS p WHERE p.ProductName LIKE '{0}'", lookup), dbCon);
-                SqlDataReader reader = cmdCategoriesAndProducts.ExecuteReader();
+                SqlCommand cmdCategoriesAndProducts = new SqlCommand(
+                                    string.Format(
+                                            "SELECT p.ProductName " +
+                                            "FROM Products AS p " +
+                                            "WHERE p.ProductName LIKE '{0}'",
+                                            lookup),
+                                    dbCon);
 
+                SqlDataReader reader = cmdCategoriesAndProducts.ExecuteReader();
                 using (reader)
                 {
                     while (reader.Read())

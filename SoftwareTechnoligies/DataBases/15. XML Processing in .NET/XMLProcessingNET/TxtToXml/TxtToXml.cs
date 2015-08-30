@@ -5,21 +5,19 @@ using System.Xml;
 
 public class TxtToXml
 {
-    private static string[] Names = { "Anna", "Boris", "Vasil", "Gergana", "Dimitar", "Elena", "Zdravko", "Ivan", "Kalina","Lyubomir","Maria","Nasko","Ogi",
-                                    "Pesho","Ralitza","Sasho","Tosho","Hristina"};
-    private static string[] Address = { "Burgas, ul. {0}-ta", "Varna, ul. {0}-ta", "Gorno Uyno, ul. {0}-ta", "Dobritch, ul. {0}-ta", "Elena, ul. {0}-ta",
-                                          "Kalofer, ul. {0}-ta", "Montana, ul. {0}-ta", "Plovdiv, ul. {0}-ta", "Ruse, ul. {0}-ta", "Sofia, ul. {0}-ta"};
-    private static string PhoneNumber = "{0:D3}-{1:D3}-{2:D3}";
+    private static string[] names = { "Anna", "Boris", "Vasil", "Gergana", "Dimitar", "Elena", "Zdravko", "Ivan", "Kalina", "Lyubomir", "Maria", "Nasko", "Ogi", "Pesho", "Ralitza", "Sasho", "Tosho", "Hristina" };
+    private static string[] address = { "Burgas, ul. {0}-ta", "Varna, ul. {0}-ta", "Gorno Uyno, ul. {0}-ta", "Dobritch, ul. {0}-ta", "Elena, ul. {0}-ta", "Kalofer, ul. {0}-ta", "Montana, ul. {0}-ta", "Plovdiv, ul. {0}-ta", "Ruse, ul. {0}-ta", "Sofia, ul. {0}-ta" };
+    private static string phoneNumber = "{0:D3}-{1:D3}-{2:D3}";
 
     private static Random rnd = new Random();
-    private static int NumberOfPersons = 200;
+    private static int numberOfPersons = 200;
     private static string xmlFilePath = @"../../../temp";
     private static string txtInputFileName = @"/07.inputText.txt";
     private static string xmlFileName = @"/07.persons.xml";
 
     public static void Main()
     {
-        GenerataInputTextFile(NumberOfPersons);
+        GenerataInputTextFile(numberOfPersons);
         GenerateXml();
     }
 
@@ -30,12 +28,13 @@ public class TxtToXml
         {
             for (int person = 0; person < numberOfPersons; person++)
             {
-                writer.WriteLine(Names[rnd.Next(Names.Length)]);
-                writer.WriteLine(string.Format(Address[rnd.Next(Address.Length)], rnd.Next(100)));
-                writer.WriteLine(string.Format(PhoneNumber, rnd.Next(1000), rnd.Next(1000), rnd.Next(1000)));
+                writer.WriteLine(names[rnd.Next(names.Length)]);
+                writer.WriteLine(string.Format(address[rnd.Next(address.Length)], rnd.Next(100)));
+                writer.WriteLine(string.Format(phoneNumber, rnd.Next(1000), rnd.Next(1000), rnd.Next(1000)));
             }
         }
     }
+
     private static void GenerateXml()
     {
         StreamReader reader = new StreamReader(xmlFilePath + txtInputFileName);
@@ -64,21 +63,15 @@ public class TxtToXml
                     switch (counter % 3)
                     {
                         case 0:
-                            {
-                                writer.WriteElementString("Name", line);
-                                break;
-                            }
+                            writer.WriteElementString("Name", line);
+                            break;
                         case 1:
-                            {
-                                writer.WriteElementString("Address", line);
-                                break;
-                            }
+                            writer.WriteElementString("Address", line);
+                            break;
                         case 2:
-                            {
-                                writer.WriteElementString("PhoneNumber", line);
-                                writer.WriteEndElement();
-                                break;
-                            }
+                            writer.WriteElementString("PhoneNumber", line);
+                            writer.WriteEndElement();
+                            break;
                         default:
                             break;
                     }

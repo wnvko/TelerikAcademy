@@ -1,12 +1,13 @@
-﻿using System;
-using System.Linq;
-using NorthWind;
-
-namespace SalesByRegionInPeriod
+﻿namespace SalesByRegionInPeriod
 {
-    class Program
+    using System;
+    using System.Linq;
+
+    using NorthWind;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.Write("Enter region: ");
             string region = Console.ReadLine();
@@ -26,7 +27,15 @@ namespace SalesByRegionInPeriod
                             Shiped = o.ShippedDate
                         };
 
-            var sales2 = db.Orders.Where(o => o.ShipRegion == region && o.ShippedDate > startDate && o.ShippedDate < endDate).Select(o => new { o.ShipCountry, o.ShippedDate});
+            var sales2 = db.Orders
+                .Where(o => o.ShipRegion == region &&
+                       o.ShippedDate > startDate &&
+                       o.ShippedDate < endDate)
+                .Select(o => new
+                        {
+                            o.ShipCountry,
+                            o.ShippedDate
+                        });
 
             foreach (var sale in sales2)
             {

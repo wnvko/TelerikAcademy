@@ -20,10 +20,10 @@
         {
             db = new CarsDbContext();
 
-            Importer();
+            Import();
         }
 
-        private static void Importer()
+        private static void Import()
         {
             string jsonAsString = string.Empty;
             using (TextReader reader = File.OpenText(FilesDirectory + JSONInputFile))

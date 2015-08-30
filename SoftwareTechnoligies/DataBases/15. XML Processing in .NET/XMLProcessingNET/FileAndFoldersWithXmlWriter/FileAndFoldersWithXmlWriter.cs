@@ -13,7 +13,6 @@ public class FileAndFoldersWithXmlWriter
         Folder rootFolder = new Folder(FolderName);
         AddFolders(rootFolder);
         CreateXml(rootFolder);
-
     }
 
     public static void AddFolders(Folder folder)

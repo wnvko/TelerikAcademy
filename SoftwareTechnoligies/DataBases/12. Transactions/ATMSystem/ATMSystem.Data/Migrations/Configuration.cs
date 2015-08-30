@@ -2,8 +2,9 @@ namespace ATMSystem.Data.Migrations
 {
     using System;
     using System.Data.Entity.Migrations;
-    using ATMSystem.Models;
     using System.Text;
+
+    using ATMSystem.Models;
 
     public sealed class Configuration : DbMigrationsConfiguration<ATMSystem.Data.ATMSystemContext>
     {
@@ -38,7 +39,6 @@ namespace ATMSystem.Data.Migrations
 
                 context.CardAccounts.AddOrUpdate(currentCard);
             }
-
         }
 
         private string CreateRandomString(int stringLenght)
@@ -51,6 +51,5 @@ namespace ATMSystem.Data.Migrations
 
             return randomString;
         }
-
     }
 }

@@ -25,9 +25,7 @@
                     Time = DateTime.Now.AddDays(this.Random.GetRandomNumber(-10000,1000)),
                     EmployeeId = employeeIds[this.Random.GetRandomNumber(0, employeeIds.Count-1)],
                 };
-
-
-
+                
                 this.Database.Reports.Add(report);
                 index++;
 

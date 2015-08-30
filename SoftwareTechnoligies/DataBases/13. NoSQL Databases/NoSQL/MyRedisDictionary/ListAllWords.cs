@@ -1,15 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data;
-using System.Windows.Forms;
-
-namespace MyRedisDictionary
+﻿namespace MyRedisDictionary
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Data;
+    using System.Windows.Forms;
+
     public partial class ListAllWords : Form
     {
         public ListAllWords()
         {
-            InitializeComponent();
+            this.InitializeComponent();
             this.dataGridView1.AllowUserToAddRows = false;
             this.dataGridView1.AllowUserToDeleteRows = false;
             this.dataGridView1.AllowUserToResizeColumns = false;
@@ -17,10 +17,10 @@ namespace MyRedisDictionary
 
         private void ListAllWords_Load(object sender, EventArgs e)
         {
-            ClientForRedis my = ClientForRedis.Instance();
-            SortedDictionary<string, string> allWords = my.ListAllWords();
+            ClientForRedis redisClient = ClientForRedis.Instance();
+            SortedDictionary<string, string> allWords = redisClient.ListAllWords();
 
-            DataTable myDataTable = CreateDataTable(allWords);
+            DataTable myDataTable = this.CreateDataTable(allWords);
             this.dataGridView1.DataSource = myDataTable;
             this.dataGridView1.Columns[0].AutoSizeMode = DataGridViewAutoSizeColumnMode.AllCells;
             this.dataGridView1.Columns[1].AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
@@ -31,20 +31,20 @@ namespace MyRedisDictionary
 
         private DataTable CreateDataTable(SortedDictionary<string, string> allWords)
         {
-            DataTable myDataTable = new DataTable("myDataTable");
-            myDataTable.Columns.Add("Word", typeof(string));
-            myDataTable.Columns.Add("Meaning", typeof(string));
+            DataTable dataTable = new DataTable("DataTable");
+            dataTable.Columns.Add("Word", typeof(string));
+            dataTable.Columns.Add("Meaning", typeof(string));
 
-            foreach (var word in allWords)
+            foreach (KeyValuePair<string, string> word in allWords)
             {
-                DataRow myRow = myDataTable.NewRow();
-                myRow["Word"] = word.Key;
-                myRow["Meaning"] = word.Value;
+                DataRow row = dataTable.NewRow();
+                row["Word"] = word.Key;
+                row["Meaning"] = word.Value;
 
-                myDataTable.Rows.Add(myRow);
+                dataTable.Rows.Add(row);
             }
 
-            return myDataTable;
+            return dataTable;
         }
     }
 }

@@ -1,12 +1,14 @@
 namespace StudentsSystem.Data.Migrations
 {
     using System;
-    using System.Data.Entity.Migrations;
-    using StudentsSystem.Models;
-    using System.Diagnostics;
     using System.Collections.Generic;
+    using System.Data.Entity.Migrations;
+    using System.Diagnostics;
+    using System.Linq;
 
-    public sealed class Configuration : DbMigrationsConfiguration<StudentsSystem.Data.StudentsSystemContext>
+    using StudentsSystem.Models;
+    
+    public sealed class Configuration : DbMigrationsConfiguration<StudentsSystemContext>
     {
         public Configuration()
         {
@@ -16,9 +18,11 @@ namespace StudentsSystem.Data.Migrations
 
         protected override void Seed(StudentsSystem.Data.StudentsSystemContext context)
         {
-            // This method will be called after migrating to the latest version.
+            if (context.Students.Any())
+            {
+                return;
+            }
 
-            // You can use the DbSet<T>.AddOrUpdate() helper extension method to avoid creating duplicate seed data. E.g.
             string[] studentNames = { "Gosho", "Tosho", "Mimi", "Ivan", "Petrana" };
 
             string[] studentFacultyNumbers = new string[10];
@@ -27,7 +31,7 @@ namespace StudentsSystem.Data.Migrations
                 studentFacultyNumbers[facultyNumber] = string.Format("FN{0}", facultyNumber + 2);
             }
 
-            string[] courseDescriptions = { "Databases", "Highquality code", "C# 1", "OOP", "Javascript", "HTML basics", "Java" };
+            string[] courseDescriptions = { "Databases", "High Quality Code", "C# 1", "OOP", "JavaScript", "HTML Basics", "Java" };
 
             Random rnd = new Random();
             Stopwatch sw = new Stopwatch();

@@ -1,13 +1,13 @@
 ﻿namespace ATM.Client
 {
-    using ATMSystem.Data;
-    using ATMSystem.Data.Migrations;
-    using ATMSystem.Models;
     using System;
     using System.Data.Entity;
     using System.Linq;
-    using System.Text;
 
+    using ATMSystem.Data;
+    using ATMSystem.Data.Migrations;
+    using ATMSystem.Models;
+    
     public class ATMClient
     {
         public static void Main(string[] args)
@@ -27,12 +27,11 @@
             //db.Database.ExecuteSqlCommand(trigger);
 
             // RepeatableRead isolation level will lock all the fields that have been read during transaction
-            // this will asure data consistency after transaction is commited
+            // this will assure data consistency after transaction is committed
             using (DbContextTransaction dbTransaction = db.Database.BeginTransaction(System.Data.IsolationLevel.RepeatableRead))
             {
                 try
                 {
-
                     var card = db.CardAccounts.FirstOrDefault(c => c.CardAccountId == cardId);
                     var cardInitialAmount = card.CardCash;
                     TransactionsHistory transactionLog = new TransactionsHistory();
@@ -63,7 +62,7 @@
                 }
                 catch (Exception)
                 {
-                    Console.WriteLine("Wrong account number! Unsuccesful trnsaction!");
+                    Console.WriteLine("Wrong account number! Unsuccessful transaction!");
                     dbTransaction.Rollback();
                 }
             }
@@ -77,7 +76,7 @@
         private static string CreateTriggerString()
         {
             // this method is not working at all.
-            // if you can show me a working way toinsert trigger
+            // if you can show me a working way to insert trigger
             // runtime it will be great :)
             string trigger = @"IF EXISTS (SELECT * 
                                           FROM sys.objects 

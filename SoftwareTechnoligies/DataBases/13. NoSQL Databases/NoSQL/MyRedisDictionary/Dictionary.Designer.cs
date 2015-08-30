@@ -41,7 +41,7 @@
             this.btnAddWord.TabIndex = 0;
             this.btnAddWord.Text = "Add New Word";
             this.btnAddWord.UseVisualStyleBackColor = true;
-            this.btnAddWord.Click += new System.EventHandler(this.btnAddWord_Click);
+            this.btnAddWord.Click += new System.EventHandler(this.BtnAddWord_Click);
             // 
             // btnFindWord
             // 
@@ -51,7 +51,7 @@
             this.btnFindWord.TabIndex = 1;
             this.btnFindWord.Text = "Find Word";
             this.btnFindWord.UseVisualStyleBackColor = true;
-            this.btnFindWord.Click += new System.EventHandler(this.btnFindWord_Click);
+            this.btnFindWord.Click += new System.EventHandler(this.BtnFindWord_Click);
             // 
             // btnListAllWords
             // 
@@ -61,7 +61,7 @@
             this.btnListAllWords.TabIndex = 2;
             this.btnListAllWords.Text = "List All Words";
             this.btnListAllWords.UseVisualStyleBackColor = true;
-            this.btnListAllWords.Click += new System.EventHandler(this.btnListAllWords_Click);
+            this.btnListAllWords.Click += new System.EventHandler(this.BtnListAllWords_Click);
             // 
             // Dictionary
             // 

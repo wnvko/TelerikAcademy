@@ -1,8 +1,9 @@
-﻿using System;
-using NorthWind;
-
-namespace DAOClass
+﻿namespace DAOClass
 {
+    using System;
+
+    using NorthWind;
+
     public class OperateCustomer
     {
         public static void AddCustomer(Customer customer, NorthwindEntities db)

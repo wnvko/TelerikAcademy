@@ -1,11 +1,11 @@
-﻿using System;
-using System.Data.SqlClient;
-
-namespace NameAndDescriptionOfCategories
+﻿namespace NameAndDescriptionOfCategories
 {
-    class Program
+    using System;
+    using System.Data.SqlClient;
+
+    public class Program
     {
-        static void Main()
+        public static void Main()
         {
             SqlConnection dbCon = new SqlConnection("Server=.; Database=Northwind; Integrated Security=true");
             dbCon.Open();
@@ -13,13 +13,13 @@ namespace NameAndDescriptionOfCategories
             {
                 SqlCommand cmdNameAndDescription = new SqlCommand("SELECT c.CategoryName, c.Description FROM Categories AS c", dbCon);
                 SqlDataReader reader = cmdNameAndDescription.ExecuteReader();
-                using(reader)
+                using (reader)
                 {
                     while (reader.Read())
                     {
                         string name = (string)reader["CategoryName"];
                         string description = (string)reader["Description"];
-                        Console.WriteLine("{0} - {1}",name, description);
+                        Console.WriteLine("{0} - {1}", name, description);
                     }
                 }
             }

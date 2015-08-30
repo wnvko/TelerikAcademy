@@ -53,7 +53,7 @@ define(['jquery', 'q', 'api'], function ($, q, studentsAPI) {
                 id,
                 i,
                 len,
-                innerText;
+                innerText
 
             var $data = $('<ul>'),
                 $contener = $('#load-student .students');
@@ -68,6 +68,7 @@ define(['jquery', 'q', 'api'], function ($, q, studentsAPI) {
                 $data.append($('<li>').html(innerText));
             }
 
+			
             $contener.html($data);
         }
 
