@@ -1356,3 +1356,879 @@ UpgradeLog*.XML
 /WebAndUI/HTML/V. Others/03. HW_Vuvedenie-v-HTML/Homework_Intro In HTML/Html Basic Excersice 2.html
 /WebAndUI/HTML/V. Others/Versions.txt
 /CSharp/HQC/99. Exam others/05. ExamFileForEvaluation
+/SoftwareTechnoligies/DataBases/13. NoSQL Databases/mongodb-win32-x86_64-2008plus-2.4.11/mongodb-win32-x86_64-2008plus-2.4.11/*
+/SoftwareTechnoligies/DataBases/13. NoSQL Databases/redis-2.8.12/*
+/WebAndUI/JS Apps/07. SPA Applications and App Architecture/javascripts/sammy/quirkey-sammy-v0.7.4-39-gec821bb/quirkey-sammy-ec821bb/examples/backend/*
+/WebAndUI/JS Apps/07. SPA Applications and App Architecture/javascripts/sammy/quirkey-sammy-v0.7.4-39-gec821bb/quirkey-sammy-ec821bb/*
+/WebAndUI/JS Apps/07. SPA Applications and App Architecture/javascripts/sammy/quirkey-sammy-v0.7.4-39-gec821bb/quirkey-sammy-ec821bb/test/fixtures/*
+/WebAndUI/JS Apps/07. SPA Applications and App Architecture/javascripts/sammy/quirkey-sammy-v0.7.4-39-gec821bb/quirkey-sammy-ec821bb/test/*
+/WebAndUI/JS Apps/99. Others Exam/01. ExamFileForEvaluation/crowd-share-rest-api/node_modules/underscore/*
+/WebAndUI/JS Apps/99. Others Exam/02. ExamFileForEvaluation/Exams/scripts/node_modules/sha1/*
+/WebAndUI/JS Apps/99. Others Exam/03. ExamFileForEvaluation/crowd-share-rest-api/client/node_modules/.bin/*
+/WebAndUI/JS Apps/99. Others Exam/03. ExamFileForEvaluation/crowd-share-rest-api/client/node_modules/q/*
+/WebAndUI/JS Apps/99. Others Exam/03. ExamFileForEvaluation/crowd-share-rest-api/client/node_modules/require/*
+/WebAndUI/JS Apps/99. Others Exam/03. ExamFileForEvaluation/crowd-share-rest-api/client/node_modules/require/node_modules/.bin/*
+/WebAndUI/JS Apps/99. Others Exam/03. ExamFileForEvaluation/crowd-share-rest-api/client/node_modules/require/node_modules/std/*
+/WebAndUI/JS Apps/Q library/q-1/*
+/WebAndUI/JS OOP/JavaScript-OOP-master/*
+/SoftwareTechnoligies/DataBases/13. NoSQL Databases/mongodb-win32-x86_64-2008plus-2.4.11/mongodb-win32-x86_64-2008plus-2.4.11/*.0
+/SoftwareTechnoligies/DataBases/13. NoSQL Databases/NoSQL/MyMongoDictionary/data/db/*.0
+/SoftwareTechnoligies/DataBases/13. NoSQL Databases/NoSQL/MyMongoDictionary/data/db/*.1
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/*.asax
+/SoftwareTechnoligies/WebservicesAndCloud/02. ASP.NET WebAPI/02. MusicLibrary/MusicLibrary.Web/*.asax
+/SoftwareTechnoligies/WebservicesAndCloud/02. ASP.NET WebAPI/02. StudentsSystem/StudentSystem.Web/*.asax
+/SoftwareTechnoligies/WebservicesAndCloud/03. WebApiArchitecture/SourceControlSystem/Server/SourceControlSystem.Api/*.asax
+/SoftwareTechnoligies/WebservicesAndCloud/03. WebApiArchitecture/TicTacToe/TicTacToe.Web/*.asax
+/SoftwareTechnoligies/WebservicesAndCloud/07. ComponentTestingOfWebAPI/BugLogger/BugLogger.RestApi/*.asax
+/SoftwareTechnoligies/WebservicesAndCloud/TestExam2014/Forum.WebApi/*.asax
+/SoftwareTechnoligies/DataBases/03. Data Modeling and ER Diagrams/Task 1 and Task 2/*.bak
+/SoftwareTechnoligies/DataBases/03. Data Modeling and ER Diagrams/Task 3/*.bak
+/SoftwareTechnoligies/DataBases/17. Sample Exam/ToyStore/*.bak
+/SoftwareTechnoligies/DataBases/dbExam/Company/*.bak
+/SoftwareTechnoligies/DataBases/others_exams/01. ExamFileForEvaluation/DBExam 8.9.2014/*.bak
+/SoftwareTechnoligies/DataBases/others_exams/02. ExamFileForEvaluation/RealDbExam 2014/CompanyBase/Problem1/*.bak
+/SoftwareTechnoligies/DataBases/others_exams/03. ExamFileForEvaluation/Exam/*.bak
+/SoftwareTechnoligies/DataBases/others_exams/04. ExamFileForEvaluation/DB-EXAM/*.bak
+/SoftwareTechnoligies/DataBases/others_exams/05. ExamFileForEvaluation - Perfect/Company/*.bak
+/SoftwareTechnoligies/DataBases/others_exams/06. ExamFileForEvaluation/DatabaseExam2014/Company/*.bak
+/SoftwareTechnoligies/DataBases/others_exams/07. ExamFileForEvaluation/Company/*.bak
+/SoftwareTechnoligies/DataBases/others_exams/08. ExamFileForEvaluation/1.Problem-Database-First/*.bak
+/WebAndUI/JS Apps/99. Others Exam/01. ExamFileForEvaluation/crowd-share-rest-api/*.bat
+/WebAndUI/JS Apps/99. Others Exam/03. ExamFileForEvaluation/crowd-share-rest-api/*.bat
+/WebAndUI/JS Apps/06. Consuming Remote Data/Consuming-Remote-Data-demos/server/*.bowerrc
+/WebAndUI/JS Apps/10. Exam/_server/crowd-share-rest-api/*.bowerrc
+/WebAndUI/JS Apps/99. Others Exam/01. ExamFileForEvaluation/crowd-share-rest-api/*.bowerrc
+/WebAndUI/JS Apps/99. Others Exam/03. ExamFileForEvaluation/crowd-share-rest-api/*.bowerrc
+/WebAndUI/JS Apps/99. Others Exam/03. ExamFileForEvaluation/crowd-share-rest-api/client/node_modules/jquery/*.bowerrc
+/WebAndUI/JS Apps/99. Others Exam/05. ExamFileForEvaluation/ExamApp/Exam/server/*.bowerrc
+/WebAndUI/JS Apps/99. Others Exam/06. Exam/crowd-share-rest-api/*.bowerrc
+/WebAndUI/JS Apps/99. Others Exam/07. ExamFileForEvaluation/Exam/Exam/*.bowerrc
+/WebAndUI/JS Apps/99. Others Exam/09. Exam/crowd-share-rest-api/*.bowerrc
+/WebAndUI/JS Apps/99. Others Exam/10. Exam/crowd-share-rest-api/*.bowerrc
+/WebAndUI/JS OOP/06.2015 Exam/Exam-Preparation-Jul-2014-sample-task-1/*.bowerrc
+/WebAndUI/JS OOP/06.2015 Exam/Exam-Preparation-Jul-2014-sample-task-2/*.bowerrc
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/03. GuiSystem/*.cd
+/CSharp/OOP/07. Exam/2. Army of Creatures_Description/2. Army of Creatures/ArmyOfCreatures/*.cd
+/WebAndUI/JS Apps/06. Consuming Remote Data/Consuming-Remote-Data-demos/server/node_modules/.bin/*.cmd
+/WebAndUI/JS Apps/10. Exam/_server/crowd-share-rest-api/node_modules/.bin/*.cmd
+/WebAndUI/JS Apps/99. Others Exam/01. ExamFileForEvaluation/crowd-share-rest-api/node_modules/.bin/*.cmd
+/WebAndUI/JS Apps/99. Others Exam/06. Exam/crowd-share-rest-api/node_modules/.bin/*.cmd
+/WebAndUI/JS Apps/99. Others Exam/07. ExamFileForEvaluation/Exam/Exam/node_modules/.bin/*.cmd
+/WebAndUI/JS Apps/99. Others Exam/10. Exam/crowd-share-rest-api/node_modules/.bin/*.cmd
+/WebAndUI/JS Apps/06. Consuming Remote Data/Consuming-Remote-Data-demos/02. cross-browser-xhr/*.coffee
+/WebAndUI/JS Apps/06. Consuming Remote Data/Consuming-Remote-Data-demos/03. ready-states/*.coffee
+/WebAndUI/JS Apps/06. Consuming Remote Data/Consuming-Remote-Data-demos/04. status-codes/*.coffee
+/WebAndUI/JS Apps/06. Consuming Remote Data/Consuming-Remote-Data-demos/05. response/html/*.coffee
+/WebAndUI/JS Apps/06. Consuming Remote Data/Consuming-Remote-Data-demos/05. response/json/*.coffee
+/WebAndUI/JS Apps/06. Consuming Remote Data/Consuming-Remote-Data-demos/05. response/*.coffee
+/WebAndUI/JS Apps/06. Consuming Remote Data/Consuming-Remote-Data-demos/06. http-request/*.coffee
+/WebAndUI/JS Apps/06. Consuming Remote Data/Consuming-Remote-Data-demos/08. jquery-ajax/*.coffee
+/WebAndUI/JS Apps/06. Consuming Remote Data/Consuming-Remote-Data-demos/server/routes/*.coffee
+/CSharp/DSA/05. Advanced Data Structures/AdvancedDataStructures/*.jmconfig
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/Adjacentmatrix/AdjacentMatrix.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/Adjacentmatrix/Properties/AssemblyInfo.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/AdvancedOOP/Edge.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/AdvancedOOP/Graph.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/AdvancedOOP/GraphTest.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/AdvancedOOP/Node.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/AdvancedOOP/Properties/AssemblyInfo.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/BFSGraphTraversal/BfsTraversal.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/BFSGraphTraversal/Properties/AssemblyInfo.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/Connectivity/Connectivity.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/Connectivity/Properties/AssemblyInfo.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/DFSGraphTraversal/DfsTraverse.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/DFSGraphTraversal/Properties/AssemblyInfo.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/DFSRecursiveOOPGraph/Graph.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/DFSRecursiveOOPGraph/Properties/AssemblyInfo.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/DFSRecursiveOOPGraph/RecursiveDfs.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/Dictionary/DictionaryGraph.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/Dictionary/Properties/AssemblyInfo.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/DijkstraLINQ/DijkstraTest.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/DijkstraLINQ/DistanceCalculator.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/DijkstraLINQ/Edge.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/DijkstraLINQ/Graph.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/DijkstraLINQ/Node.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/DijkstraLINQ/Properties/AssemblyInfo.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/DijkstraWithoutQueue/Dijkstra.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/DijkstraWithoutQueue/Properties/AssemblyInfo.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/DijkstraWithPriorityQueue/Connection.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/DijkstraWithPriorityQueue/Dijkstra.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/DijkstraWithPriorityQueue/Node.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/DijkstraWithPriorityQueue/PriorityQueue.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/DijkstraWithPriorityQueue/Properties/AssemblyInfo.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/ExternalLibrary/GraphExternalLibrary.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/ExternalLibrary/Properties/AssemblyInfo.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/Graphs.jmconfig
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/Graphs.sln
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/Kruskal/Edge.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/Kruskal/Program.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/Kruskal/Properties/AssemblyInfo.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/PrimAlgrithm/Edge.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/PrimAlgrithm/Program.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/PrimAlgrithm/Properties/AssemblyInfo.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/SimpleOOP/Graph.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/SimpleOOP/Properties/AssemblyInfo.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/SimpleOOP/Test.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/TODO.txt
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/TSUsingSourceRemoval/DFSTS.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/TSUsingSourceRemoval/Graph.cs
+/CSharp/DSA/11. Grafs/Graphs-and-Graph-Algorithms-Demos/TSUsingSourceRemoval/Properties/AssemblyInfo.cs
+/CSharp/DSA/08. Sorting and Searching Algorithms/SortingAndSearchinfAlgorithms/SortingAndSearchinfAlgorithms.jmconfig
+/CSharp/DSA/09. Combinatorics/Combinatorics-Demos/Combinations+Repetitions/CombinationsGeneratorWithReps.cs
+/CSharp/DSA/09. Combinatorics/Combinatorics-Demos/Combinations-No-Reps/CombinationsGeneratorNoReps.cs
+/CSharp/DSA/09. Combinatorics/Combinatorics-Demos/Combinatorics-Demos.jmconfig
+/CSharp/DSA/09. Combinatorics/Combinatorics-Demos/Combinatorics-Demos.sln
+/CSharp/DSA/09. Combinatorics/Combinatorics-Demos/GrayCode/GrayCodeGenerator.cs
+/CSharp/DSA/09. Combinatorics/Combinatorics-Demos/Permutations-with-Reps/PermutationsGeneratorWithReps.cs
+/CSharp/DSA/09. Combinatorics/Combinatorics-Demos/Permutations/PermutationsGenerator.cs
+/CSharp/DSA/09. Combinatorics/Combinatorics-Demos/Variations+Repetitions/VariationsGenerator.cs
+/CSharp/DSA/09. Combinatorics/Combinatorics-Demos/Variations-No-Repetitions/VariationsGeneratorNoReps.cs
+/CSharp/DSA/09. Combinatorics/Problem 1/Solution/solution.cpp
+/CSharp/DSA/09. Combinatorics/Problem 1/Tests/test.000.001.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 1/Tests/test.000.001.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 1/Tests/test.000.002.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 1/Tests/test.000.002.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 1/Tests/test.000.003.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 1/Tests/test.000.003.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 1/Tests/test.001.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 1/Tests/test.001.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 1/Tests/test.002.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 1/Tests/test.002.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 1/Tests/test.003.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 1/Tests/test.003.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 1/Tests/test.004.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 1/Tests/test.004.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 1/Tests/test.005.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 1/Tests/test.005.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 1/Tests/test.006.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 1/Tests/test.006.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 1/Tests/test.007.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 1/Tests/test.007.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 1/Tests/test.008.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 1/Tests/test.008.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 1/Tests/test.009.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 1/Tests/test.009.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 1/Tests/test.010.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 1/Tests/test.010.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Solution/solution.cpp
+/CSharp/DSA/09. Combinatorics/Problem 2/Solution/solution.cs
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.000.001.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.000.001.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.000.002.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.000.002.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.000.003.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.000.003.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.001.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.001.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.002.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.002.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.003.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.003.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.004.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.004.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.005.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.005.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.006.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.006.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.007.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.007.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.008.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.008.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.009.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.009.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.010.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.010.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.011.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.011.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.012.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.012.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.013.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.013.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.014.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.014.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.015.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.015.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.016.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.016.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.017.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.017.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.018.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.018.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.019.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.019.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.020.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.020.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.021.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.021.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.022.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.022.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.023.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.023.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.024.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.024.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.025.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.025.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.026.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.026.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.027.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.027.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.028.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.028.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.029.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.029.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.030.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.030.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.031.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.031.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.032.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.032.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.033.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.033.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.034.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.034.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.035.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.035.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.036.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.036.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.037.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.037.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.038.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.038.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.039.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.039.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.040.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.040.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.041.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.041.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.042.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.042.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.043.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.043.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.044.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.044.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.045.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.045.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.046.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.046.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.047.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.047.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.048.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.048.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.049.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.049.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.050.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 2/Tests/test.050.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Solution/solution.cpp
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.000.001.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.000.001.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.000.002.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.000.002.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.000.003.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.000.003.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.001.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.001.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.002.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.002.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.003.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.003.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.004.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.004.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.005.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.005.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.006.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.006.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.007.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.007.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.008.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.008.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.009.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.009.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.010.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.010.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.011.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.011.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.012.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.012.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.013.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.013.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.014.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.014.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.015.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.015.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.016.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.016.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.017.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.017.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.018.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.018.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.019.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.019.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.020.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.020.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.021.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.021.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.022.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.022.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.023.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.023.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.024.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.024.out.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.025.in.txt
+/CSharp/DSA/09. Combinatorics/Problem 3/Tests/test.025.out.txt
+/CSharp/DSA/10. Dynamic Programming/Dynamic-Programming-Demos/Dynamic-Programming-Demos.jmconfig
+/CSharp/DSA/10. Dynamic Programming/Dynamic-Programming-Demos/Dynamic-Programming-Demos.sln
+/CSharp/DSA/10. Dynamic Programming/Dynamic-Programming-Demos/LongestCommonSubsequence/LongestCommonSubsequence.cs
+/CSharp/DSA/10. Dynamic Programming/Dynamic-Programming-Demos/MaxSeqRecursive/LongestIncreasingSubsequenceRecursive.cs
+/CSharp/DSA/10. Dynamic Programming/Dynamic-Programming-Demos/MaxSusequence/LongestIncreasingSubsequence.cs
+/CSharp/DSA/10. Dynamic Programming/Dynamic-Programming-Demos/SubSetSums/SubSetSumsMatrix.cs
+/CSharp/DSA/10. Dynamic Programming/Dynamic-Programming-Demos/SubsetSumsBetter/SubsetSumsBetter.cs
+/CSharp/DSA/12. DSA_Exam/01.Portals/TextFile1.txt
+/CSharp/DSA/12. DSA_Exam/03. OnlineMarket/TextFile1.txt
+/CSharp/DSA/12. DSA_Exam/05. Sorting/TextFile1.txt
+/CSharp/DSA/12. DSA_Exam/DSA_Exam.jmconfig
+/CSharp/HQC/12. Test Driven Development/Test-Driven-Development-Demo+Homework.jmconfig
+/CSharp/HQC/15. Design paterns/Design-Patterns-Demo/DesignPatterns.jmconfig
+/CSharp/HQC/16. Mocking with Moq and JustMock/Mocking with Moq and JustMock-Demos/Cars.jmconfig
+/CSharp/HQC/99. Exam others/01. Computers-problem/ComputerProblem.jmconfig
+/CSharp/HQC/99. Exam others/01. Computers-problem/ComputerProblem.sln
+/CSharp/HQC/99. Exam others/01. Computers-problem/ComputerProblem/Computer.cs
+/CSharp/HQC/99. Exam others/01. Computers-problem/ComputerProblem/ComputersEntryPoint.cs
+/CSharp/HQC/99. Exam others/01. Computers-problem/ComputerProblem/Cpu.cs
+/CSharp/HQC/99. Exam others/01. Computers-problem/ComputerProblem/Enumerations/ComputerType.cs
+/CSharp/HQC/99. Exam others/01. Computers-problem/ComputerProblem/Factories/ComputerFactory.cs
+/CSharp/HQC/99. Exam others/01. Computers-problem/ComputerProblem/Factories/DellManufacturer.cs
+/CSharp/HQC/99. Exam others/01. Computers-problem/ComputerProblem/Factories/HPManufacturer.cs
+/CSharp/HQC/99. Exam others/01. Computers-problem/ComputerProblem/HardDriver.cs
+/CSharp/HQC/99. Exam others/01. Computers-problem/ComputerProblem/Interfaces/IFactory.cs
+/CSharp/HQC/99. Exam others/01. Computers-problem/ComputerProblem/Interfaces/IMotherboard.cs
+/CSharp/HQC/99. Exam others/01. Computers-problem/ComputerProblem/Laptop.cs
+/CSharp/HQC/99. Exam others/01. Computers-problem/ComputerProblem/LaptopBattery.cs
+/CSharp/HQC/99. Exam others/01. Computers-problem/ComputerProblem/PersonalComputer.cs
+/CSharp/HQC/99. Exam others/01. Computers-problem/ComputerProblem/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Exam others/01. Computers-problem/ComputerProblem/Properties/System.Collections.Generic.dll
+/CSharp/HQC/99. Exam others/01. Computers-problem/ComputerProblem/Ram.cs
+/CSharp/HQC/99. Exam others/01. Computers-problem/ComputerProblem/Server.cs
+/CSharp/HQC/99. Exam others/01. Computers-problem/ComputerProblem/VideoCard.cs
+/CSharp/HQC/99. Exam others/02. ExamFileForEvaluation/ComputerBuildingSystem.jmconfig
+/CSharp/HQC/99. Exam others/02. ExamFileForEvaluation/ComputerBuildingSystem.jtconfig
+/CSharp/HQC/99. Exam others/02. ExamFileForEvaluation/ComputerBuildingSystem.sln
+/CSharp/HQC/99. Exam others/02. ExamFileForEvaluation/ComputerBuildingSystem/Computer.cs
+/CSharp/HQC/99. Exam others/02. ExamFileForEvaluation/ComputerBuildingSystem/ComputerBuildingSystemEntryPoint.cs
+/CSharp/HQC/99. Exam others/02. ExamFileForEvaluation/ComputerBuildingSystem/Cpu.cs
+/CSharp/HQC/99. Exam others/02. ExamFileForEvaluation/ComputerBuildingSystem/HardDrive.cs
+/CSharp/HQC/99. Exam others/02. ExamFileForEvaluation/ComputerBuildingSystem/IMotherboard.cs
+/CSharp/HQC/99. Exam others/02. ExamFileForEvaluation/ComputerBuildingSystem/LaptopBattery.cs
+/CSharp/HQC/99. Exam others/02. ExamFileForEvaluation/ComputerBuildingSystem/Motherboard.cs
+/CSharp/HQC/99. Exam others/02. ExamFileForEvaluation/ComputerBuildingSystem/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Exam others/02. ExamFileForEvaluation/ComputerBuildingSystem/Properties/System.Collections.Generic.dll
+/CSharp/HQC/99. Exam others/02. ExamFileForEvaluation/ComputerBuildingSystem/Ram.cs
+/CSharp/HQC/99. Exam others/02. ExamFileForEvaluation/ComputerBuildingSystem/VideoCard.cs
+/CSharp/HQC/99. Exam others/02. ExamFileForEvaluation/Documentation.txt
+/CSharp/HQC/99. Exam others/02. ExamFileForEvaluation/Ivo.jmconfig
+/CSharp/HQC/99. Exam others/02. ExamFileForEvaluation/Ivo.jtconfig
+/CSharp/HQC/99. Exam others/04. ExamFileForEvaluation/Computers-problem/Computers.jmconfig
+/CSharp/HQC/99. Exam others/04. ExamFileForEvaluation/Computers-problem/Computers.sln
+/CSharp/HQC/99. Exam others/04. ExamFileForEvaluation/Computers-problem/Ivo.jmconfig
+/CSharp/HQC/99. Exam others/04. ExamFileForEvaluation/Computers-problem/Niki/Computer.cs
+/CSharp/HQC/99. Exam others/04. ExamFileForEvaluation/Computers-problem/Niki/ComputerType.cs
+/CSharp/HQC/99. Exam others/04. ExamFileForEvaluation/Computers-problem/Niki/Cpu.cs
+/CSharp/HQC/99. Exam others/04. ExamFileForEvaluation/Computers-problem/Niki/HardDrive.cs
+/CSharp/HQC/99. Exam others/04. ExamFileForEvaluation/Computers-problem/Niki/Imotherboard.cs
+/CSharp/HQC/99. Exam others/04. ExamFileForEvaluation/Computers-problem/Niki/LaptopBattery.cs
+/CSharp/HQC/99. Exam others/04. ExamFileForEvaluation/Computers-problem/Niki/Program.cs
+/CSharp/HQC/99. Exam others/04. ExamFileForEvaluation/Computers-problem/Niki/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Exam others/04. ExamFileForEvaluation/Computers-problem/Niki/Properties/System.Collections.Generic.dll
+/CSharp/HQC/99. Exam others/04. ExamFileForEvaluation/Computers-problem/Niki/Ramm.cs
+/CSharp/HQC/99. Exam others/04. ExamFileForEvaluation/Computers-problem/UnitTests/LapTopBatteryTest.cs
+/CSharp/HQC/99. Exam others/04. ExamFileForEvaluation/Computers-problem/UnitTests/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Exam others/04. ExamFileForEvaluation/Computers-problem/UnitTests/RandTest.cs
+/CSharp/HQC/99. Exam others/04. ExamFileForEvaluation/Computers-problem/UnitTests/SquareNumberTest.cs
+/CSharp/HQC/99. Exam others/04. ExamFileForEvaluation/Documentation.txt
+/CSharp/HQC/99. Exam others/06. ExamFileForEvaluation/HQC-Exam-2014-Evening/Computers-problem/ComputerBuildingSystem.jmconfig
+/CSharp/HQC/99. Exam others/06. ExamFileForEvaluation/HQC-Exam-2014-Evening/Computers-problem/ComputerBuildingSystem.sln
+/CSharp/HQC/99. Exam others/06. ExamFileForEvaluation/HQC-Exam-2014-Evening/Computers-problem/Niki/ComputerCollection.cs
+/CSharp/HQC/99. Exam others/06. ExamFileForEvaluation/HQC-Exam-2014-Evening/Computers-problem/Niki/ComputerFactory/ComputerType.cs
+/CSharp/HQC/99. Exam others/06. ExamFileForEvaluation/HQC-Exam-2014-Evening/Computers-problem/Niki/ComputerFactory/IComputer.cs
+/CSharp/HQC/99. Exam others/06. ExamFileForEvaluation/HQC-Exam-2014-Evening/Computers-problem/Niki/ComputerFactory/Laptop.cs
+/CSharp/HQC/99. Exam others/06. ExamFileForEvaluation/HQC-Exam-2014-Evening/Computers-problem/Niki/ComputerFactory/PersonalComputer.cs
+/CSharp/HQC/99. Exam others/06. ExamFileForEvaluation/HQC-Exam-2014-Evening/Computers-problem/Niki/ComputerFactory/Server.cs
+/CSharp/HQC/99. Exam others/06. ExamFileForEvaluation/HQC-Exam-2014-Evening/Computers-problem/Niki/Cpu.cs
+/CSharp/HQC/99. Exam others/06. ExamFileForEvaluation/HQC-Exam-2014-Evening/Computers-problem/Niki/HardDriver.cs
+/CSharp/HQC/99. Exam others/06. ExamFileForEvaluation/HQC-Exam-2014-Evening/Computers-problem/Niki/IMotherboard.cs
+/CSharp/HQC/99. Exam others/06. ExamFileForEvaluation/HQC-Exam-2014-Evening/Computers-problem/Niki/InvalidArgumentException.cs
+/CSharp/HQC/99. Exam others/06. ExamFileForEvaluation/HQC-Exam-2014-Evening/Computers-problem/Niki/LaptopBattery.cs
+/CSharp/HQC/99. Exam others/06. ExamFileForEvaluation/HQC-Exam-2014-Evening/Computers-problem/Niki/ManufacturerFactory/Factory.cs
+/CSharp/HQC/99. Exam others/06. ExamFileForEvaluation/HQC-Exam-2014-Evening/Computers-problem/Niki/ManufacturerFactory/ManufacturerType.cs
+/CSharp/HQC/99. Exam others/06. ExamFileForEvaluation/HQC-Exam-2014-Evening/Computers-problem/Niki/Program.cs
+/CSharp/HQC/99. Exam others/06. ExamFileForEvaluation/HQC-Exam-2014-Evening/Computers-problem/Niki/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Exam others/06. ExamFileForEvaluation/HQC-Exam-2014-Evening/Computers-problem/Niki/Properties/System.Collections.Generic.dll
+/CSharp/HQC/99. Exam others/06. ExamFileForEvaluation/HQC-Exam-2014-Evening/Computers-problem/Niki/RAMMemory.cs
+/CSharp/HQC/99. Exam others/06. ExamFileForEvaluation/HQC-Exam-2014-Evening/Computers-problem/Niki/VideoCard.cs
+/CSharp/HQC/99. Exam others/06. ExamFileForEvaluation/HQC-Exam-2014-Evening/Documentation.txt
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Computers.jmconfig
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Computers.sln
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/ComputersProject.Test/CPUCalculatingSquareNumberTests.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/ComputersProject.Test/LaptopBatteryTest.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/ComputersProject.Test/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/Commands/CommandExecutor.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/Commands/CommandInfo.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/Commands/CommandParser.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/ComputerParts/CPU.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/ComputerParts/HardDriver.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/ComputerParts/LaptopBattery.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/ComputerParts/RAMMemory.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/ComputerParts/VideoCard.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/Computers/Computer.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/Computers/Laptop.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/Computers/PersonalComputer.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/Computers/Server.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/ComputersMain.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/ComputerType.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/Contracts/ICommandExecutor.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/Contracts/ICommandInfo.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/Contracts/ICommandParser.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/Contracts/IComputer.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/Contracts/IHardDriver.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/Contracts/IManufacturer.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/Contracts/IMotherboard.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/Contracts/IVideoCard.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/Manufacturer/Dell.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/Manufacturer/HP.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/Manufacturer/Lenovo.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Computers-problem/Niki/Properties/System.Collections.Generic.dll
+/CSharp/HQC/99. Exam others/07. ExamFileForEvaluation/Documentation.txt
+/CSharp/HQC/99. Exam others/08. ExamFileForEvaluation/Computers-problem/Computers.sln
+/CSharp/HQC/99. Exam others/08. ExamFileForEvaluation/Computers-problem/Computers.Tests/ChargeBatteryTests.cs
+/CSharp/HQC/99. Exam others/08. ExamFileForEvaluation/Computers-problem/Computers.Tests/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Exam others/08. ExamFileForEvaluation/Computers-problem/Computers.Tests/SquareNumberTests.cs
+/CSharp/HQC/99. Exam others/08. ExamFileForEvaluation/Computers-problem/Computers/Battery.cs
+/CSharp/HQC/99. Exam others/08. ExamFileForEvaluation/Computers-problem/Computers/Command/ChargeBatteryCommand.cs
+/CSharp/HQC/99. Exam others/08. ExamFileForEvaluation/Computers-problem/Computers/Command/IComputerCommand.cs
+/CSharp/HQC/99. Exam others/08. ExamFileForEvaluation/Computers-problem/Computers/Command/PlayCommand.cs
+/CSharp/HQC/99. Exam others/08. ExamFileForEvaluation/Computers-problem/Computers/Command/ProcessCommand.cs
+/CSharp/HQC/99. Exam others/08. ExamFileForEvaluation/Computers-problem/Computers/CommandFactory.cs
+/CSharp/HQC/99. Exam others/08. ExamFileForEvaluation/Computers-problem/Computers/CommandReader.cs
+/CSharp/HQC/99. Exam others/08. ExamFileForEvaluation/Computers-problem/Computers/Computer.cs
+/CSharp/HQC/99. Exam others/08. ExamFileForEvaluation/Computers-problem/Computers/Computers Abstract Factory/Computer.cs
+/CSharp/HQC/99. Exam others/08. ExamFileForEvaluation/Computers-problem/Computers/Computers Abstract Factory/ComputerFactory.cs
+/CSharp/HQC/99. Exam others/08. ExamFileForEvaluation/Computers-problem/Computers/Computers Abstract Factory/DellComputer.cs
+/CSharp/HQC/99. Exam others/08. ExamFileForEvaluation/Computers-problem/Computers/Computers Abstract Factory/HPComputer.cs
+/CSharp/HQC/99. Exam others/08. ExamFileForEvaluation/Computers-problem/Computers/Computers Abstract Factory/LenovoComputer.cs
+/CSharp/HQC/99. Exam others/08. ExamFileForEvaluation/Computers-problem/Computers/ComputersStartPoint.cs
+/CSharp/HQC/99. Exam others/08. ExamFileForEvaluation/Computers-problem/Computers/Cpu.cs
+/CSharp/HQC/99. Exam others/08. ExamFileForEvaluation/Computers-problem/Computers/HardDriver.cs
+/CSharp/HQC/99. Exam others/08. ExamFileForEvaluation/Computers-problem/Computers/ICommandFactory.cs
+/CSharp/HQC/99. Exam others/08. ExamFileForEvaluation/Computers-problem/Computers/IMotherboard.cs
+/CSharp/HQC/99. Exam others/08. ExamFileForEvaluation/Computers-problem/Computers/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Exam others/08. ExamFileForEvaluation/Computers-problem/Computers/Properties/System.Collections.Generic.dll
+/CSharp/HQC/99. Exam others/08. ExamFileForEvaluation/Computers-problem/Computers/Ram.cs
+/CSharp/HQC/99. Exam others/08. ExamFileForEvaluation/Computers-problem/Computers/Type.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/ComputersDirectoryTests/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/ComputersDirectoryTests/TestCPUClass.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/ComputersDirectoryTests/TestLaptopBatterCharge.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Documentation.txt
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Ivo.jmconfig
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Ivo.sln
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Niki/CommandExecutor.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Niki/CommandInfo.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Niki/CommandParser.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Niki/ComputerFactory/ComputersFactory.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Niki/ComputerFactory/DELLManufacturer.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Niki/ComputerFactory/HPManufacturer.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Niki/ComputerFactory/LenovoManufacturer.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Niki/Computers/ComputerBase.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Niki/Computers/Laptop.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Niki/Computers/PersonalComputer.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Niki/Computers/Server.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Niki/ComputersDirectoryEntryPoint.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Niki/ComputerType.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Niki/Cpu.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Niki/HardDriver.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Niki/ICommandExecutor.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Niki/ICommandParser.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Niki/IManufacturerSimpleFactory.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Niki/IMotherboard.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Niki/IVideoCard.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Niki/LaptopBattery.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Niki/ManufacturerSimpleFactory.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Niki/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Niki/Properties/System.Collections.Generic.dll
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Niki/Ram.cs
+/CSharp/HQC/99. Exam others/09. ExamFileForEvaluation/Computers-problem/Niki/VideoCard.cs
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/ComputersBuildingSystem.jmconfig
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/ComputersBuildingSystem.sln
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/ComputersBuildingSystem.Tests/ChargeTests.cs
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/ComputersBuildingSystem.Tests/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/Documentation.txt
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/Niki/ComputersSystemEntryPoint.cs
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/Niki/DeviceComponents/Cpu.cs
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/Niki/DeviceComponents/Cpu128Bit.cs
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/Niki/DeviceComponents/Cpu32Bit.cs
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/Niki/DeviceComponents/Cpu64Bit.cs
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/Niki/DeviceComponents/HardDrive.cs
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/Niki/DeviceComponents/LaptopBattery.cs
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/Niki/DeviceComponents/Motherboard.cs
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/Niki/DeviceComponents/RaidHardDrive.cs
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/Niki/DeviceComponents/RamMemory.cs
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/Niki/DeviceComponents/VideoCard.cs
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/Niki/DeviceManufacturers/Dell.cs
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/Niki/DeviceManufacturers/DeviceManufacturer.cs
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/Niki/DeviceManufacturers/HewlettPackard.cs
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/Niki/DeviceManufacturers/Lenovo.cs
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/Niki/Devices/Device.cs
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/Niki/Devices/Laptop.cs
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/Niki/Devices/PersonalComputer.cs
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/Niki/Devices/Server.cs
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/Niki/IMotherboard.cs
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/Niki/ManufacturerSelector.cs
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/Niki/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/Niki/Properties/System.Collections.Generic.dll
+/CSharp/HQC/99. Exam others/10. ExamFileForEvaluation/Exam/Niki/RandomGeneratorSingleton.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Computer Building System.jmconfig
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Computer Building System.sln
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/ComputerBuildingSystemTests/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/ComputerBuildingSystemTests/UnitTest1.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Niki/Components/Cpu.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Niki/Components/HardDriver.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Niki/Components/LaptopBattery.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Niki/Components/MotherBoard.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Niki/Components/Ram.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Niki/Components/VideoCard.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Niki/Computer.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Niki/ComputerBuildingSystemEntryPoint.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Niki/Enumerations/ComputerType.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Niki/Enumerations/CpuType.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Niki/Enumerations/VideoCardType.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Niki/Interfaces/IBattery.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Niki/Interfaces/ICpu.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Niki/Interfaces/IHardDriver.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Niki/Interfaces/IManafacturer.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Niki/Interfaces/IMotherboard.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Niki/Interfaces/IRam.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Niki/Interfaces/IVideoCard.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Niki/Laptop.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Niki/Manafacturers/Dell.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Niki/Manafacturers/HP.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Niki/Manafacturers/Lenovo.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Niki/Manafacturers/Manafacturer.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Niki/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Niki/Properties/System.Collections.Generic.dll
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Computers-problem/Niki/Server.cs
+/CSharp/HQC/99. Exam others/11. ExamFileForEvaluation/Documentation.txt
+/CSharp/HQC/99. Exam others/12. ExamFileForEvaluation/ComputerManufacturing.jmconfig
+/CSharp/HQC/99. Exam others/12. ExamFileForEvaluation/ComputerManufacturing.sln
+/CSharp/HQC/99. Exam others/12. ExamFileForEvaluation/ComputerManufacturing/Computer.cs
+/CSharp/HQC/99. Exam others/12. ExamFileForEvaluation/ComputerManufacturing/ComputerType.cs
+/CSharp/HQC/99. Exam others/12. ExamFileForEvaluation/ComputerManufacturing/Cpu.cs
+/CSharp/HQC/99. Exam others/12. ExamFileForEvaluation/ComputerManufacturing/DisplayColor.cs
+/CSharp/HQC/99. Exam others/12. ExamFileForEvaluation/ComputerManufacturing/HardDriver.cs
+/CSharp/HQC/99. Exam others/12. ExamFileForEvaluation/ComputerManufacturing/IMotherboard.cs
+/CSharp/HQC/99. Exam others/12. ExamFileForEvaluation/ComputerManufacturing/LaptopBattery.cs
+/CSharp/HQC/99. Exam others/12. ExamFileForEvaluation/ComputerManufacturing/Manufacturer/ComputerFactory.cs
+/CSharp/HQC/99. Exam others/12. ExamFileForEvaluation/ComputerManufacturing/Manufacturer/Dell.cs
+/CSharp/HQC/99. Exam others/12. ExamFileForEvaluation/ComputerManufacturing/Manufacturer/HP.cs
+/CSharp/HQC/99. Exam others/12. ExamFileForEvaluation/ComputerManufacturing/Manufacturer/IManufacturer.cs
+/CSharp/HQC/99. Exam others/12. ExamFileForEvaluation/ComputerManufacturing/Manufacturer/Lenovo.cs
+/CSharp/HQC/99. Exam others/12. ExamFileForEvaluation/ComputerManufacturing/Motherboard.cs
+/CSharp/HQC/99. Exam others/12. ExamFileForEvaluation/ComputerManufacturing/Program.cs
+/CSharp/HQC/99. Exam others/12. ExamFileForEvaluation/ComputerManufacturing/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Exam others/12. ExamFileForEvaluation/ComputerManufacturing/Properties/System.Collections.Generic.dll
+/CSharp/HQC/99. Exam others/12. ExamFileForEvaluation/ComputerManufacturing/Ram.cs
+/CSharp/HQC/99. Exam others/12. ExamFileForEvaluation/ComputerManufacturing/VideoCard.cs
+/CSharp/HQC/99. Exam others/12. ExamFileForEvaluation/Documentation.txt
+/CSharp/HQC/99. Others/01. HW_Instrumenti-za-razrabotka/DevelopmentTools.odt
+/CSharp/HQC/99. Others/01. HW_Mocking-s-Moq-i-JustMock/QPQMock/Cars.jmconfig
+/CSharp/HQC/99. Others/01. HW_Mocking-s-Moq-i-JustMock/QPQMock/Cars.sln
+/CSharp/HQC/99. Others/01. HW_Mocking-s-Moq-i-JustMock/QPQMock/Cars.Tests.JustMock/CarsControllerTests.cs
+/CSharp/HQC/99. Others/01. HW_Mocking-s-Moq-i-JustMock/QPQMock/Cars.Tests.JustMock/Mocks/CarRepositoryMock.cs
+/CSharp/HQC/99. Others/01. HW_Mocking-s-Moq-i-JustMock/QPQMock/Cars.Tests.JustMock/Mocks/ICarsRepositoryMock.cs
+/CSharp/HQC/99. Others/01. HW_Mocking-s-Moq-i-JustMock/QPQMock/Cars.Tests.JustMock/Mocks/JustMockCarsRepository.cs
+/CSharp/HQC/99. Others/01. HW_Mocking-s-Moq-i-JustMock/QPQMock/Cars.Tests.JustMock/Mocks/MoqCarsRepository.cs
+/CSharp/HQC/99. Others/01. HW_Mocking-s-Moq-i-JustMock/QPQMock/Cars.Tests.JustMock/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Others/01. HW_Mocking-s-Moq-i-JustMock/QPQMock/Cars/Contracts/ICarsRepository.cs
+/CSharp/HQC/99. Others/01. HW_Mocking-s-Moq-i-JustMock/QPQMock/Cars/Contracts/IDatabase.cs
+/CSharp/HQC/99. Others/01. HW_Mocking-s-Moq-i-JustMock/QPQMock/Cars/Contracts/IView.cs
+/CSharp/HQC/99. Others/01. HW_Mocking-s-Moq-i-JustMock/QPQMock/Cars/Controllers/CarsController.cs
+/CSharp/HQC/99. Others/01. HW_Mocking-s-Moq-i-JustMock/QPQMock/Cars/Data/CarsRepository.cs
+/CSharp/HQC/99. Others/01. HW_Mocking-s-Moq-i-JustMock/QPQMock/Cars/Data/Database.cs
+/CSharp/HQC/99. Others/01. HW_Mocking-s-Moq-i-JustMock/QPQMock/Cars/Infrastructure/View.cs
+/CSharp/HQC/99. Others/01. HW_Mocking-s-Moq-i-JustMock/QPQMock/Cars/Models/Car.cs
+/CSharp/HQC/99. Others/01. HW_Mocking-s-Moq-i-JustMock/QPQMock/Cars/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Others/01. HW_Mocking-s-Moq-i-JustMock/QPQMock/README.txt
+/CSharp/HQC/99. Others/02. HW_Instrumenti-za-razrabotka/T4Template/T4Template.jmconfig
+/CSharp/HQC/99. Others/02. HW_Instrumenti-za-razrabotka/T4Template/T4Template.sln
+/CSharp/HQC/99. Others/02. HW_Instrumenti-za-razrabotka/T4Template/T4Template/HtmlTemplate.html
+/CSharp/HQC/99. Others/02. HW_Instrumenti-za-razrabotka/T4Template/T4Template/HtmlTemplate.tt
+/CSharp/HQC/99. Others/02. HW_Instrumenti-za-razrabotka/T4Template/T4Template/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Others/02. HW_Mocking-s-Moq-i-JustMock/Cars.jmconfig
+/CSharp/HQC/99. Others/02. HW_Mocking-s-Moq-i-JustMock/Cars.sln
+/CSharp/HQC/99. Others/02. HW_Mocking-s-Moq-i-JustMock/Cars.Tests.JustMock/CarsControllerTests.cs
+/CSharp/HQC/99. Others/02. HW_Mocking-s-Moq-i-JustMock/Cars.Tests.JustMock/Mocks/CarRepositoryMock.cs
+/CSharp/HQC/99. Others/02. HW_Mocking-s-Moq-i-JustMock/Cars.Tests.JustMock/Mocks/ICarsRepositoryMock.cs
+/CSharp/HQC/99. Others/02. HW_Mocking-s-Moq-i-JustMock/Cars.Tests.JustMock/Mocks/JustMockCarsRepository.cs
+/CSharp/HQC/99. Others/02. HW_Mocking-s-Moq-i-JustMock/Cars.Tests.JustMock/Mocks/MoqCarsRepository.cs
+/CSharp/HQC/99. Others/02. HW_Mocking-s-Moq-i-JustMock/Cars.Tests.JustMock/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Others/02. HW_Mocking-s-Moq-i-JustMock/Cars/Contracts/ICarsRepository.cs
+/CSharp/HQC/99. Others/02. HW_Mocking-s-Moq-i-JustMock/Cars/Contracts/IDatabase.cs
+/CSharp/HQC/99. Others/02. HW_Mocking-s-Moq-i-JustMock/Cars/Contracts/IView.cs
+/CSharp/HQC/99. Others/02. HW_Mocking-s-Moq-i-JustMock/Cars/Controllers/CarsController.cs
+/CSharp/HQC/99. Others/02. HW_Mocking-s-Moq-i-JustMock/Cars/Data/CarsRepository.cs
+/CSharp/HQC/99. Others/02. HW_Mocking-s-Moq-i-JustMock/Cars/Data/Database.cs
+/CSharp/HQC/99. Others/02. HW_Mocking-s-Moq-i-JustMock/Cars/Infrastructure/View.cs
+/CSharp/HQC/99. Others/02. HW_Mocking-s-Moq-i-JustMock/Cars/Models/Car.cs
+/CSharp/HQC/99. Others/02. HW_Mocking-s-Moq-i-JustMock/Cars/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Others/02. HW_Mocking-s-Moq-i-JustMock/README.txt
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/composite.png
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/creatianalPattern/abstract.gif
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/creatianalPattern/Abstract_Factory.jpg
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/creatianalPattern/builder.png
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/creatianalPattern/FactoryMethod.png
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/creatianalPattern/Prototype.png
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/creatianalPattern/Singleton.png
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/AbstractFactory/AbstarctProduct.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/AbstractFactory/AbstractFactory.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/AbstractFactory/Client.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/AbstractFactory/CreatorOneRestaurant.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/AbstractFactory/CreatorTwoFastFood.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/AbstractFactory/ProductCheesePizza.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/AbstractFactory/ProductSalamiPizza.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/AbstractFactory/Program.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/AbstractFactory/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/BuilderPattern/AbstractBuilder.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/BuilderPattern/AbstractVehicle.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/BuilderPattern/BuilderBus.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/BuilderPattern/BuilderCar.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/BuilderPattern/DirectorShop.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/BuilderPattern/Program.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/BuilderPattern/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/Composite/Commander.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/Composite/Contracts/IAddable.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/Composite/Contracts/IRemovable.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/Composite/Person.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/Composite/PersonModel.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/Composite/Program.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/Composite/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/Design Patterns CScharp.jmconfig
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/Design Patterns CScharp.sln
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/Facada/DataBase.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/Facada/FacadaHomeTeatherPro.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/Facada/InteriorControl.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/Facada/IPlayer.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/Facada/MediaItem.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/Facada/Player.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/Facada/Program.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/Facada/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/FactoryMethodExample/CheapGsm.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/FactoryMethodExample/ChinaGSMCreator.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/FactoryMethodExample/EuropeCreator.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/FactoryMethodExample/ExpensiveGsm.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/FactoryMethodExample/FactoryMethodCreator.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/FactoryMethodExample/Gsm.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/FactoryMethodExample/Program.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/FactoryMethodExample/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/LazyInixialization/Program.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/LazyInixialization/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/LazyInixialization/SomeHero.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/Prototype/Program.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/Prototype/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/Prototype/SomeHero.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/SimpleFactory/Coffee.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/SimpleFactory/CoffeeTypes.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/SimpleFactory/employExampl/SimpleFactoryElementary.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/SimpleFactory/Program.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/SimpleFactory/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/SimpleFactory/SimpleFactoryCoffee.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/Singleton/LogEvent.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/Singleton/LoggerSingleton.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/Singleton/Program.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/Singleton/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/Singleton/Singleton.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/Design Patterns CScharp/Singleton/ThreadSafeSingleton.cs
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/DesignPatternMoreInfo.txt
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/facada.png
+/CSharp/HQC/99. Others/02. HW_Shabloni-za-dizayn-design-patterns/15 DesignPatterns/IteratorPattern.jpg
+/CSharp/HQC/99. Others/03. HW_Instrumenti-za-razrabotka/JustCode.jpg
+/CSharp/HQC/99. Others/03. HW_Instrumenti-za-razrabotka/JustTrace.jpg
+/CSharp/HQC/99. Others/03. HW_Instrumenti-za-razrabotka/T4templates/T4templates/T4/T4.jmconfig
+/CSharp/HQC/99. Others/03. HW_Instrumenti-za-razrabotka/T4templates/T4templates/T4/T4.sln
+/CSharp/HQC/99. Others/03. HW_Instrumenti-za-razrabotka/T4templates/T4templates/T4/TestProject/Program.cs
+/CSharp/HQC/99. Others/03. HW_Instrumenti-za-razrabotka/T4templates/T4templates/T4/TestProject/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Others/03. HW_Instrumenti-za-razrabotka/T4templates/T4templates/T4/TestProject/test.cs
+/CSharp/HQC/99. Others/03. HW_Instrumenti-za-razrabotka/T4templates/T4templates/T4/TestProject/test.tt
+/CSharp/HQC/99. Others/03. HW_Mocking-s-Moq-i-JustMock/Cars.jmconfig
+/CSharp/HQC/99. Others/03. HW_Mocking-s-Moq-i-JustMock/Cars.sln
+/CSharp/HQC/99. Others/03. HW_Mocking-s-Moq-i-JustMock/Cars.Tests.JustMock/CarsControllerTests.cs
+/CSharp/HQC/99. Others/03. HW_Mocking-s-Moq-i-JustMock/Cars.Tests.JustMock/Mocks/CarRepositoryMock.cs
+/CSharp/HQC/99. Others/03. HW_Mocking-s-Moq-i-JustMock/Cars.Tests.JustMock/Mocks/ICarsRepositoryMock.cs
+/CSharp/HQC/99. Others/03. HW_Mocking-s-Moq-i-JustMock/Cars.Tests.JustMock/Mocks/JustMockCarsRepository.cs
+/CSharp/HQC/99. Others/03. HW_Mocking-s-Moq-i-JustMock/Cars.Tests.JustMock/Mocks/MoqCarsRepository.cs
+/CSharp/HQC/99. Others/03. HW_Mocking-s-Moq-i-JustMock/Cars.Tests.JustMock/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Others/03. HW_Mocking-s-Moq-i-JustMock/Cars/Contracts/ICarsRepository.cs
+/CSharp/HQC/99. Others/03. HW_Mocking-s-Moq-i-JustMock/Cars/Contracts/IDatabase.cs
+/CSharp/HQC/99. Others/03. HW_Mocking-s-Moq-i-JustMock/Cars/Contracts/IView.cs
+/CSharp/HQC/99. Others/03. HW_Mocking-s-Moq-i-JustMock/Cars/Controllers/CarsController.cs
+/CSharp/HQC/99. Others/03. HW_Mocking-s-Moq-i-JustMock/Cars/Data/CarsRepository.cs
+/CSharp/HQC/99. Others/03. HW_Mocking-s-Moq-i-JustMock/Cars/Data/Database.cs
+/CSharp/HQC/99. Others/03. HW_Mocking-s-Moq-i-JustMock/Cars/Infrastructure/View.cs
+/CSharp/HQC/99. Others/03. HW_Mocking-s-Moq-i-JustMock/Cars/Models/Car.cs
+/CSharp/HQC/99. Others/03. HW_Mocking-s-Moq-i-JustMock/Cars/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Others/03. HW_Mocking-s-Moq-i-JustMock/README.txt
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/01. Strategy/MergeSort.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/01. Strategy/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/01. Strategy/Quicksort.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/01. Strategy/Shellsort.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/01. Strategy/SortedList.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/01. Strategy/SortingStrategy.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/01. Strategy/StrategyDemo.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/App_Data/aspnet-_02.MvcMovie-20130517225515.mdf
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/App_Data/aspnet-_02.MvcMovie-20130517225515_log.ldf
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/App_Start/AuthConfig.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/App_Start/BundleConfig.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/App_Start/FilterConfig.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/App_Start/RouteConfig.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/App_Start/WebApiConfig.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/Site.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/images/ui-bg_flat_75_ffffff_40x100.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/images/ui-bg_glass_65_ffffff_1x400.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/images/ui-bg_glass_75_dadada_1x400.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/images/ui-icons_222222_256x240.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/images/ui-icons_2e83ff_256x240.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/images/ui-icons_454545_256x240.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/images/ui-icons_888888_256x240.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/images/ui-icons_cd0a0a_256x240.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/jquery-ui.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/jquery.ui.accordion.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/jquery.ui.all.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/jquery.ui.autocomplete.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/jquery.ui.base.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/jquery.ui.button.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/jquery.ui.core.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/jquery.ui.datepicker.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/jquery.ui.dialog.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/jquery.ui.progressbar.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/jquery.ui.resizable.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/jquery.ui.selectable.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/jquery.ui.slider.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/jquery.ui.tabs.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/jquery.ui.theme.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/minified/images/ui-bg_flat_0_aaaaaa_40x100.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/minified/images/ui-bg_flat_75_ffffff_40x100.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/minified/images/ui-bg_glass_55_fbf9ee_1x400.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/minified/images/ui-bg_glass_65_ffffff_1x400.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/minified/images/ui-bg_glass_75_dadada_1x400.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/minified/images/ui-bg_glass_75_e6e6e6_1x400.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/minified/images/ui-bg_glass_95_fef1ec_1x400.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/minified/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/minified/images/ui-icons_222222_256x240.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/minified/images/ui-icons_2e83ff_256x240.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/minified/images/ui-icons_454545_256x240.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/minified/images/ui-icons_888888_256x240.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/minified/images/ui-icons_cd0a0a_256x240.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/minified/jquery-ui.min.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/minified/jquery.ui.accordion.min.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/minified/jquery.ui.autocomplete.min.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/minified/jquery.ui.button.min.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/minified/jquery.ui.core.min.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/minified/jquery.ui.datepicker.min.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/minified/jquery.ui.dialog.min.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/minified/jquery.ui.progressbar.min.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/minified/jquery.ui.resizable.min.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/minified/jquery.ui.selectable.min.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/minified/jquery.ui.slider.min.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/minified/jquery.ui.tabs.min.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Content/themes/base/minified/jquery.ui.theme.min.css
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Controllers/AccountController.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Controllers/HelloWorldController.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Controllers/HomeController.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Controllers/MoviesController.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/favicon.ico
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Filters/InitializeSimpleMembershipAttribute.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Global.asax.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Images/accent.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Images/bullet.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Images/heroAccent.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Images/orderedList0.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Images/orderedList1.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Images/orderedList2.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Images/orderedList3.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Images/orderedList4.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Images/orderedList5.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Images/orderedList6.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Images/orderedList7.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Images/orderedList8.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Images/orderedList9.png
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Models/AccountModels.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Models/Movie.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Models/MovieInitializer.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Scripts/_references.js
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Scripts/jquery-1.7.1.intellisense.js
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Scripts/jquery-1.7.1.js
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Scripts/jquery-1.7.1.min.js
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Scripts/jquery-ui-1.8.20.js
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Scripts/jquery-ui-1.8.20.min.js
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Scripts/jquery.unobtrusive-ajax.js
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Scripts/jquery.unobtrusive-ajax.min.js
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Scripts/jquery.validate-vsdoc.js
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Scripts/jquery.validate.js
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Scripts/jquery.validate.min.js
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Scripts/jquery.validate.unobtrusive.js
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Scripts/jquery.validate.unobtrusive.min.js
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Scripts/knockout-2.1.0.debug.js
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Scripts/knockout-2.1.0.js
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Scripts/modernizr-2.5.3.js
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Views/_ViewStart.cshtml
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Views/Account/_ChangePasswordPartial.cshtml
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Views/Account/_ExternalLoginsListPartial.cshtml
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Views/Account/_RemoveExternalLoginsPartial.cshtml
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Views/Account/_SetPasswordPartial.cshtml
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Views/Account/ExternalLoginConfirmation.cshtml
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Views/Account/ExternalLoginFailure.cshtml
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Views/Account/Login.cshtml
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Views/Account/Manage.cshtml
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Views/Account/Register.cshtml
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Views/HelloWorld/Index.cshtml
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Views/HelloWorld/Welcome.cshtml
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Views/Home/About.cshtml
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Views/Home/Contact.cshtml
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Views/Home/Index.cshtml
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Views/Movies/Create.cshtml
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Views/Movies/Delete.cshtml
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Views/Movies/Details.cshtml
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Views/Movies/Edit.cshtml
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Views/Movies/Index.cshtml
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Views/Movies/SearchIndex.cshtml
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Views/Shared/_Layout.cshtml
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Views/Shared/_LoginPartial.cshtml
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/02. MvcMovie/Views/Shared/Error.cshtml
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/03. GuiSystem/GuiSystemDemo.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/03. GuiSystem/IWindow.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/03. GuiSystem/IWindowImplementation.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/03. GuiSystem/Properties/AssemblyInfo.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/03. GuiSystem/WindowImplementationFactory.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/03. GuiSystem/WindowImplementations/BaseWindowImplementation.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/03. GuiSystem/WindowImplementations/LinuxWindowImplementation.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/03. GuiSystem/WindowImplementations/MacOSXWindowImplementation.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/03. GuiSystem/WindowImplementations/MSWindowsWindowImplementation.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/03. GuiSystem/Windows/BaseWindow.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/03. GuiSystem/Windows/DialogWindow.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/03. GuiSystem/Windows/PictureWindow.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/03. GuiSystem/Windows/TextWindow.cs
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/15. Design Patterns.jmconfig
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/15. Design Patterns.sln
+/CSharp/HQC/99. Others/03. HW_Shabloni-za-dizayn-design-patterns/15. Design Patterns/15. Design Patterns.sln.DotSettings
+/CSharp/HQC/Exam/Niki/Properties/System.Collections.Generic.dll
+/CSharp/OOP/02. DefiningClassesPartTwo/DefiningClassesPartTwo.jmconfig
+/CSharp/OOP/04. OOPPrinciplesPartOne/OOPPrinciplesPartOne.jmconfig
+/CSharp/OOP/07. Exam/1. Cosmetics Shop_Description/Cosmetics-Skeleton/Cosmetics.jmconfig
+/CSharp/OOP/07. Exam/2. Army of Creatures_Description/2. Army of Creatures/ArmyOfCreatures.jmconfig
+/CSharp/OOP/I. DefiningClasses/DefiningClasses.jmconfig
+/CSharp/OOP/VI. Common Type System/CommonTypeSystem.jmconfig
+/CSharp/PartOne/04. ConsoleInputOutput/04. ConsoleInputOutput.jmconfig
+/CSharp/PartTwo/III.Methods/III.Methods.jmconfig
