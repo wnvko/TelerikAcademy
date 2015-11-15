@@ -1,0 +1,593 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalogue>
+  <album>
+    <name>The Wall</name>
+    <artist>Ringo</artist>
+    <year>2012</year>
+    <producer>Jerry Wexler</producer>
+    <price>11.78</price>
+    <songs>
+      <title>What's Going On</title>
+      <duration>44:11</duration>
+      <title>What's Going On</title>
+      <duration>00:18</duration>
+      <title>Good Vibrations</title>
+      <duration>06:06</duration>
+      <title>Respect</title>
+      <duration>16:29</duration>
+    </songs>
+  </album>
+  <album>
+    <name>My Everything</name>
+    <artist>James</artist>
+    <year>2002</year>
+    <producer>Jerry Wexler</producer>
+    <price>7.43</price>
+    <songs>
+      <title>Like a Rolling Stone</title>
+      <duration>21:23</duration>
+      <title>Good Vibrations</title>
+      <duration>28:41</duration>
+    </songs>
+  </album>
+  <album>
+    <name>The Dark Side of the Moon</name>
+    <artist>Ringo</artist>
+    <year>2000</year>
+    <producer>Roy Thomas Baker</producer>
+    <price>14.26</price>
+    <songs>
+      <title>What'd I Say</title>
+      <duration>47:32</duration>
+      <title>Like a Rolling Stone</title>
+      <duration>13:41</duration>
+    </songs>
+  </album>
+  <album>
+    <name>My Everything</name>
+    <artist>Katty</artist>
+    <year>1941</year>
+    <producer>Steve Albini</producer>
+    <price>12.28</price>
+    <songs>
+      <title>Smells Like Teen Spirit</title>
+      <duration>53:14</duration>
+      <title>Like a Rolling Stone</title>
+      <duration>48:43</duration>
+    </songs>
+  </album>
+  <album>
+    <name>The Dark Side of the Moon</name>
+    <artist>Colins</artist>
+    <year>1987</year>
+    <producer>Steve Albini</producer>
+    <price>1.32</price>
+    <songs>
+      <title>Good Vibrations</title>
+      <duration>34:39</duration>
+      <title>Imagine</title>
+      <duration>46:03</duration>
+      <title>(I Can't Get No) Satisfaction</title>
+      <duration>36:28</duration>
+      <title>Hey Jude</title>
+      <duration>06:51</duration>
+      <title>Smells Like Teen Spirit</title>
+      <duration>56:45</duration>
+    </songs>
+  </album>
+  <album>
+    <name>Wish You Were Here</name>
+    <artist>Sam</artist>
+    <year>1959</year>
+    <producer>RZA</producer>
+    <price>2.68</price>
+    <songs>
+      <title>What'd I Say</title>
+      <duration>20:39</duration>
+      <title>Like a Rolling Stone</title>
+      <duration>49:05</duration>
+      <title>Respect</title>
+      <duration>05:50</duration>
+    </songs>
+  </album>
+  <album>
+    <name>The Dark Side of the Moon</name>
+    <artist>Iggy</artist>
+    <year>1961</year>
+    <producer>Jerry Wexler</producer>
+    <price>13.64</price>
+    <songs>
+      <title>Like a Rolling Stone</title>
+      <duration>55:45</duration>
+      <title>Smells Like Teen Spirit</title>
+      <duration>09:09</duration>
+      <title>Johnny B. Goode</title>
+      <duration>18:36</duration>
+      <title>What'd I Say</title>
+      <duration>07:15</duration>
+      <title>Smells Like Teen Spirit</title>
+      <duration>54:35</duration>
+      <title>Like a Rolling Stone</title>
+      <duration>54:32</duration>
+    </songs>
+  </album>
+  <album>
+    <name>The Wall</name>
+    <artist>Iggy</artist>
+    <year>1956</year>
+    <producer>PeteRock</producer>
+    <price>10.03</price>
+    <songs>
+      <title>Hey Jude</title>
+      <duration>18:39</duration>
+      <title>Respect</title>
+      <duration>46:40</duration>
+    </songs>
+  </album>
+  <album>
+    <name>The Dark Side of the Moon</name>
+    <artist>Ringo</artist>
+    <year>1964</year>
+    <producer>Roy Thomas Baker</producer>
+    <price>16.24</price>
+    <songs>
+      <title>Like a Rolling Stone</title>
+      <duration>52:45</duration>
+      <title>(I Can't Get No) Satisfaction</title>
+      <duration>48:20</duration>
+    </songs>
+  </album>
+  <album>
+    <name>OK Computer</name>
+    <artist>Katty</artist>
+    <year>1968</year>
+    <producer>RZA</producer>
+    <price>10.71</price>
+    <songs>
+      <title>Respect</title>
+      <duration>33:07</duration>
+      <title>Like a Rolling Stone</title>
+      <duration>35:13</duration>
+      <title>Imagine</title>
+      <duration>09:43</duration>
+      <title>Imagine</title>
+      <duration>26:43</duration>
+      <title>What's Going On</title>
+      <duration>47:17</duration>
+      <title>What'd I Say</title>
+      <duration>58:57</duration>
+    </songs>
+  </album>
+  <album>
+    <name>My Everything</name>
+    <artist>Madonna</artist>
+    <year>1968</year>
+    <producer>Roy Thomas Baker</producer>
+    <price>15.67</price>
+    <songs>
+      <title>What's Going On</title>
+      <duration>42:41</duration>
+      <title>Johnny B. Goode</title>
+      <duration>30:17</duration>
+      <title>Imagine</title>
+      <duration>52:53</duration>
+    </songs>
+  </album>
+  <album>
+    <name>London Calling</name>
+    <artist>Bono</artist>
+    <year>2009</year>
+    <producer>George Clinton</producer>
+    <price>13.28</price>
+    <songs>
+      <title>Good Vibrations</title>
+      <duration>28:17</duration>
+      <title>Like a Rolling Stone</title>
+      <duration>06:05</duration>
+    </songs>
+  </album>
+  <album>
+    <name>Wish You Were Here</name>
+    <artist>Bono</artist>
+    <year>1987</year>
+    <producer>Jerry Wexler</producer>
+    <price>1.87</price>
+    <songs>
+      <title>(I Can't Get No) Satisfaction</title>
+      <duration>11:24</duration>
+      <title>Respect</title>
+      <duration>54:15</duration>
+    </songs>
+  </album>
+  <album>
+    <name>The Wall</name>
+    <artist>Iggy</artist>
+    <year>1996</year>
+    <producer>Paul Epworth</producer>
+    <price>13.08</price>
+    <songs>
+      <title>Smells Like Teen Spirit</title>
+      <duration>14:06</duration>
+      <title>What's Going On</title>
+      <duration>32:05</duration>
+      <title>(I Can't Get No) Satisfaction</title>
+      <duration>11:29</duration>
+      <title>Johnny B. Goode</title>
+      <duration>16:31</duration>
+      <title>Smells Like Teen Spirit</title>
+      <duration>33:01</duration>
+      <title>What's Going On</title>
+      <duration>03:16</duration>
+    </songs>
+  </album>
+  <album>
+    <name>Wish You Were Here</name>
+    <artist>Colins</artist>
+    <year>2002</year>
+    <producer>DJ Shadow</producer>
+    <price>11.35</price>
+    <songs>
+      <title>Like a Rolling Stone</title>
+      <duration>56:38</duration>
+      <title>What's Going On</title>
+      <duration>42:43</duration>
+      <title>What's Going On</title>
+      <duration>09:36</duration>
+      <title>What'd I Say</title>
+      <duration>39:56</duration>
+      <title>Johnny B. Goode</title>
+      <duration>49:14</duration>
+    </songs>
+  </album>
+  <album>
+    <name>The Dark Side of the Moon</name>
+    <artist>Ringo</artist>
+    <year>1972</year>
+    <producer>Jimmy Miller</producer>
+    <price>11.55</price>
+    <songs>
+      <title>Hey Jude</title>
+      <duration>37:09</duration>
+      <title>Smells Like Teen Spirit</title>
+      <duration>35:35</duration>
+      <title>Respect</title>
+      <duration>58:58</duration>
+      <title>Respect</title>
+      <duration>29:28</duration>
+    </songs>
+  </album>
+  <album>
+    <name>Wish You Were Here</name>
+    <artist>Bono</artist>
+    <year>1941</year>
+    <producer>Jerry Wexler</producer>
+    <price>10.95</price>
+    <songs>
+      <title>(I Can't Get No) Satisfaction</title>
+      <duration>38:50</duration>
+      <title>Hey Jude</title>
+      <duration>11:12</duration>
+      <title>Good Vibrations</title>
+      <duration>33:00</duration>
+      <title>What'd I Say</title>
+      <duration>37:07</duration>
+      <title>Hey Jude</title>
+      <duration>48:49</duration>
+      <title>Good Vibrations</title>
+      <duration>44:43</duration>
+    </songs>
+  </album>
+  <album>
+    <name>Back in Black</name>
+    <artist>Ariana</artist>
+    <year>1941</year>
+    <producer>Jerry Wexler</producer>
+    <price>2.75</price>
+    <songs>
+      <title>Respect</title>
+      <duration>05:05</duration>
+      <title>(I Can't Get No) Satisfaction</title>
+      <duration>01:09</duration>
+      <title>Imagine</title>
+      <duration>01:40</duration>
+      <title>What's Going On</title>
+      <duration>32:41</duration>
+      <title>(I Can't Get No) Satisfaction</title>
+      <duration>34:01</duration>
+      <title>Respect</title>
+      <duration>55:15</duration>
+    </songs>
+  </album>
+  <album>
+    <name>The Wall</name>
+    <artist>James</artist>
+    <year>1974</year>
+    <producer>Roy Thomas Baker</producer>
+    <price>5.4</price>
+    <songs>
+      <title>Smells Like Teen Spirit</title>
+      <duration>49:09</duration>
+      <title>Respect</title>
+      <duration>25:06</duration>
+      <title>Good Vibrations</title>
+      <duration>06:47</duration>
+      <title>Johnny B. Goode</title>
+      <duration>12:34</duration>
+      <title>Johnny B. Goode</title>
+      <duration>49:28</duration>
+    </songs>
+  </album>
+  <album>
+    <name>The Dark Side of the Moon</name>
+    <artist>Ariana</artist>
+    <year>1995</year>
+    <producer>PeteRock</producer>
+    <price>15.87</price>
+    <songs>
+      <title>(I Can't Get No) Satisfaction</title>
+      <duration>18:03</duration>
+      <title>(I Can't Get No) Satisfaction</title>
+      <duration>17:05</duration>
+      <title>Good Vibrations</title>
+      <duration>49:52</duration>
+      <title>Respect</title>
+      <duration>16:37</duration>
+    </songs>
+  </album>
+  <album>
+    <name>Abbey Road</name>
+    <artist>Ringo</artist>
+    <year>1947</year>
+    <producer>Jerry Wexler</producer>
+    <price>12.83</price>
+    <songs>
+      <title>(I Can't Get No) Satisfaction</title>
+      <duration>12:52</duration>
+      <title>Smells Like Teen Spirit</title>
+      <duration>37:42</duration>
+      <title>Like a Rolling Stone</title>
+      <duration>17:45</duration>
+      <title>Respect</title>
+      <duration>45:11</duration>
+      <title>Imagine</title>
+      <duration>19:40</duration>
+    </songs>
+  </album>
+  <album>
+    <name>Abbey Road</name>
+    <artist>Ariana</artist>
+    <year>1964</year>
+    <producer>Paul Epworth</producer>
+    <price>7.07</price>
+    <songs>
+      <title>(I Can't Get No) Satisfaction</title>
+      <duration>49:25</duration>
+      <title>What's Going On</title>
+      <duration>17:40</duration>
+    </songs>
+  </album>
+  <album>
+    <name>Wish You Were Here</name>
+    <artist>Katty</artist>
+    <year>1989</year>
+    <producer>Paul Epworth</producer>
+    <price>18.39</price>
+    <songs>
+      <title>Imagine</title>
+      <duration>15:30</duration>
+      <title>Smells Like Teen Spirit</title>
+      <duration>02:00</duration>
+      <title>(I Can't Get No) Satisfaction</title>
+      <duration>45:30</duration>
+      <title>Imagine</title>
+      <duration>41:02</duration>
+      <title>What'd I Say</title>
+      <duration>14:56</duration>
+      <title>Respect</title>
+      <duration>00:57</duration>
+    </songs>
+  </album>
+  <album>
+    <name>The Dark Side of the Moon</name>
+    <artist>Katty</artist>
+    <year>1947</year>
+    <producer>Jimmy Miller</producer>
+    <price>10.81</price>
+    <songs>
+      <title>Good Vibrations</title>
+      <duration>55:03</duration>
+      <title>Good Vibrations</title>
+      <duration>32:14</duration>
+    </songs>
+  </album>
+  <album>
+    <name>My Everything</name>
+    <artist>Bono</artist>
+    <year>1949</year>
+    <producer>Paul Epworth</producer>
+    <price>14.97</price>
+    <songs>
+      <title>Smells Like Teen Spirit</title>
+      <duration>49:10</duration>
+      <title>Imagine</title>
+      <duration>04:23</duration>
+    </songs>
+  </album>
+  <album>
+    <name>OK Computer</name>
+    <artist>Axel</artist>
+    <year>1987</year>
+    <producer>Jimmy Miller</producer>
+    <price>1.98</price>
+    <songs>
+      <title>What'd I Say</title>
+      <duration>48:39</duration>
+      <title>Smells Like Teen Spirit</title>
+      <duration>19:58</duration>
+      <title>Smells Like Teen Spirit</title>
+      <duration>39:51</duration>
+      <title>Respect</title>
+      <duration>54:44</duration>
+    </songs>
+  </album>
+  <album>
+    <name>Thriller</name>
+    <artist>Colins</artist>
+    <year>1957</year>
+    <producer>DJ Shadow</producer>
+    <price>7.42</price>
+    <songs>
+      <title>What'd I Say</title>
+      <duration>04:31</duration>
+      <title>Imagine</title>
+      <duration>20:08</duration>
+      <title>Good Vibrations</title>
+      <duration>07:27</duration>
+      <title>Like a Rolling Stone</title>
+      <duration>10:29</duration>
+    </songs>
+  </album>
+  <album>
+    <name>Wish You Were Here</name>
+    <artist>Ringo</artist>
+    <year>1998</year>
+    <producer>Jimmy Miller</producer>
+    <price>5.44</price>
+    <songs>
+      <title>Smells Like Teen Spirit</title>
+      <duration>51:34</duration>
+      <title>Imagine</title>
+      <duration>25:38</duration>
+      <title>Smells Like Teen Spirit</title>
+      <duration>11:46</duration>
+      <title>Respect</title>
+      <duration>41:30</duration>
+    </songs>
+  </album>
+  <album>
+    <name>Abbey Road</name>
+    <artist>Ringo</artist>
+    <year>1980</year>
+    <producer>Roy Thomas Baker</producer>
+    <price>10.43</price>
+    <songs>
+      <title>What's Going On</title>
+      <duration>54:20</duration>
+      <title>Imagine</title>
+      <duration>08:47</duration>
+      <title>Hey Jude</title>
+      <duration>06:54</duration>
+    </songs>
+  </album>
+  <album>
+    <name>The Wall</name>
+    <artist>James</artist>
+    <year>1976</year>
+    <producer>Roy Thomas Baker</producer>
+    <price>13.16</price>
+    <songs>
+      <title>Smells Like Teen Spirit</title>
+      <duration>39:50</duration>
+      <title>Good Vibrations</title>
+      <duration>21:10</duration>
+      <title>(I Can't Get No) Satisfaction</title>
+      <duration>16:00</duration>
+    </songs>
+  </album>
+  <album>
+    <name>Wish You Were Here</name>
+    <artist>James</artist>
+    <year>1980</year>
+    <producer>George Clinton</producer>
+    <price>14.2</price>
+    <songs>
+      <title>Respect</title>
+      <duration>46:13</duration>
+      <title>What's Going On</title>
+      <duration>02:05</duration>
+      <title>What'd I Say</title>
+      <duration>57:26</duration>
+      <title>Respect</title>
+      <duration>16:11</duration>
+    </songs>
+  </album>
+  <album>
+    <name>OK Computer</name>
+    <artist>Colins</artist>
+    <year>2000</year>
+    <producer>Roy Thomas Baker</producer>
+    <price>1.69</price>
+    <songs>
+      <title>Smells Like Teen Spirit</title>
+      <duration>08:01</duration>
+      <title>Respect</title>
+      <duration>00:08</duration>
+      <title>Like a Rolling Stone</title>
+      <duration>16:17</duration>
+      <title>Like a Rolling Stone</title>
+      <duration>42:52</duration>
+    </songs>
+  </album>
+  <album>
+    <name>My Everything</name>
+    <artist>Iggy</artist>
+    <year>1987</year>
+    <producer>Paul Epworth</producer>
+    <price>12.08</price>
+    <songs>
+      <title>Good Vibrations</title>
+      <duration>28:55</duration>
+      <title>Hey Jude</title>
+      <duration>22:43</duration>
+      <title>What'd I Say</title>
+      <duration>47:17</duration>
+      <title>Like a Rolling Stone</title>
+      <duration>17:41</duration>
+    </songs>
+  </album>
+  <album>
+    <name>My Everything</name>
+    <artist>Colins</artist>
+    <year>1975</year>
+    <producer>RZA</producer>
+    <price>15.18</price>
+    <songs>
+      <title>Imagine</title>
+      <duration>43:17</duration>
+      <title>What's Going On</title>
+      <duration>37:35</duration>
+    </songs>
+  </album>
+  <album>
+    <name>Are You Experienced</name>
+    <artist>Bono</artist>
+    <year>1996</year>
+    <producer>Jimmy Miller</producer>
+    <price>13.21</price>
+    <songs>
+      <title>Hey Jude</title>
+      <duration>42:55</duration>
+      <title>What's Going On</title>
+      <duration>06:50</duration>
+      <title>(I Can't Get No) Satisfaction</title>
+      <duration>11:21</duration>
+      <title>(I Can't Get No) Satisfaction</title>
+      <duration>15:14</duration>
+    </songs>
+  </album>
+  <album>
+    <name>The Wall</name>
+    <artist>Madonna</artist>
+    <year>2011</year>
+    <producer>RZA</producer>
+    <price>17.9</price>
+    <songs>
+      <title>What's Going On</title>
+      <duration>51:14</duration>
+      <title>Like a Rolling Stone</title>
+      <duration>48:39</duration>
+      <title>Johnny B. Goode</title>
+      <duration>26:09</duration>
+    </songs>
+  </album>
+</catalogue>

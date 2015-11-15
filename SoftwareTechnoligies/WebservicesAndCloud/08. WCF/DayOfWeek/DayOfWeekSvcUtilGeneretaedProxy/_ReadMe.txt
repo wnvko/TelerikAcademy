@@ -1,0 +1,1 @@
+This is a proxy generated with svcutil just with testing purpose.

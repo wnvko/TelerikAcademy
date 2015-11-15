@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Albums>
+	<Album>
+		<Name>Thriller</Name>
+		<Artist>Sam</Artist>
+	</Album>
+	<Album>
+		<Name>The Wall</Name>
+		<Artist>Sam</Artist>
+	</Album>
+	<Album>
+		<Name>Abbey Road</Name>
+		<Artist>Madonna</Artist>
+	</Album>
+	<Album>
+		<Name>Back in Black</Name>
+		<Artist>Iggy</Artist>
+	</Album>
+	<Album>
+		<Name>The Wall</Name>
+		<Artist>Katty</Artist>
+	</Album>
+	<Album>
+		<Name>Abbey Road</Name>
+		<Artist>Ariana</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Madonna</Artist>
+	</Album>
+	<Album>
+		<Name>The Wall</Name>
+		<Artist>Ringo</Artist>
+	</Album>
+	<Album>
+		<Name>The Wall</Name>
+		<Artist>Axel</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>Thriller</Name>
+		<Artist>Axel</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>Ariana</Artist>
+	</Album>
+	<Album>
+		<Name>Abbey Road</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>My Everything</Name>
+		<Artist>Ringo</Artist>
+	</Album>
+	<Album>
+		<Name>My Everything</Name>
+		<Artist>James</Artist>
+	</Album>
+	<Album>
+		<Name>Thriller</Name>
+		<Artist>James</Artist>
+	</Album>
+	<Album>
+		<Name>OK Computer</Name>
+		<Artist>Iggy</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>London Calling</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>London Calling</Name>
+		<Artist>Ringo</Artist>
+	</Album>
+	<Album>
+		<Name>My Everything</Name>
+		<Artist>James</Artist>
+	</Album>
+	<Album>
+		<Name>OK Computer</Name>
+		<Artist>Ariana</Artist>
+	</Album>
+	<Album>
+		<Name>Abbey Road</Name>
+		<Artist>Sam</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Ringo</Artist>
+	</Album>
+	<Album>
+		<Name>Thriller</Name>
+		<Artist>Madonna</Artist>
+	</Album>
+	<Album>
+		<Name>My Everything</Name>
+		<Artist>Axel</Artist>
+	</Album>
+	<Album>
+		<Name>OK Computer</Name>
+		<Artist>Ringo</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>Ariana</Artist>
+	</Album>
+	<Album>
+		<Name>Abbey Road</Name>
+		<Artist>Ariana</Artist>
+	</Album>
+	<Album>
+		<Name>Thriller</Name>
+		<Artist>Ringo</Artist>
+	</Album>
+	<Album>
+		<Name>My Everything</Name>
+		<Artist>Katty</Artist>
+	</Album>
+	<Album>
+		<Name>My Everything</Name>
+		<Artist>Madonna</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>Are You Experienced</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>Thriller</Name>
+		<Artist>Colins</Artist>
+	</Album>
+	<Album>
+		<Name>Thriller</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Axel</Artist>
+	</Album>
+	<Album>
+		<Name>London Calling</Name>
+		<Artist>Madonna</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Colins</Artist>
+	</Album>
+	<Album>
+		<Name>Abbey Road</Name>
+		<Artist>Colins</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>Katty</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>Sam</Artist>
+	</Album>
+	<Album>
+		<Name>My Everything</Name>
+		<Artist>Sam</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>Ringo</Artist>
+	</Album>
+	<Album>
+		<Name>Abbey Road</Name>
+		<Artist>Axel</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>Katty</Artist>
+	</Album>
+	<Album>
+		<Name>OK Computer</Name>
+		<Artist>Ariana</Artist>
+	</Album>
+	<Album>
+		<Name>The Wall</Name>
+		<Artist>Ariana</Artist>
+	</Album>
+	<Album>
+		<Name>Are You Experienced</Name>
+		<Artist>Iggy</Artist>
+	</Album>
+	<Album>
+		<Name>Thriller</Name>
+		<Artist>James</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Madonna</Artist>
+	</Album>
+	<Album>
+		<Name>The Wall</Name>
+		<Artist>Katty</Artist>
+	</Album>
+	<Album>
+		<Name>OK Computer</Name>
+		<Artist>Madonna</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Iggy</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>Ringo</Artist>
+	</Album>
+	<Album>
+		<Name>Are You Experienced</Name>
+		<Artist>Ringo</Artist>
+	</Album>
+	<Album>
+		<Name>The Wall</Name>
+		<Artist>Ariana</Artist>
+	</Album>
+	<Album>
+		<Name>London Calling</Name>
+		<Artist>James</Artist>
+	</Album>
+	<Album>
+		<Name>The Wall</Name>
+		<Artist>Iggy</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>Madonna</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Ringo</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Axel</Artist>
+	</Album>
+	<Album>
+		<Name>OK Computer</Name>
+		<Artist>Ringo</Artist>
+	</Album>
+	<Album>
+		<Name>Abbey Road</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>OK Computer</Name>
+		<Artist>Katty</Artist>
+	</Album>
+	<Album>
+		<Name>Back in Black</Name>
+		<Artist>Katty</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>Katty</Artist>
+	</Album>
+	<Album>
+		<Name>The Wall</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>The Wall</Name>
+		<Artist>Colins</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Katty</Artist>
+	</Album>
+	<Album>
+		<Name>My Everything</Name>
+		<Artist>Colins</Artist>
+	</Album>
+	<Album>
+		<Name>My Everything</Name>
+		<Artist>Madonna</Artist>
+	</Album>
+	<Album>
+		<Name>The Wall</Name>
+		<Artist>Sam</Artist>
+	</Album>
+	<Album>
+		<Name>My Everything</Name>
+		<Artist>James</Artist>
+	</Album>
+	<Album>
+		<Name>London Calling</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>The Wall</Name>
+		<Artist>Madonna</Artist>
+	</Album>
+	<Album>
+		<Name>Abbey Road</Name>
+		<Artist>Madonna</Artist>
+	</Album>
+	<Album>
+		<Name>OK Computer</Name>
+		<Artist>Madonna</Artist>
+	</Album>
+	<Album>
+		<Name>Abbey Road</Name>
+		<Artist>Madonna</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>Abbey Road</Name>
+		<Artist>Iggy</Artist>
+	</Album>
+	<Album>
+		<Name>London Calling</Name>
+		<Artist>Axel</Artist>
+	</Album>
+	<Album>
+		<Name>The Wall</Name>
+		<Artist>Ariana</Artist>
+	</Album>
+	<Album>
+		<Name>Abbey Road</Name>
+		<Artist>James</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Iggy</Artist>
+	</Album>
+	<Album>
+		<Name>The Wall</Name>
+		<Artist>Iggy</Artist>
+	</Album>
+	<Album>
+		<Name>London Calling</Name>
+		<Artist>Colins</Artist>
+	</Album>
+	<Album>
+		<Name>The Wall</Name>
+		<Artist>Katty</Artist>
+	</Album>
+	<Album>
+		<Name>Abbey Road</Name>
+		<Artist>James</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Sam</Artist>
+	</Album>
+	<Album>
+		<Name>Back in Black</Name>
+		<Artist>Ariana</Artist>
+	</Album>
+	<Album>
+		<Name>OK Computer</Name>
+		<Artist>Madonna</Artist>
+	</Album>
+	<Album>
+		<Name>Back in Black</Name>
+		<Artist>Sam</Artist>
+	</Album>
+	<Album>
+		<Name>OK Computer</Name>
+		<Artist>Ariana</Artist>
+	</Album>
+	<Album>
+		<Name>London Calling</Name>
+		<Artist>Ringo</Artist>
+	</Album>
+	<Album>
+		<Name>Abbey Road</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>London Calling</Name>
+		<Artist>Colins</Artist>
+	</Album>
+	<Album>
+		<Name>Abbey Road</Name>
+		<Artist>Ariana</Artist>
+	</Album>
+	<Album>
+		<Name>OK Computer</Name>
+		<Artist>James</Artist>
+	</Album>
+	<Album>
+		<Name>Abbey Road</Name>
+		<Artist>James</Artist>
+	</Album>
+	<Album>
+		<Name>Thriller</Name>
+		<Artist>Katty</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>Colins</Artist>
+	</Album>
+	<Album>
+		<Name>London Calling</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>Are You Experienced</Name>
+		<Artist>Axel</Artist>
+	</Album>
+	<Album>
+		<Name>London Calling</Name>
+		<Artist>Ariana</Artist>
+	</Album>
+	<Album>
+		<Name>OK Computer</Name>
+		<Artist>Iggy</Artist>
+	</Album>
+	<Album>
+		<Name>London Calling</Name>
+		<Artist>Axel</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Colins</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Sam</Artist>
+	</Album>
+	<Album>
+		<Name>Back in Black</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>Back in Black</Name>
+		<Artist>Ariana</Artist>
+	</Album>
+	<Album>
+		<Name>Back in Black</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>London Calling</Name>
+		<Artist>Iggy</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>Ariana</Artist>
+	</Album>
+	<Album>
+		<Name>Thriller</Name>
+		<Artist>Colins</Artist>
+	</Album>
+	<Album>
+		<Name>Are You Experienced</Name>
+		<Artist>Sam</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Colins</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Ringo</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>Are You Experienced</Name>
+		<Artist>Katty</Artist>
+	</Album>
+	<Album>
+		<Name>Thriller</Name>
+		<Artist>Iggy</Artist>
+	</Album>
+	<Album>
+		<Name>Abbey Road</Name>
+		<Artist>Sam</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Ariana</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>Iggy</Artist>
+	</Album>
+	<Album>
+		<Name>OK Computer</Name>
+		<Artist>Madonna</Artist>
+	</Album>
+	<Album>
+		<Name>My Everything</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>My Everything</Name>
+		<Artist>Ariana</Artist>
+	</Album>
+	<Album>
+		<Name>London Calling</Name>
+		<Artist>Colins</Artist>
+	</Album>
+	<Album>
+		<Name>Back in Black</Name>
+		<Artist>Axel</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>James</Artist>
+	</Album>
+	<Album>
+		<Name>Thriller</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>Thriller</Name>
+		<Artist>Ariana</Artist>
+	</Album>
+	<Album>
+		<Name>Are You Experienced</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>Are You Experienced</Name>
+		<Artist>Madonna</Artist>
+	</Album>
+	<Album>
+		<Name>Back in Black</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Ariana</Artist>
+	</Album>
+	<Album>
+		<Name>London Calling</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>Back in Black</Name>
+		<Artist>Ariana</Artist>
+	</Album>
+	<Album>
+		<Name>London Calling</Name>
+		<Artist>James</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>Ringo</Artist>
+	</Album>
+	<Album>
+		<Name>OK Computer</Name>
+		<Artist>Axel</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>Iggy</Artist>
+	</Album>
+	<Album>
+		<Name>The Wall</Name>
+		<Artist>James</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Ariana</Artist>
+	</Album>
+	<Album>
+		<Name>Abbey Road</Name>
+		<Artist>Ringo</Artist>
+	</Album>
+	<Album>
+		<Name>Are You Experienced</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>Abbey Road</Name>
+		<Artist>Ariana</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>Sam</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>Katty</Artist>
+	</Album>
+	<Album>
+		<Name>Thriller</Name>
+		<Artist>Sam</Artist>
+	</Album>
+	<Album>
+		<Name>The Wall</Name>
+		<Artist>Iggy</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>The Wall</Name>
+		<Artist>Colins</Artist>
+	</Album>
+	<Album>
+		<Name>Are You Experienced</Name>
+		<Artist>Colins</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>James</Artist>
+	</Album>
+	<Album>
+		<Name>Back in Black</Name>
+		<Artist>James</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Katty</Artist>
+	</Album>
+	<Album>
+		<Name>My Everything</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>The Wall</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>The Wall</Name>
+		<Artist>Colins</Artist>
+	</Album>
+	<Album>
+		<Name>OK Computer</Name>
+		<Artist>Sam</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>Katty</Artist>
+	</Album>
+	<Album>
+		<Name>Back in Black</Name>
+		<Artist>Colins</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Ringo</Artist>
+	</Album>
+	<Album>
+		<Name>The Wall</Name>
+		<Artist>Madonna</Artist>
+	</Album>
+	<Album>
+		<Name>Back in Black</Name>
+		<Artist>Iggy</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>London Calling</Name>
+		<Artist>Katty</Artist>
+	</Album>
+	<Album>
+		<Name>OK Computer</Name>
+		<Artist>Axel</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Ariana</Artist>
+	</Album>
+	<Album>
+		<Name>Thriller</Name>
+		<Artist>Colins</Artist>
+	</Album>
+	<Album>
+		<Name>Are You Experienced</Name>
+		<Artist>Colins</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>Ariana</Artist>
+	</Album>
+	<Album>
+		<Name>London Calling</Name>
+		<Artist>Ariana</Artist>
+	</Album>
+	<Album>
+		<Name>Thriller</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>Ringo</Artist>
+	</Album>
+	<Album>
+		<Name>Abbey Road</Name>
+		<Artist>Ringo</Artist>
+	</Album>
+	<Album>
+		<Name>Back in Black</Name>
+		<Artist>Iggy</Artist>
+	</Album>
+	<Album>
+		<Name>Thriller</Name>
+		<Artist>Katty</Artist>
+	</Album>
+	<Album>
+		<Name>Abbey Road</Name>
+		<Artist>Colins</Artist>
+	</Album>
+	<Album>
+		<Name>The Dark Side of the Moon</Name>
+		<Artist>James</Artist>
+	</Album>
+	<Album>
+		<Name>The Wall</Name>
+		<Artist>James</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>Axel</Artist>
+	</Album>
+	<Album>
+		<Name>The Wall</Name>
+		<Artist>Colins</Artist>
+	</Album>
+	<Album>
+		<Name>OK Computer</Name>
+		<Artist>Colins</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>Madonna</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>James</Artist>
+	</Album>
+	<Album>
+		<Name>OK Computer</Name>
+		<Artist>Sam</Artist>
+	</Album>
+	<Album>
+		<Name>OK Computer</Name>
+		<Artist>Colins</Artist>
+	</Album>
+	<Album>
+		<Name>My Everything</Name>
+		<Artist>Iggy</Artist>
+	</Album>
+	<Album>
+		<Name>My Everything</Name>
+		<Artist>Colins</Artist>
+	</Album>
+	<Album>
+		<Name>My Everything</Name>
+		<Artist>Colins</Artist>
+	</Album>
+	<Album>
+		<Name>Are You Experienced</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>The Wall</Name>
+		<Artist>Madonna</Artist>
+	</Album>
+	<Album>
+		<Name>Back in Black</Name>
+		<Artist>Katty</Artist>
+	</Album>
+	<Album>
+		<Name>The Wall</Name>
+		<Artist>Bono</Artist>
+	</Album>
+	<Album>
+		<Name>London Calling</Name>
+		<Artist>James</Artist>
+	</Album>
+	<Album>
+		<Name>Wish You Were Here</Name>
+		<Artist>Ariana</Artist>
+	</Album>
+</Albums>

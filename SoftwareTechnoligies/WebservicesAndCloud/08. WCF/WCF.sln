@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DayOfWeek", "DayOfWeek", "{348BBE2A-8112-4E7C-9157-24AF83A63B27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOfWeek.Host", "DayOfWeek\DayOfWeek.Host\DayOfWeek.Host.csproj", "{FB29A208-9BB1-4C70-A4AF-71E692E0A87E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOfWeek.ConsoleClient", "DayOfWeek\DayOfWeek.ConsoleClient\DayOfWeek.ConsoleClient.csproj", "{101D2EDE-F9C0-40E6-A393-960EF74AFEEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOfWeek.Service", "DayOfWeek\DayOfWeek.Service\DayOfWeek.Service.csproj", "{E979C183-7B46-4B23-BA7C-AD5961BF9DDC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Strings", "Strings", "{D46D4014-CFF2-431C-8C0D-B734618DE7D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringChecker.Service", "Strings\StringChecker.Service\StringChecker.Service.csproj", "{9F6C3F6A-14CF-451D-9A8E-8E41739096DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringChecker.ConsoleClient", "Strings\StringChecker.consoleClient\StringChecker.ConsoleClient.csproj", "{2A0C6A39-3051-434B-8D44-DFE47A25B1BB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9F6C3F6A-14CF-451D-9A8E-8E41739096DD} = {9F6C3F6A-14CF-451D-9A8E-8E41739096DD}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB29A208-9BB1-4C70-A4AF-71E692E0A87E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB29A208-9BB1-4C70-A4AF-71E692E0A87E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB29A208-9BB1-4C70-A4AF-71E692E0A87E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB29A208-9BB1-4C70-A4AF-71E692E0A87E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{101D2EDE-F9C0-40E6-A393-960EF74AFEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101D2EDE-F9C0-40E6-A393-960EF74AFEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101D2EDE-F9C0-40E6-A393-960EF74AFEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101D2EDE-F9C0-40E6-A393-960EF74AFEEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E979C183-7B46-4B23-BA7C-AD5961BF9DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E979C183-7B46-4B23-BA7C-AD5961BF9DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E979C183-7B46-4B23-BA7C-AD5961BF9DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E979C183-7B46-4B23-BA7C-AD5961BF9DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F6C3F6A-14CF-451D-9A8E-8E41739096DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6C3F6A-14CF-451D-9A8E-8E41739096DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6C3F6A-14CF-451D-9A8E-8E41739096DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6C3F6A-14CF-451D-9A8E-8E41739096DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A0C6A39-3051-434B-8D44-DFE47A25B1BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0C6A39-3051-434B-8D44-DFE47A25B1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0C6A39-3051-434B-8D44-DFE47A25B1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0C6A39-3051-434B-8D44-DFE47A25B1BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FB29A208-9BB1-4C70-A4AF-71E692E0A87E} = {348BBE2A-8112-4E7C-9157-24AF83A63B27}
+		{101D2EDE-F9C0-40E6-A393-960EF74AFEEF} = {348BBE2A-8112-4E7C-9157-24AF83A63B27}
+		{E979C183-7B46-4B23-BA7C-AD5961BF9DDC} = {348BBE2A-8112-4E7C-9157-24AF83A63B27}
+		{9F6C3F6A-14CF-451D-9A8E-8E41739096DD} = {D46D4014-CFF2-431C-8C0D-B734618DE7D2}
+		{2A0C6A39-3051-434B-8D44-DFE47A25B1BB} = {D46D4014-CFF2-431C-8C0D-B734618DE7D2}
+	EndGlobalSection
+EndGlobal

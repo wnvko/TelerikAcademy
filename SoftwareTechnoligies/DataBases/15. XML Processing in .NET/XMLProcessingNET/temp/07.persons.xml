@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Persons>
+	<Person>
+		<Name>Pesho</Name>
+		<Address>Dobritch, ul. 81-ta</Address>
+		<PhoneNumber>022-654-613</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Dimitar</Name>
+		<Address>Montana, ul. 43-ta</Address>
+		<PhoneNumber>155-666-753</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Sasho</Name>
+		<Address>Kalofer, ul. 73-ta</Address>
+		<PhoneNumber>252-159-438</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ogi</Name>
+		<Address>Burgas, ul. 67-ta</Address>
+		<PhoneNumber>549-033-761</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Gergana</Name>
+		<Address>Dobritch, ul. 16-ta</Address>
+		<PhoneNumber>342-733-419</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ogi</Name>
+		<Address>Ruse, ul. 42-ta</Address>
+		<PhoneNumber>549-824-604</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Dimitar</Name>
+		<Address>Plovdiv, ul. 69-ta</Address>
+		<PhoneNumber>379-072-273</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ogi</Name>
+		<Address>Elena, ul. 54-ta</Address>
+		<PhoneNumber>076-147-558</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Nasko</Name>
+		<Address>Sofia, ul. 42-ta</Address>
+		<PhoneNumber>359-956-319</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Tosho</Name>
+		<Address>Varna, ul. 33-ta</Address>
+		<PhoneNumber>052-814-282</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Kalina</Name>
+		<Address>Ruse, ul. 95-ta</Address>
+		<PhoneNumber>017-448-841</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Elena</Name>
+		<Address>Dobritch, ul. 74-ta</Address>
+		<PhoneNumber>127-022-383</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Pesho</Name>
+		<Address>Dobritch, ul. 97-ta</Address>
+		<PhoneNumber>401-835-619</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Gergana</Name>
+		<Address>Varna, ul. 22-ta</Address>
+		<PhoneNumber>602-707-830</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Hristina</Name>
+		<Address>Dobritch, ul. 86-ta</Address>
+		<PhoneNumber>105-608-642</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Dimitar</Name>
+		<Address>Varna, ul. 96-ta</Address>
+		<PhoneNumber>416-926-188</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Elena</Name>
+		<Address>Montana, ul. 96-ta</Address>
+		<PhoneNumber>698-747-819</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ralitza</Name>
+		<Address>Kalofer, ul. 88-ta</Address>
+		<PhoneNumber>040-620-627</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Zdravko</Name>
+		<Address>Kalofer, ul. 34-ta</Address>
+		<PhoneNumber>711-831-684</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Boris</Name>
+		<Address>Ruse, ul. 17-ta</Address>
+		<PhoneNumber>123-021-100</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Hristina</Name>
+		<Address>Gorno Uyno, ul. 71-ta</Address>
+		<PhoneNumber>104-853-844</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ivan</Name>
+		<Address>Dobritch, ul. 40-ta</Address>
+		<PhoneNumber>785-081-139</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Nasko</Name>
+		<Address>Kalofer, ul. 38-ta</Address>
+		<PhoneNumber>404-791-200</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Hristina</Name>
+		<Address>Sofia, ul. 72-ta</Address>
+		<PhoneNumber>240-760-068</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Elena</Name>
+		<Address>Kalofer, ul. 34-ta</Address>
+		<PhoneNumber>276-359-077</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Anna</Name>
+		<Address>Varna, ul. 67-ta</Address>
+		<PhoneNumber>865-725-523</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Boris</Name>
+		<Address>Plovdiv, ul. 65-ta</Address>
+		<PhoneNumber>036-617-297</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Dimitar</Name>
+		<Address>Kalofer, ul. 45-ta</Address>
+		<PhoneNumber>206-059-308</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Elena</Name>
+		<Address>Montana, ul. 5-ta</Address>
+		<PhoneNumber>976-174-066</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Zdravko</Name>
+		<Address>Plovdiv, ul. 46-ta</Address>
+		<PhoneNumber>649-809-291</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Kalina</Name>
+		<Address>Varna, ul. 96-ta</Address>
+		<PhoneNumber>325-774-884</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Kalina</Name>
+		<Address>Plovdiv, ul. 79-ta</Address>
+		<PhoneNumber>859-303-084</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Lyubomir</Name>
+		<Address>Sofia, ul. 33-ta</Address>
+		<PhoneNumber>429-015-200</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Maria</Name>
+		<Address>Burgas, ul. 50-ta</Address>
+		<PhoneNumber>038-975-707</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Anna</Name>
+		<Address>Burgas, ul. 2-ta</Address>
+		<PhoneNumber>607-492-993</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Boris</Name>
+		<Address>Elena, ul. 89-ta</Address>
+		<PhoneNumber>362-539-471</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Zdravko</Name>
+		<Address>Sofia, ul. 78-ta</Address>
+		<PhoneNumber>574-740-272</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Lyubomir</Name>
+		<Address>Elena, ul. 34-ta</Address>
+		<PhoneNumber>974-429-262</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Pesho</Name>
+		<Address>Sofia, ul. 71-ta</Address>
+		<PhoneNumber>262-039-720</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ralitza</Name>
+		<Address>Elena, ul. 17-ta</Address>
+		<PhoneNumber>255-306-740</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Sasho</Name>
+		<Address>Ruse, ul. 29-ta</Address>
+		<PhoneNumber>803-798-851</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Gergana</Name>
+		<Address>Varna, ul. 37-ta</Address>
+		<PhoneNumber>866-095-115</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ivan</Name>
+		<Address>Burgas, ul. 34-ta</Address>
+		<PhoneNumber>229-526-533</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Zdravko</Name>
+		<Address>Burgas, ul. 60-ta</Address>
+		<PhoneNumber>760-879-548</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Dimitar</Name>
+		<Address>Plovdiv, ul. 41-ta</Address>
+		<PhoneNumber>176-572-079</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Elena</Name>
+		<Address>Burgas, ul. 59-ta</Address>
+		<PhoneNumber>044-713-882</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Hristina</Name>
+		<Address>Plovdiv, ul. 64-ta</Address>
+		<PhoneNumber>496-787-244</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Tosho</Name>
+		<Address>Ruse, ul. 84-ta</Address>
+		<PhoneNumber>601-846-003</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Zdravko</Name>
+		<Address>Kalofer, ul. 93-ta</Address>
+		<PhoneNumber>637-897-261</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Vasil</Name>
+		<Address>Varna, ul. 97-ta</Address>
+		<PhoneNumber>746-526-001</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ivan</Name>
+		<Address>Burgas, ul. 61-ta</Address>
+		<PhoneNumber>293-566-017</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Lyubomir</Name>
+		<Address>Dobritch, ul. 32-ta</Address>
+		<PhoneNumber>464-252-818</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Tosho</Name>
+		<Address>Ruse, ul. 25-ta</Address>
+		<PhoneNumber>360-870-018</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ogi</Name>
+		<Address>Montana, ul. 95-ta</Address>
+		<PhoneNumber>409-803-013</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Vasil</Name>
+		<Address>Montana, ul. 18-ta</Address>
+		<PhoneNumber>332-908-612</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Tosho</Name>
+		<Address>Gorno Uyno, ul. 18-ta</Address>
+		<PhoneNumber>641-057-777</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Nasko</Name>
+		<Address>Kalofer, ul. 29-ta</Address>
+		<PhoneNumber>830-079-473</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ogi</Name>
+		<Address>Sofia, ul. 30-ta</Address>
+		<PhoneNumber>114-746-035</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Anna</Name>
+		<Address>Plovdiv, ul. 22-ta</Address>
+		<PhoneNumber>960-045-850</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Anna</Name>
+		<Address>Burgas, ul. 20-ta</Address>
+		<PhoneNumber>598-146-902</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Sasho</Name>
+		<Address>Varna, ul. 46-ta</Address>
+		<PhoneNumber>710-560-020</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Nasko</Name>
+		<Address>Gorno Uyno, ul. 80-ta</Address>
+		<PhoneNumber>479-727-274</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Pesho</Name>
+		<Address>Ruse, ul. 59-ta</Address>
+		<PhoneNumber>477-728-894</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ogi</Name>
+		<Address>Burgas, ul. 91-ta</Address>
+		<PhoneNumber>145-327-133</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Zdravko</Name>
+		<Address>Sofia, ul. 18-ta</Address>
+		<PhoneNumber>331-591-027</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Maria</Name>
+		<Address>Burgas, ul. 45-ta</Address>
+		<PhoneNumber>392-994-890</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Anna</Name>
+		<Address>Sofia, ul. 34-ta</Address>
+		<PhoneNumber>286-477-497</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Dimitar</Name>
+		<Address>Kalofer, ul. 4-ta</Address>
+		<PhoneNumber>955-237-176</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Dimitar</Name>
+		<Address>Kalofer, ul. 30-ta</Address>
+		<PhoneNumber>312-892-113</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Hristina</Name>
+		<Address>Montana, ul. 86-ta</Address>
+		<PhoneNumber>330-327-615</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Sasho</Name>
+		<Address>Dobritch, ul. 65-ta</Address>
+		<PhoneNumber>776-909-692</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ralitza</Name>
+		<Address>Dobritch, ul. 87-ta</Address>
+		<PhoneNumber>705-467-758</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Lyubomir</Name>
+		<Address>Elena, ul. 55-ta</Address>
+		<PhoneNumber>419-913-803</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Boris</Name>
+		<Address>Elena, ul. 70-ta</Address>
+		<PhoneNumber>009-077-019</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Pesho</Name>
+		<Address>Gorno Uyno, ul. 14-ta</Address>
+		<PhoneNumber>336-407-302</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Anna</Name>
+		<Address>Montana, ul. 64-ta</Address>
+		<PhoneNumber>732-451-173</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Sasho</Name>
+		<Address>Elena, ul. 61-ta</Address>
+		<PhoneNumber>355-132-907</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Elena</Name>
+		<Address>Kalofer, ul. 10-ta</Address>
+		<PhoneNumber>543-766-473</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Maria</Name>
+		<Address>Kalofer, ul. 77-ta</Address>
+		<PhoneNumber>058-245-900</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Tosho</Name>
+		<Address>Ruse, ul. 22-ta</Address>
+		<PhoneNumber>637-050-651</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Lyubomir</Name>
+		<Address>Elena, ul. 92-ta</Address>
+		<PhoneNumber>573-676-788</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Vasil</Name>
+		<Address>Ruse, ul. 96-ta</Address>
+		<PhoneNumber>381-578-458</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Gergana</Name>
+		<Address>Plovdiv, ul. 29-ta</Address>
+		<PhoneNumber>798-708-528</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Tosho</Name>
+		<Address>Varna, ul. 49-ta</Address>
+		<PhoneNumber>668-777-841</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Lyubomir</Name>
+		<Address>Sofia, ul. 43-ta</Address>
+		<PhoneNumber>742-823-625</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Hristina</Name>
+		<Address>Gorno Uyno, ul. 40-ta</Address>
+		<PhoneNumber>964-803-644</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Hristina</Name>
+		<Address>Plovdiv, ul. 87-ta</Address>
+		<PhoneNumber>315-428-954</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Lyubomir</Name>
+		<Address>Varna, ul. 98-ta</Address>
+		<PhoneNumber>319-870-514</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Maria</Name>
+		<Address>Varna, ul. 11-ta</Address>
+		<PhoneNumber>699-722-868</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Vasil</Name>
+		<Address>Ruse, ul. 70-ta</Address>
+		<PhoneNumber>080-048-705</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Zdravko</Name>
+		<Address>Dobritch, ul. 98-ta</Address>
+		<PhoneNumber>343-436-376</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Anna</Name>
+		<Address>Gorno Uyno, ul. 92-ta</Address>
+		<PhoneNumber>649-812-981</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Nasko</Name>
+		<Address>Kalofer, ul. 75-ta</Address>
+		<PhoneNumber>536-163-599</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Sasho</Name>
+		<Address>Gorno Uyno, ul. 10-ta</Address>
+		<PhoneNumber>919-136-712</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Lyubomir</Name>
+		<Address>Gorno Uyno, ul. 47-ta</Address>
+		<PhoneNumber>536-804-920</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Tosho</Name>
+		<Address>Sofia, ul. 67-ta</Address>
+		<PhoneNumber>166-961-056</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Hristina</Name>
+		<Address>Varna, ul. 74-ta</Address>
+		<PhoneNumber>611-266-647</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Maria</Name>
+		<Address>Sofia, ul. 29-ta</Address>
+		<PhoneNumber>135-043-123</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Vasil</Name>
+		<Address>Montana, ul. 71-ta</Address>
+		<PhoneNumber>110-227-844</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Maria</Name>
+		<Address>Elena, ul. 23-ta</Address>
+		<PhoneNumber>276-835-190</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Tosho</Name>
+		<Address>Kalofer, ul. 41-ta</Address>
+		<PhoneNumber>005-714-907</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Elena</Name>
+		<Address>Elena, ul. 63-ta</Address>
+		<PhoneNumber>697-571-002</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Sasho</Name>
+		<Address>Gorno Uyno, ul. 93-ta</Address>
+		<PhoneNumber>453-330-180</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ivan</Name>
+		<Address>Dobritch, ul. 20-ta</Address>
+		<PhoneNumber>356-421-181</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Gergana</Name>
+		<Address>Ruse, ul. 67-ta</Address>
+		<PhoneNumber>834-561-527</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ralitza</Name>
+		<Address>Montana, ul. 32-ta</Address>
+		<PhoneNumber>550-715-748</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Dimitar</Name>
+		<Address>Kalofer, ul. 24-ta</Address>
+		<PhoneNumber>390-832-554</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Kalina</Name>
+		<Address>Elena, ul. 5-ta</Address>
+		<PhoneNumber>717-251-985</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Tosho</Name>
+		<Address>Varna, ul. 10-ta</Address>
+		<PhoneNumber>054-862-462</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Hristina</Name>
+		<Address>Kalofer, ul. 9-ta</Address>
+		<PhoneNumber>236-803-889</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Dimitar</Name>
+		<Address>Elena, ul. 92-ta</Address>
+		<PhoneNumber>110-877-883</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ogi</Name>
+		<Address>Dobritch, ul. 52-ta</Address>
+		<PhoneNumber>189-224-747</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Tosho</Name>
+		<Address>Burgas, ul. 53-ta</Address>
+		<PhoneNumber>647-871-005</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Vasil</Name>
+		<Address>Elena, ul. 57-ta</Address>
+		<PhoneNumber>692-928-409</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ivan</Name>
+		<Address>Plovdiv, ul. 82-ta</Address>
+		<PhoneNumber>863-562-175</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Nasko</Name>
+		<Address>Sofia, ul. 77-ta</Address>
+		<PhoneNumber>351-160-364</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Nasko</Name>
+		<Address>Dobritch, ul. 53-ta</Address>
+		<PhoneNumber>167-041-944</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Kalina</Name>
+		<Address>Plovdiv, ul. 92-ta</Address>
+		<PhoneNumber>356-115-839</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Tosho</Name>
+		<Address>Dobritch, ul. 66-ta</Address>
+		<PhoneNumber>090-106-318</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Elena</Name>
+		<Address>Kalofer, ul. 53-ta</Address>
+		<PhoneNumber>518-686-111</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Boris</Name>
+		<Address>Ruse, ul. 74-ta</Address>
+		<PhoneNumber>351-536-233</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Hristina</Name>
+		<Address>Kalofer, ul. 86-ta</Address>
+		<PhoneNumber>175-021-496</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Kalina</Name>
+		<Address>Sofia, ul. 44-ta</Address>
+		<PhoneNumber>629-234-213</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Kalina</Name>
+		<Address>Burgas, ul. 65-ta</Address>
+		<PhoneNumber>986-940-221</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Lyubomir</Name>
+		<Address>Kalofer, ul. 88-ta</Address>
+		<PhoneNumber>460-034-622</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ralitza</Name>
+		<Address>Varna, ul. 68-ta</Address>
+		<PhoneNumber>427-108-228</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Gergana</Name>
+		<Address>Varna, ul. 17-ta</Address>
+		<PhoneNumber>693-388-527</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Hristina</Name>
+		<Address>Plovdiv, ul. 31-ta</Address>
+		<PhoneNumber>172-623-142</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Sasho</Name>
+		<Address>Montana, ul. 30-ta</Address>
+		<PhoneNumber>326-035-619</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Kalina</Name>
+		<Address>Burgas, ul. 87-ta</Address>
+		<PhoneNumber>523-843-974</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Zdravko</Name>
+		<Address>Kalofer, ul. 55-ta</Address>
+		<PhoneNumber>241-351-912</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ralitza</Name>
+		<Address>Burgas, ul. 85-ta</Address>
+		<PhoneNumber>214-429-127</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Anna</Name>
+		<Address>Plovdiv, ul. 67-ta</Address>
+		<PhoneNumber>123-010-193</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Tosho</Name>
+		<Address>Dobritch, ul. 93-ta</Address>
+		<PhoneNumber>742-585-347</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Elena</Name>
+		<Address>Elena, ul. 7-ta</Address>
+		<PhoneNumber>069-965-036</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Zdravko</Name>
+		<Address>Montana, ul. 26-ta</Address>
+		<PhoneNumber>204-345-882</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Hristina</Name>
+		<Address>Plovdiv, ul. 39-ta</Address>
+		<PhoneNumber>407-364-584</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Elena</Name>
+		<Address>Montana, ul. 25-ta</Address>
+		<PhoneNumber>176-292-247</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Tosho</Name>
+		<Address>Dobritch, ul. 6-ta</Address>
+		<PhoneNumber>678-622-507</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Anna</Name>
+		<Address>Montana, ul. 92-ta</Address>
+		<PhoneNumber>206-923-853</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Sasho</Name>
+		<Address>Plovdiv, ul. 7-ta</Address>
+		<PhoneNumber>817-857-754</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Sasho</Name>
+		<Address>Ruse, ul. 44-ta</Address>
+		<PhoneNumber>796-149-275</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ralitza</Name>
+		<Address>Elena, ul. 97-ta</Address>
+		<PhoneNumber>354-454-923</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Boris</Name>
+		<Address>Varna, ul. 20-ta</Address>
+		<PhoneNumber>825-128-627</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Hristina</Name>
+		<Address>Montana, ul. 5-ta</Address>
+		<PhoneNumber>756-169-740</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Hristina</Name>
+		<Address>Plovdiv, ul. 81-ta</Address>
+		<PhoneNumber>542-566-626</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Lyubomir</Name>
+		<Address>Elena, ul. 80-ta</Address>
+		<PhoneNumber>503-312-462</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ralitza</Name>
+		<Address>Varna, ul. 18-ta</Address>
+		<PhoneNumber>786-881-127</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Lyubomir</Name>
+		<Address>Montana, ul. 15-ta</Address>
+		<PhoneNumber>997-116-781</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Nasko</Name>
+		<Address>Burgas, ul. 60-ta</Address>
+		<PhoneNumber>446-842-179</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ogi</Name>
+		<Address>Varna, ul. 66-ta</Address>
+		<PhoneNumber>702-835-382</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Kalina</Name>
+		<Address>Gorno Uyno, ul. 92-ta</Address>
+		<PhoneNumber>344-842-983</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Vasil</Name>
+		<Address>Kalofer, ul. 82-ta</Address>
+		<PhoneNumber>743-020-984</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ivan</Name>
+		<Address>Varna, ul. 79-ta</Address>
+		<PhoneNumber>925-219-487</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Maria</Name>
+		<Address>Sofia, ul. 65-ta</Address>
+		<PhoneNumber>030-895-551</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Anna</Name>
+		<Address>Burgas, ul. 62-ta</Address>
+		<PhoneNumber>625-801-205</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ralitza</Name>
+		<Address>Varna, ul. 30-ta</Address>
+		<PhoneNumber>806-321-626</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Gergana</Name>
+		<Address>Varna, ul. 83-ta</Address>
+		<PhoneNumber>167-878-530</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Hristina</Name>
+		<Address>Sofia, ul. 99-ta</Address>
+		<PhoneNumber>624-007-654</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Zdravko</Name>
+		<Address>Plovdiv, ul. 88-ta</Address>
+		<PhoneNumber>172-112-871</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Pesho</Name>
+		<Address>Elena, ul. 35-ta</Address>
+		<PhoneNumber>376-327-777</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Zdravko</Name>
+		<Address>Elena, ul. 78-ta</Address>
+		<PhoneNumber>624-941-918</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ogi</Name>
+		<Address>Montana, ul. 86-ta</Address>
+		<PhoneNumber>169-726-028</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Nasko</Name>
+		<Address>Elena, ul. 8-ta</Address>
+		<PhoneNumber>120-078-990</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Maria</Name>
+		<Address>Dobritch, ul. 5-ta</Address>
+		<PhoneNumber>973-242-026</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Elena</Name>
+		<Address>Montana, ul. 99-ta</Address>
+		<PhoneNumber>437-073-886</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Dimitar</Name>
+		<Address>Ruse, ul. 86-ta</Address>
+		<PhoneNumber>060-811-383</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Pesho</Name>
+		<Address>Dobritch, ul. 96-ta</Address>
+		<PhoneNumber>075-949-375</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ralitza</Name>
+		<Address>Gorno Uyno, ul. 4-ta</Address>
+		<PhoneNumber>859-522-689</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ralitza</Name>
+		<Address>Montana, ul. 35-ta</Address>
+		<PhoneNumber>368-819-935</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ogi</Name>
+		<Address>Dobritch, ul. 25-ta</Address>
+		<PhoneNumber>757-307-311</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Tosho</Name>
+		<Address>Gorno Uyno, ul. 55-ta</Address>
+		<PhoneNumber>980-902-903</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Vasil</Name>
+		<Address>Kalofer, ul. 61-ta</Address>
+		<PhoneNumber>701-374-750</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Anna</Name>
+		<Address>Elena, ul. 44-ta</Address>
+		<PhoneNumber>681-186-029</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Hristina</Name>
+		<Address>Elena, ul. 10-ta</Address>
+		<PhoneNumber>300-652-461</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Lyubomir</Name>
+		<Address>Ruse, ul. 0-ta</Address>
+		<PhoneNumber>928-340-429</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Vasil</Name>
+		<Address>Sofia, ul. 2-ta</Address>
+		<PhoneNumber>651-147-712</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ralitza</Name>
+		<Address>Ruse, ul. 31-ta</Address>
+		<PhoneNumber>145-695-934</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Boris</Name>
+		<Address>Burgas, ul. 23-ta</Address>
+		<PhoneNumber>605-341-337</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Kalina</Name>
+		<Address>Burgas, ul. 19-ta</Address>
+		<PhoneNumber>222-780-850</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Gergana</Name>
+		<Address>Montana, ul. 58-ta</Address>
+		<PhoneNumber>096-449-004</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Tosho</Name>
+		<Address>Gorno Uyno, ul. 24-ta</Address>
+		<PhoneNumber>181-570-387</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Pesho</Name>
+		<Address>Dobritch, ul. 33-ta</Address>
+		<PhoneNumber>729-865-380</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ogi</Name>
+		<Address>Ruse, ul. 76-ta</Address>
+		<PhoneNumber>172-221-568</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Dimitar</Name>
+		<Address>Sofia, ul. 55-ta</Address>
+		<PhoneNumber>666-435-301</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Dimitar</Name>
+		<Address>Sofia, ul. 20-ta</Address>
+		<PhoneNumber>169-447-518</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Vasil</Name>
+		<Address>Plovdiv, ul. 35-ta</Address>
+		<PhoneNumber>305-246-460</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Ogi</Name>
+		<Address>Ruse, ul. 51-ta</Address>
+		<PhoneNumber>849-874-966</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Anna</Name>
+		<Address>Plovdiv, ul. 17-ta</Address>
+		<PhoneNumber>814-502-948</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Boris</Name>
+		<Address>Burgas, ul. 40-ta</Address>
+		<PhoneNumber>016-872-523</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Kalina</Name>
+		<Address>Gorno Uyno, ul. 80-ta</Address>
+		<PhoneNumber>946-947-660</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Gergana</Name>
+		<Address>Kalofer, ul. 92-ta</Address>
+		<PhoneNumber>815-601-145</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Anna</Name>
+		<Address>Elena, ul. 58-ta</Address>
+		<PhoneNumber>300-486-323</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Anna</Name>
+		<Address>Dobritch, ul. 5-ta</Address>
+		<PhoneNumber>590-663-671</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Vasil</Name>
+		<Address>Elena, ul. 40-ta</Address>
+		<PhoneNumber>259-080-414</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Vasil</Name>
+		<Address>Varna, ul. 84-ta</Address>
+		<PhoneNumber>833-857-014</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Nasko</Name>
+		<Address>Plovdiv, ul. 95-ta</Address>
+		<PhoneNumber>853-669-313</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Anna</Name>
+		<Address>Varna, ul. 16-ta</Address>
+		<PhoneNumber>027-791-088</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Zdravko</Name>
+		<Address>Plovdiv, ul. 54-ta</Address>
+		<PhoneNumber>082-962-496</PhoneNumber>
+	</Person>
+	<Person>
+		<Name>Kalina</Name>
+		<Address>Ruse, ul. 56-ta</Address>
+		<PhoneNumber>128-817-527</PhoneNumber>
+	</Person>
+</Persons>
