@@ -1,0 +1,11 @@
+﻿<div class="container">
+    <div ng-show="vm.commits">
+        <h1>Project {{vm.commits.ProjectName}} - Commit #{{vm.commits.Id}}</h1>
+        <div>This commit was added on {{vm.commits.CreatedOn}} by {{vm.commits.UserName}}.</div>
+        <br />
+        <div>{{vm.commits.SourceCode}}</div>
+    </div>
+    <div ng-hide="vm.commits">
+        <h1>No such commit</h1>
+    </div>
+</div>

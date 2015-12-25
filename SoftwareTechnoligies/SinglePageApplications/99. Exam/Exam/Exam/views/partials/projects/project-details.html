@@ -1,0 +1,12 @@
+﻿<div class="container">
+    <div ng-show="vm.project">
+        <h1>Project {{vm.project.Name}}</h1>
+        This project was created on {{vm.project.CreatedOn}} <span ng-show="vm.project.License">under {{vm.project.License}} license</span> and has in total {{vm.project.TotalUsers}} user(s).
+        <div ng-show="vm.identity.isAuthenticated()" class="row">
+            TEST
+        </div>
+    </div>
+    <div ng-hide="vm.project">
+        <h1>No such project</h1>
+    </div>
+</div>

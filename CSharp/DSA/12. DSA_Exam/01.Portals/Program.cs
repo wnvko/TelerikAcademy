@@ -63,8 +63,6 @@ namespace _01.Portals
             Go(x, y + curCelVal, currentPower); //right
             Go(x + curCelVal, y, currentPower); //down
 
-
-
             Portals[x, y] = curCelVal;
             currentPower -= curCelVal;
         }

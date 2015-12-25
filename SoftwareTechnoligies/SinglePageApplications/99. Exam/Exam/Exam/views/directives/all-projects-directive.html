@@ -1,0 +1,24 @@
+﻿<table class="table table-bordered" ng-controller="ProjectsController as vm">
+    <tr>
+        <th class="text-center">
+            Name
+        </th>
+        <th class="text-center">
+            Created On
+        </th>
+        <th class="text-center">
+            Total Users
+        </th>
+        <th class="text-center">
+            License
+        </th>
+    </tr>
+    <tr ng-repeat="project in vm.projects">
+        <td class="text-center">
+            <a href="#/projects/{{project.Id}}">{{project.Name}}</a>
+        </td>
+        <td class="text-center">{{project.CreatedOn}}</td>
+        <td class="text-center">{{project.TotalUsers}}</td>
+        <td class="text-center">{{project.License}}</td>
+    </tr>
+</table>
