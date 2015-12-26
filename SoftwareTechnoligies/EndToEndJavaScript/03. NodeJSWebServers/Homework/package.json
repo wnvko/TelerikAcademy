@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-web-server-homework",
+  "version": "1.0.0",
+  "description": "My homework for NodeJS Web Server",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
