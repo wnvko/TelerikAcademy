@@ -1,0 +1,14 @@
+{
+  "name": "caht-system",
+  "version": "1.0.0",
+  "description": "Sample chat system with MongoDb/Mongoose for my homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^4.3.4"
+  }
+}
