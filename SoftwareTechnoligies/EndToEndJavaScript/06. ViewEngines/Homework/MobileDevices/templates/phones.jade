@@ -1,0 +1,12 @@
+﻿doctype html
+html
+    include ./includes/head.jade
+    include ./includes/nav.jade
+    #content
+        h2
+            | Where are my phones
+        ul
+            each phone in phones
+                li.phone-item
+                    = phone
+    include ./includes/footer.jade

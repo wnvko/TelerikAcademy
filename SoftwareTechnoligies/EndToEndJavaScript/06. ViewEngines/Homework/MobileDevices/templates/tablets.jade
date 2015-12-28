@@ -1,0 +1,12 @@
+﻿doctype html
+html
+    include ./includes/head.jade
+    include ./includes/nav.jade
+    #content
+        h2
+            | Where are my tablets
+        ul
+            each tablet in tablets
+                li.tablet-item
+                    = tablet
+    include ./includes/footer.jade

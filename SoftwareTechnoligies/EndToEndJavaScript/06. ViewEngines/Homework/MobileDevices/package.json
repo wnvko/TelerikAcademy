@@ -1,0 +1,13 @@
+{
+  "name": "MobileDevices",
+  "version": "0.0.0",
+  "description": "MobileDevices",
+  "main": "app.js",
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "dependencies": {
+    "jade": "^1.11.0"
+  }
+}

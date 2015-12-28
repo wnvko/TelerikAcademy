@@ -1,0 +1,12 @@
+﻿doctype html
+html
+    include ./includes/head.jade
+    include ./includes/nav.jade
+    #content
+        h2
+            | Where are my wearables
+        ul
+            each wearable in wearables
+                li.wearable-item
+                    = wearable
+    include ./includes/footer.jade
