@@ -31,6 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="app.js" />
+    <Compile Include="common\common.js" />
     <Content Include="package.json" />
     <Content Include="README.md" />
     <Content Include="templates\includes\footer.jade" />
@@ -38,8 +39,11 @@
     <Content Include="templates\main.jade" />
     <Content Include="templates\includes\nav.jade" />
     <Content Include="templates\phones.jade" />
+    <Content Include="templates\tablets.jade" />
+    <Content Include="templates\wearables.jade" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="common\" />
     <Folder Include="templates\" />
     <Folder Include="templates\includes\" />
   </ItemGroup>
