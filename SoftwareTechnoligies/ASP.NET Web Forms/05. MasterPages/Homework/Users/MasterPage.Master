@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="Users.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" />
+    <title>My aSocial Network</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="container">
+            <div class="jumbotron">
+                <h1>The Best Ever aSocial Site</h1>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="bs-component">
+                        <ul class="nav nav-pills nav-stacked">
+                            <li id="info" runat="server" class="active">
+                                <a href="info.aspx">Personal Info</a>
+                            </li>
+                            <li id="friends" runat="server">
+                                <a href="friends.aspx">Friends</a>
+                            </li>
+                            <li id="more" runat="server">
+                                <a href="more.aspx">More</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-8">
+                    <asp:ContentPlaceHolder ID="PageContent" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+            <div class="text-center">
+                Made by the Company with the help of the friends.
+            </div>
+        </div>
+    </form>
+    <script src="https://code.jquery.com/jquery-2.2.0.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</body>
+</html>
