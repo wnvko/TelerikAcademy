@@ -1,0 +1,21 @@
+extends ../shared/layout
+block main-content
+    form(method="post")
+        label(for="title") Title
+        input(id="title" class="form-control" type="text" name="title" placeholder="Title")
+        br
+        label(for="description") Description
+        input(id="description" class="form-control" type="text" name="description" placeholder="Description")
+        br
+        label(for="category") Category
+        select(id="category" class="form-control" name="category")
+            option(value="") Choose Category (Wisely or Not, depending on where in doumentation you are reading)
+            each category in categories
+                option(value="#{category}") #{category}
+        br
+        .checkbox
+            label
+                input(id="isPublic" class="form-control" type="checkbox" name="isPublic")
+                |Public
+        br
+        input(type="submit" class="btn btn-lg" value="Create")

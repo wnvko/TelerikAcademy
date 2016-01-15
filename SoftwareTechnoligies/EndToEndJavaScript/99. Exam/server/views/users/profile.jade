@@ -1,0 +1,30 @@
+﻿extends ../shared/layout
+
+block main-content
+    container.row.lead
+        .col-lg-12.jumbotron.text-center
+            |#{user.username}'s profile information
+        .col-lg-8
+            info.row
+                .col-lg-4
+                    |Username
+                .col-lg-8
+                    |#{user.username}
+                .col-lg-4
+                    |First Name
+                .col-lg-8
+                    |#{user.firstName}
+                .col-lg-4
+                    |Last Name
+                .col-lg-8
+                    |#{user.lastName}
+                .col-lg-4
+                    |emai
+                .col-lg-8
+                    |#{user.email}
+        .col-lg-4
+            image.row
+                .col-lg-4.image
+                    img(src="#{user.avatar}")
+
+        

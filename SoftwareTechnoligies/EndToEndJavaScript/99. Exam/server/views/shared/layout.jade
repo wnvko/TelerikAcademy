@@ -1,0 +1,43 @@
+doctype
+html
+    head
+        title Your YouTube PlayLists Best Location
+        link(rel="stylesheet" href="/lib/bootstrap-3.2.0/css/bootstrap.min.css")
+        link(rel="stylesheet" href="/css/site.css")
+    body
+        header.nav
+        .container
+            .navbar-header
+                a.navbar-brand(href="/") PlayLists Location
+            .navbar-collapse.collapse
+                ul.nav.navbar-nav
+                    li
+                        a(href="/") Home
+                    if (currentUser)
+                        li
+                            a(href="/playlist/list") Show Lists
+                        li
+                            a(href="/playlist/create") Create List
+                        li
+                            a(href="/profile") #{currentUser.username}
+                        li
+                            a(href="/logout") Logout
+                    if (!currentUser)
+                        li
+                            a(href="/playlist/list") Show Lists
+                        li
+                            a(href="/register") Register
+                        li
+                            a(href="/login") Login
+
+        .container
+            if (errorMessage)
+                .alert.alert-danger #{errorMessage}
+
+            block main-content
+
+        footer
+            p.text-center
+                | &copy; My Last JavaScript Exam this makes me so happy....
+
+        include scripts
