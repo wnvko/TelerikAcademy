@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="GlobalMaster.master.cs" Inherits="SiteMaps.GlobalMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="jumbotron text-center">
+            <h1>This is "Our" Company
+            </h1>
+        </div>
+        <%--Bootstrap styling came form here http://techbrij.com/responsive-menu-twitter-bootstrap-asp-net--%>
+        <div class="container-fluid">
+            <asp:Menu ID="navMenu" runat="server"
+                CssClass="navbar navbar-default"
+                StaticMenuStyle-CssClass="nav"
+                StaticSelectedStyle-CssClass="active"
+                DynamicMenuStyle-CssClass="dropdown-menu"
+                EnableViewState="False"
+                IncludeStyleBlock="False"
+                Orientation="Horizontal"
+                DataSourceID="SiteMapDS"
+                StaticDisplayLevels="2">
+            </asp:Menu>
+        </div>
+        <div class="row">
+            <asp:SiteMapPath ID="breadcrump" runat="server" CssClass="col-md-6"></asp:SiteMapPath>
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    <asp:SiteMapDataSource ID="SiteMapDS" runat="server" />
+    <script src="Scripts/jquery-1.9.0.min.js" type="text/javascript"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</body>
+</html>

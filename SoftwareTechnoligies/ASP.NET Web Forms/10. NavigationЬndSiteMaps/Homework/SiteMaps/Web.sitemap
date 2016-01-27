@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/Home.aspx" title="Home" description="This is  our Home page, really just try it!">
+    <siteMapNode url="~/Offices.aspx" title="Offices" description="You can find our... Offices yeah sure...">
+      <siteMapNode url="~/Bulgaria.aspx" title="Bulgaria" description="And this is where we started all this">
+        <siteMapNode url="~/Sofia.aspx" title="Sofia" description="This is Sofia?" />
+        <siteMapNode url="~/Plovdiv.aspx" title="Plovdiv" description="What's up Maina?" />
+        <siteMapNode url="~/Varna.aspx" title="Varna" description="The sea?" />
+      </siteMapNode>
+      <siteMapNode url="~/UK.aspx" title="U.K." description="Came here for fun">
+        <siteMapNode url="~/London.aspx" title="London" description="And the Queen" />
+        <siteMapNode url="~/Bristol.aspx" title="Bristol" description="Rovers" />
+        <siteMapNode url="~/Manchester.aspx" title="Manchester" description="City or United" />
+      </siteMapNode>
+    </siteMapNode>
+    <siteMapNode url="~/About.aspx" title="About" description="All about us, nothing more" />
+    <siteMapNode url="~/Contacts.aspx" title="Contacts" description="Try to find us" />
+    <siteMapNode url="~/Haha.aspx" title="Use master pages, menus, breadcrumbs and site map" description="This was in the specification by the assignor" />
+  </siteMapNode>
+</siteMap>

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. BrowserAndIP", "BrowserAndIP\01. BrowserAndIP.csproj", "{39F4CE9D-5A33-4FBB-A009-80BC3EA2FE00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. SessionAppendText", "SessionAppendText\02. SessionAppendText.csproj", "{DCD9C32C-D5C0-451C-B440-96CEC87DB394}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. PagesWithLogin", "PagesWithLogin\03. PagesWithLogin.csproj", "{740243E5-75E9-4B8C-A85F-F50C5FC2EC30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39F4CE9D-5A33-4FBB-A009-80BC3EA2FE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F4CE9D-5A33-4FBB-A009-80BC3EA2FE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F4CE9D-5A33-4FBB-A009-80BC3EA2FE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F4CE9D-5A33-4FBB-A009-80BC3EA2FE00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCD9C32C-D5C0-451C-B440-96CEC87DB394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD9C32C-D5C0-451C-B440-96CEC87DB394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD9C32C-D5C0-451C-B440-96CEC87DB394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD9C32C-D5C0-451C-B440-96CEC87DB394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{740243E5-75E9-4B8C-A85F-F50C5FC2EC30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{740243E5-75E9-4B8C-A85F-F50C5FC2EC30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{740243E5-75E9-4B8C-A85F-F50C5FC2EC30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{740243E5-75E9-4B8C-A85F-F50C5FC2EC30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
