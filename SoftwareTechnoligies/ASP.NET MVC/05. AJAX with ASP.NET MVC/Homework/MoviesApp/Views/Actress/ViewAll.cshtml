@@ -1,0 +1,19 @@
+﻿@using MoviesApp.Models.Actress
+@model IQueryable<ActressViewModel>
+
+@{
+    ViewBag.Title = "Actress";
+}
+
+<div class="jumbotron">
+    <h1>Best Actors are Here</h1>
+</div>
+<div class="row">
+    @foreach (ActressViewModel actress in Model)
+    {
+        <div class="col-md-4">
+            <h1><a href="~/Actress/Details/@actress.Id">@actress.Name</a></h1>
+            <p>At @actress.Age still making the best movies with @actress.Studio in @actress.Address</p>
+        </div>
+    }
+</div>

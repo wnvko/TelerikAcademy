@@ -1,0 +1,47 @@
+﻿@model BitCalculator.Models.CalcModel
+
+@{
+    ViewBag.Title = "Home Page";
+}
+<div class="row">
+    <div class="col-md-2">
+        @using (Html.BeginForm(new { @class = " form-control" }))
+        {
+            @Html.Label("Quantity", "Quantity", new { @class = "label label-info" })
+            @Html.TextBox("Quantity", Model.Quantity, new { @class = "form-control" })
+
+            @Html.Label("Type", "Type", new { @class = "label label-info" })
+            @Html.DropDownList("Type", new SelectList(Model.Types, "Value", "Text"), new { @class = "form-control" })
+            <br />
+            <input type="submit" class="btn btn-info" value="OK" />
+        }
+    </div>
+    <div class="col-md-2">
+        <p>@Html.Label(string.Format("Bit {0:0,000E-0}", Math.Pow(2, Model.Modifier)))</p>
+        <p>@Html.Label(string.Format("Byte {0:0,000E-0}", Math.Pow(2, Model.Modifier - 3)))</p>
+        <p>@Html.Label(string.Format("Kilobit {0:0,000E-0}", Math.Pow(2, Model.Modifier - 10)))</p>
+        <p>@Html.Label(string.Format("Kilobyte {0:0,000E-0}", Math.Pow(2, Model.Modifier - 13)))</p>
+    </div>
+    <div class="col-md-2">
+        <p>@Html.Label(string.Format("Megabit {0:0,000E-0}", Math.Pow(2, Model.Modifier - 20)))</p>
+        <p>@Html.Label(string.Format("Megabyte {0:0,000E-0}", Math.Pow(2, Model.Modifier - 23)))</p>
+        <p>@Html.Label(string.Format("Gigabit {0:0,000E-0}", Math.Pow(2, Model.Modifier - 30)))</p>
+        <p>@Html.Label(string.Format("Gigabyte {0:0,000E-0}", Math.Pow(2, Model.Modifier - 33)))</p>
+    </div>
+    <div class="col-md-2">
+        <p>@Html.Label(string.Format("Terabit {0:0,000E-0}", Math.Pow(2, Model.Modifier - 40)))</p>
+        <p>@Html.Label(string.Format("Terabyte {0:0,000E-0}", Math.Pow(2, Model.Modifier - 43)))</p>
+        <p>@Html.Label(string.Format("Petabit {0:0,000E-0}", Math.Pow(2, Model.Modifier - 50)))</p>
+        <p>@Html.Label(string.Format("Petabyte {0:0,000E-0}", Math.Pow(2, Model.Modifier - 53)))</p>
+    </div>
+    <div class="col-md-2">
+        <p>@Html.Label(string.Format("Exabit {0:0,000E-0}", Math.Pow(2, Model.Modifier - 60)))</p>
+        <p>@Html.Label(string.Format("Exabyte {0:0,000E-0}", Math.Pow(2, Model.Modifier - 63)))</p>
+        <p>@Html.Label(string.Format("Zettabit {0:0,000E-0}", Math.Pow(2, Model.Modifier - 70)))</p>
+        <p>@Html.Label(string.Format("Zettabyte {0:0,000E-0}", Math.Pow(2, Model.Modifier - 73)))</p>
+    </div>
+    <div class="col-md-2">
+        <p>@Html.Label(string.Format("Yottabit {0:0,000E-0}", Math.Pow(2, Model.Modifier - 80)))</p>
+        <p>@Html.Label(string.Format("Yottabyte {0:0,000E-0}", Math.Pow(2, Model.Modifier - 83)))</p>
+    </div>
+</div>

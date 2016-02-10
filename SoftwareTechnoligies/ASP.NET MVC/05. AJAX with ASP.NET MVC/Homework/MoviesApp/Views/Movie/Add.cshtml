@@ -1,0 +1,28 @@
+﻿@model MoviesApp.Models.Movie.AddMovieModel
+
+<div class="jumbotron">
+    <h1>Add a Good Movie Here</h1>
+</div>
+@using (Html.BeginForm(new { @class = "form-control" }))
+{
+    @Html.Label("Title", "Title", new { @class = "label label-info" })
+    @Html.TextBox("Title", Model.Movie.Title, new { @class = "form-control"})
+    @Html.ValidationMessageFor(a => a.Movie.Title)
+
+    @Html.Label("Director", "Director", new { @class = "label label-info" })
+    @Html.TextBox("Director", Model.Movie.Director, new { @class = "form-control" })
+    @Html.ValidationMessageFor(a => a.Movie.Director)
+
+    @Html.Label("Year", "Year", new { @class = "label label-info" })
+    @Html.TextBox("Year", Model.Movie.Year, new { @class = "form-control" })
+    @Html.ValidationMessageFor(a => a.Movie.Year)
+
+    @Html.Label("LeadingMaleRoleId", "Leading Male Role", new { @class = "label label-info" })
+    @Html.DropDownList("LeadingMaleRoleId", new SelectList(Model.Actors, "Id", "Name"), new { @class = "form-control" })
+
+    @Html.Label("LeadingFemaleRoleId", "Leading Female Role", new { @class = "label label-info" })
+    @Html.DropDownList("LeadingFemaleRoleId", new SelectList(Model.Actresses, "Id", "Name"), new { @class = "form-control" })
+    <br />
+    <input type="submit" class="btn btn-info" value="Add Movie" />
+}
+
