@@ -11,6 +11,8 @@
                 COMMITS_URL = COMMITS_URL + '/' + id;
             }
 
+            console.log("CommitsController.Get: " + COMMITS_URL);
+
             return data.get(COMMITS_URL);
         }
 

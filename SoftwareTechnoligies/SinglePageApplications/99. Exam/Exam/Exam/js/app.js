@@ -17,7 +17,7 @@
             })
             .when('/register', {
                 templateUrl: PARTIALS_VIEWS_MAIN_ROUTE + 'register.html',
-                controller: 'SignUpCtrl',
+                controller: 'SignUpController',
                 controllerAs: CONTROLER_VIEW_MODEL_NAME
             })
            .when('/projects', {
@@ -50,5 +50,6 @@
     angular.module('myApp', ['ngRoute', 'ngResource', 'ngCookies', 'myApp.controllers', 'myApp.services', 'myApp.directives'])
         .config(['$routeProvider', '$locationProvider', config])
         .value('toastr', toastr)
-        .constant('baseServiceUrl', 'http://spa.bgcoder.com');
+        //.constant('baseServiceUrl', 'http://spa.bgcoder.com');
+        .constant('baseServiceUrl', 'localhost');
 }());

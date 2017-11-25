@@ -14,5 +14,5 @@
 
     angular
         .module('myApp.controllers')
-        .controller('SignUpCtrl', ['$scope', '$location', 'auth', 'notifier', RegisterController]);
+        .controller('SignUpController', ['$scope', '$location', 'auth', 'notifier', RegisterController]);
 }());

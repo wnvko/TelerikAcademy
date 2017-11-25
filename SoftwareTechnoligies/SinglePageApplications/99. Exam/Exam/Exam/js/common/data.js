@@ -4,6 +4,8 @@
     function data($http, $q, authorization, notifier, baseServiceUrl) {
 
         function get(url, queryParams) {
+            console.log("DataController: "+ baseServiceUrl + "/" + url);
+            console.log("DataController: " + queryParams);
             var defered = $q.defer();
 
             var authHeader = authorization.getAuthorizationHeader();
