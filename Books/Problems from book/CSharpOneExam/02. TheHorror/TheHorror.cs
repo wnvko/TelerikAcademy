@@ -11,7 +11,7 @@
             inputString = inputString.Replace(("-"), (""));
             char[] inputChar = inputString.ToCharArray();
             long result = 0;
-            
+
             //calculations
             long countOfNumbers = 0L;
             for (long i = 0L; i < inputString.Length; i++)
@@ -44,7 +44,7 @@
             }
 
             //output
-            Console.WriteLine(countOfNumbers + " "+result);
+            Console.WriteLine(countOfNumbers + " " + result);
         }
     }
 }

@@ -10,14 +10,14 @@
             //enter first array
             Console.WriteLine("Please enter the first array (enter end for finish):");
             int firstArrayCount = 0;
-            int[] firstArray = new int [0];
+            int[] firstArray = new int[0];
             string input = "";
             bool endOfInput = false;
             while (input != "end")
             {
                 int[] bufferArray = new int[1];
                 input = Console.ReadLine();
-                endOfInput = int.TryParse(input,out bufferArray[0]);
+                endOfInput = int.TryParse(input, out bufferArray[0]);
                 if (endOfInput)
                 {
                     firstArray = firstArray.Concat(bufferArray).ToArray();

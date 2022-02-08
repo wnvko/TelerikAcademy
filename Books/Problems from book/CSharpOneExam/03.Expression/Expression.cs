@@ -4,17 +4,16 @@
     using System.Globalization;
     using System.Threading;
 
-
     class Expression
     {
-        static string CalculateExpression (string inputString)
+        static string CalculateExpression(string inputString)
         {
             string number = "";
             double CEpreviousNum = 0.0;
             double CEnextNum = 0.0;
             double CEoutput = 0;
             for (int counter = 0; counter < inputString.Length; counter++)
-			{
+            {
                 string buffer = "";
                 int checkForDigit = inputString[counter] - '0';
                 while (counter < inputString.Length &&
@@ -127,11 +126,11 @@
         static void Main()
         {
             Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
-                                                                                                        
+
             //input
             string inputAsString = Console.ReadLine();
             string inputLessBrackets = "";
-            
+
             //calculations
             for (int counter = 0; counter < inputAsString.Length; counter++)
             {
@@ -156,7 +155,7 @@
             double finalOutput = double.Parse(CalculateExpression(inputLessBrackets));
 
             //ouptut
-            Console.WriteLine("{0:F2}",finalOutput);
+            Console.WriteLine("{0:F2}", finalOutput);
         }
     }
 }

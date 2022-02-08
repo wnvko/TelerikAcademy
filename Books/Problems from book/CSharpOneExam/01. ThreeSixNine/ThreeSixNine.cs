@@ -5,7 +5,7 @@
     class ThreeSixNine
     {
         static void Main()
-        {   
+        {
             //input
             long A = long.Parse(Console.ReadLine());
             long B = long.Parse(Console.ReadLine());
@@ -42,7 +42,7 @@
             {
                 reminder = R % 3;
             }
-           
+
 
             //ouput
             Console.WriteLine(reminder);
