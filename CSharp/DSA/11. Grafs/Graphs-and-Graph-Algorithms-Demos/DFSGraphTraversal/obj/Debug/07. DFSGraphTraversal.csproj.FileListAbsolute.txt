@@ -1,6 +1,0 @@
-D:\Training\TelerikAcademy\CSharp\DSA\11. Grafs\Graphs-and-Graph-Algorithms-Demos\DFSGraphTraversal\bin\Debug\DFSGraphTraversal.exe.config
-D:\Training\TelerikAcademy\CSharp\DSA\11. Grafs\Graphs-and-Graph-Algorithms-Demos\DFSGraphTraversal\obj\Debug\07. DFSGraphTraversal.csprojResolveAssemblyReference.cache
-D:\Training\TelerikAcademy\CSharp\DSA\11. Grafs\Graphs-and-Graph-Algorithms-Demos\DFSGraphTraversal\bin\Debug\DFSGraphTraversal.exe
-D:\Training\TelerikAcademy\CSharp\DSA\11. Grafs\Graphs-and-Graph-Algorithms-Demos\DFSGraphTraversal\bin\Debug\DFSGraphTraversal.pdb
-D:\Training\TelerikAcademy\CSharp\DSA\11. Grafs\Graphs-and-Graph-Algorithms-Demos\DFSGraphTraversal\obj\Debug\DFSGraphTraversal.exe
-D:\Training\TelerikAcademy\CSharp\DSA\11. Grafs\Graphs-and-Graph-Algorithms-Demos\DFSGraphTraversal\obj\Debug\DFSGraphTraversal.pdb

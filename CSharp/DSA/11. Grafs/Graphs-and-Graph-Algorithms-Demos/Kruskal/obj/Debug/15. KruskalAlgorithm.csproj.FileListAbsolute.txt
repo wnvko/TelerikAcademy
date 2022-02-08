@@ -1,7 +1,0 @@
-D:\Training\TelerikAcademy\CSharp\DSA\11. Grafs\Graphs-and-Graph-Algorithms-Demos\Kruskal\bin\Debug\Kruskal.exe.config
-D:\Training\TelerikAcademy\CSharp\DSA\11. Grafs\Graphs-and-Graph-Algorithms-Demos\Kruskal\bin\Debug\Kruskal.exe
-D:\Training\TelerikAcademy\CSharp\DSA\11. Grafs\Graphs-and-Graph-Algorithms-Demos\Kruskal\bin\Debug\Kruskal.pdb
-D:\Training\TelerikAcademy\CSharp\DSA\11. Grafs\Graphs-and-Graph-Algorithms-Demos\Kruskal\obj\Debug\15. KruskalAlgorithm.csproj.CoreCompileInputs.cache
-D:\Training\TelerikAcademy\CSharp\DSA\11. Grafs\Graphs-and-Graph-Algorithms-Demos\Kruskal\obj\Debug\Kruskal.exe
-D:\Training\TelerikAcademy\CSharp\DSA\11. Grafs\Graphs-and-Graph-Algorithms-Demos\Kruskal\obj\Debug\Kruskal.pdb
-D:\Training\TelerikAcademy\CSharp\DSA\11. Grafs\Graphs-and-Graph-Algorithms-Demos\Kruskal\obj\Debug\15. KruskalAlgorithm.csproj.AssemblyReference.cache
