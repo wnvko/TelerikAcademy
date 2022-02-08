@@ -7,7 +7,7 @@
     {
         public static void Main()
         {
-            var graph = new Graph<int>(
+            var graph = new Graph(
                 new[]
                     {
                         new List<int> { 3, 6 }, // successors of vertice 0

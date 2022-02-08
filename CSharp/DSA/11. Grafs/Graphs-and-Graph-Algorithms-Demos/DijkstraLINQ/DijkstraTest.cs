@@ -25,7 +25,7 @@
             graph.AddConnection("A", "B", 14, true);
             graph.AddConnection("A", "C", 10, true);
             graph.AddConnection("A", "D", 14, true);
-            graph.AddConnection("A", "E", 20, true);
+            graph.AddConnection("A", "E", 21, true);
             graph.AddConnection("B", "C", 9, true);
             graph.AddConnection("B", "E", 10, true);
             graph.AddConnection("B", "F", 14, true);
@@ -33,7 +33,7 @@
             graph.AddConnection("D", "G", 10, false);
             graph.AddConnection("E", "H", 11, true);
             graph.AddConnection("F", "C", 10, false);
-            graph.AddConnection("F", "H", 11, true);
+            graph.AddConnection("F", "H", 10, true);
             graph.AddConnection("F", "I", 9, true);
             graph.AddConnection("G", "F", 8, false);
             graph.AddConnection("G", "I", 9, true);

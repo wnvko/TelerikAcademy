@@ -2,11 +2,9 @@ namespace Kruskal
 {
     using System;
     using System.Collections.Generic;
-    using System.Diagnostics;
 
     public class Program
     {
-        private static Random r = new Random();
         public static void Main()
         {
             const int NumberOfNodes = 6;
@@ -24,30 +22,7 @@ namespace Kruskal
 
             PrintMinimumSpanningTree(mpd);
         }
-
-        private static void InitializeGraph(List<Edge> edges)
-        {
-            GenerateEdges(5, edges);
-            //edges.Add(new Edge(1, 6, 1));
-            //edges.Add(new Edge(2, 3, 2));
-            //edges.Add(new Edge(5, 6, 3));
-            //edges.Add(new Edge(3, 4, 4));
-            //edges.Add(new Edge(1, 5, 5));
-            //edges.Add(new Edge(2, 4, 5));
-            //edges.Add(new Edge(4, 5, 6));
-        }
-
-        private static void GenerateEdges(int count, List<Edge> edges)
-        {
-            if (count == 0) return;
-
-            for (int i = 0; i < count; i++)
-            {
-                edges.Add(new Edge(count, i, r.Next(1, 9)));
-            }
-            GenerateEdges(count - 1, edges);
-        }
-
+  
         private static int FindMinimumSpanningTree(List<Edge> edges, int[] tree, List<Edge> mpd, int treesCount)
         {
             foreach (var edge in edges)
@@ -91,13 +66,25 @@ namespace Kruskal
             }
             return treesCount;
         }
-
+  
         private static void PrintMinimumSpanningTree(IEnumerable<Edge> usedEdges)
         {
             foreach (var edge in usedEdges)
             {
                 Console.WriteLine(edge);
             }
+        }
+
+        private static void InitializeGraph(List<Edge> edges)
+        {
+            edges.Add(new Edge(1, 3, 5));
+            edges.Add(new Edge(1, 2, 4));
+            edges.Add(new Edge(1, 4, 9));
+            edges.Add(new Edge(2, 4, 2));
+            edges.Add(new Edge(3, 4, 20));
+            //// edges.Add(new Edge(3, 5, 7));
+            //// edges.Add(new Edge(4, 5, 8));
+            edges.Add(new Edge(5, 6, 12));
         }
     }
 }

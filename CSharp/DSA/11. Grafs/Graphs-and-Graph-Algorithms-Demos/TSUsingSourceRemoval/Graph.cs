@@ -5,7 +5,7 @@
 
     public class Graph
     {
-        private readonly char[,] edges;
+        private readonly int[,] edges;
 
         private readonly int count;
 
@@ -13,7 +13,7 @@
 
         public List<int> SortedElements = new List<int>();
 
-        public Graph(char[,] e)
+        public Graph(int[,] e)
         {
             this.edges = e;
             this.count = e.GetLength(0);
@@ -26,7 +26,7 @@
 
             for (int k = 0; k < this.count; k++)
             {
-                if ((this.edges[startIndex, k] == 'Y') && (this.VisitedElements[k] == false))
+                if ((this.edges[startIndex, k] == 1) && (this.VisitedElements[k] == false))
                 {
                     this.Dfs(k);
                 }

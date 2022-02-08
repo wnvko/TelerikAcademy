@@ -3,22 +3,22 @@
     using System.Collections.Generic;
     using System.Text;
 
-    public class Graph<T>
+    public class Graph
     {
         public Graph()
         {
-            this.Nodes = new Dictionary<T, Node<T>>();
+            this.Nodes = new Dictionary<string, Node>();
         }
 
-        internal IDictionary<T, Node<T>> Nodes { get; private set; }
+        internal IDictionary<string, Node> Nodes { get; private set; }
 
-        public void AddNode(T name)
+        public void AddNode(string name)
         {
-            var node = new Node<T>(name);
+            var node = new Node(name);
             this.Nodes.Add(name, node);
         }
 
-        public void AddConnection(T fromNode, T toNode, int distance, bool twoWay)
+        public void AddConnection(string fromNode, string toNode, int distance, bool twoWay)
         {
             this.Nodes[fromNode].AddConnection(this.Nodes[toNode], distance, twoWay);
         }

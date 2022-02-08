@@ -17,7 +17,7 @@
         {
             if (!(obj is Node))
             {
-                return -'Y';
+                return -1;
             }
 
             return this.DijkstraDistance.CompareTo((obj as Node).DijkstraDistance);
