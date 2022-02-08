@@ -36,8 +36,8 @@ module.exports.init = function () {
 
         Message
             .find()
-            .where('from').equals(sender._id)
-            .where('to').equals(receiver._id)
+            .where('from').equals(sender)
+            .where('to').equals(receiver)
             .exec(cb);
     }
     

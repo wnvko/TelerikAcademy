@@ -1,10 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
 
 public class AllExeInWindows
 {
-    public const string WindowsPath = @"D:\TelerikAcademy";
+    public const string WindowsPath = @"C:\";
     public const string FilePatern = @"*.cs";
     public static int filesCount = 0;
 

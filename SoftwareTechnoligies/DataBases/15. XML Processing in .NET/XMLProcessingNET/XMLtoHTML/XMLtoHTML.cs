@@ -4,7 +4,7 @@ public class XSLTransform
 {
     private static string xmlFilePath = @"../../../temp";
     private static string xmlFileName = @"/01.collection.xml";
-    private static string xsltFileName = @"../../album.xslt";
+    private static string xsltFileName = @"../../album.xsl";
     private static string htmlFileName = @"/14.collection.html";
 
 
