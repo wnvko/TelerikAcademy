@@ -1,24 +1,24 @@
-﻿namespace MyRedisDictionary
-{
-    using System;
-    using System.Windows.Forms;
+﻿using System;
+using System.Windows.Forms;
 
+namespace MyRedisDictionary
+{
     public partial class FindWord : Form
     {
         private const string NoResult = "The word {0} does not exist in the dictionary";
 
         public FindWord()
         {
-            this.InitializeComponent();
+            InitializeComponent();
         }
 
-        private void BtnFindWord_Click(object sender, EventArgs e)
+        private void brnFindWord_Click(object sender, EventArgs e)
         {
-            ClientForRedis redisClient = ClientForRedis.Instance();
+            ClientForRedis my = ClientForRedis.Instance();
             string word = this.tbWordToFind.Text;
-            string result = redisClient.FindWord(word);
+            string result = my.FindWord(word);
 
-            if (!string.IsNullOrEmpty(result))
+            if (result != null && result != string.Empty)
             {
                 this.tbResult.Text = result;
             }

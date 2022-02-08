@@ -1,0 +1,34 @@
+﻿@using Switter.Web.Models.UsersModels
+@model SwittUserPublicModel
+
+@{
+    ViewBag.Title = Model.UserName;
+}
+
+<div class="jumbotron">
+    <h1>@Model.UserName</h1>
+</div>
+
+<div class="row">
+    @foreach (var switt in Model.Switts)
+    {
+        <div class="col-md-8">
+            <p>
+                @Html.ActionLink("This Switt was created on " + switt.CreatedOn, "Index/" + switt.Id, "Switts")
+            </p>
+            <div class="row">
+                @foreach (var tag in switt.Tags)
+                {
+                    <div class="col-md-2">
+                        <em>@tag</em>
+                    </div>
+                }
+            </div>
+        </div>
+    }
+    <div class="row">
+        <div class="col-md-8">
+            @Html.ActionLink("Return", "Index", "Home", null, new { @class = " btn btn-lg" })
+        </div>
+    </div>
+</div>

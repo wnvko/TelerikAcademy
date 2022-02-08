@@ -1,8 +1,8 @@
-﻿namespace MyMongoDictionary
-{
-    using MongoDB.Bson;
-    using MongoDB.Bson.Serialization.Attributes;
+﻿using MongoDB.Bson;
+using MongoDB.Bson.Serialization.Attributes;
 
+namespace MyMongoDictionary
+{
     public class Word
     {
         [BsonId]

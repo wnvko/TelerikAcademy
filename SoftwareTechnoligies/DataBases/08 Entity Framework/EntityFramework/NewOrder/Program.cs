@@ -1,12 +1,11 @@
-﻿namespace NewOrder
+﻿using System;
+using NorthWind;
+
+namespace NewOrder
 {
-    using System;
-
-    using NorthWind;
-
-    public class Program
+    class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             NorthwindEntities db = new NorthwindEntities();
             Order myOrder = new Order();

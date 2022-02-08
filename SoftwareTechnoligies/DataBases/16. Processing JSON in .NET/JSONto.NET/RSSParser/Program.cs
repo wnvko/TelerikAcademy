@@ -69,8 +69,8 @@ namespace RSSParser
         private static TARSS GetPOCO(string jsonRSS)
         {
             var jsonRSSobject = JObject.Parse(jsonRSS);
-            var channelJson = jsonRSSobject["rss"]["channel"].ToString();
-            TARSS tarss = JsonConvert.DeserializeObject<TARSS>(channelJson);
+            var channeJason = jsonRSSobject["rss"]["channel"].ToString();
+            TARSS tarss = JsonConvert.DeserializeObject<TARSS>(channeJason);
             return tarss;
         }
 
@@ -91,7 +91,6 @@ namespace RSSParser
             HTMLasSB.AppendLine(@"<body>");
             HTMLasSB.AppendLine(string.Format("<h1><a href = \"{1}\">{0}</a></h1>", tarss.Title, tarss.Link));
             HTMLasSB.AppendLine(@"<ul>");
-
             foreach (var item in tarss.Item)
             {
                 HTMLasSB.AppendLine(@"<li>");
@@ -100,8 +99,10 @@ namespace RSSParser
                 HTMLasSB.AppendLine(@"</li>");
             }
 
+
             HTMLasSB.AppendLine(@"<ul>");
             HTMLasSB.AppendLine(@"</body>");
+
         }
 
         private static void CreateHTMLFile(StringBuilder HTMLasSB)

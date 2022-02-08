@@ -13,8 +13,8 @@ public class ArtistsWithDOM
         var artistsCount = xmlDoc.Descendants("artist")
                            .GroupBy(a => a.Value)
                            .Select(a => new { Name = a.Key, Count = a.Count() });
-
-
+                           
+                            
 
         foreach (var artist in artistsCount)
         {

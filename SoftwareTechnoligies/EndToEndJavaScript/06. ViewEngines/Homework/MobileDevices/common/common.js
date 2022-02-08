@@ -39,3 +39,4 @@ module.exports = {
     tabletsModel : tabletsModel,
     wearablesModel: wearablesModel
 }
+

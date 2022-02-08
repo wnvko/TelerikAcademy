@@ -1,0 +1,27 @@
+﻿@model MoviesApp.Models.Actors.ActorViewModel
+
+<div class="jumbotron">
+    <h1>Add an Actor Here</h1>
+</div>
+@using (Html.BeginForm(new { @class = "form-control" }))
+{
+    @Html.Label("Name", "Name", new { @class = "label label-info" })
+    @Html.TextBox("Name", Model.Name, new { @class = "form-control" })
+    @Html.ValidationMessageFor(a => a.Name)
+
+    @Html.Label("Age", "Age", new { @class = "label label-info" })
+    @Html.TextBox("Age", Model.Age, new { @class = "form-control" })
+    @Html.ValidationMessageFor(a => a.Age)
+
+    @Html.Label("Studio", "Studio", new { @class = "label label-info" })
+    @Html.TextBox("Studio", Model.Studio, new { @class = "form-control" })
+    @Html.ValidationMessageFor(a => a.Studio)
+
+    @Html.Label("Address", "Address", new { @class = "label label-info" })
+    @Html.TextBox("Address", Model.Address, new { @class = "form-control" })
+    @Html.ValidationMessageFor(a => a.Address)
+
+    <br />
+    <input type="submit" class="btn btn-info" value="Add Actor" />
+}
+

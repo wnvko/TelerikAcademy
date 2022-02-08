@@ -1,20 +1,20 @@
-﻿namespace ReadExcelFile
-{
-    using System;
-    using System.Data.OleDb;
-    using System.IO;
-    using System.Windows.Forms;
+﻿using System;
+using System.Data.OleDb;
+using System.IO;
+using System.Windows.Forms;
 
-    public class Program
+namespace ReadExcelFile
+{
+    class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             string filePath = Path.GetDirectoryName(Application.ExecutablePath);
             filePath = filePath.Substring(0, filePath.IndexOf("bin"));
             string fileName = "myWorksheet.xlsx";
 
             string csProvider = @"Provider=Microsoft.ACE.OLEDB.12.0; ";
-            string csDataSource = string.Format("Data Source = {0}; ", filePath + fileName);
+            string csDataSource = string.Format("Data Source = {0}; ", (filePath + fileName));
             string csExtendedProperties = @"Extended Properties = ""Excel 12.0 Xml; HDR = YES"";";
             string connectionString = csProvider + csDataSource + csExtendedProperties;
 

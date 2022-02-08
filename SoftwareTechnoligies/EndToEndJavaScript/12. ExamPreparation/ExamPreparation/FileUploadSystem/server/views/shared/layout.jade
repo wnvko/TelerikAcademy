@@ -1,0 +1,34 @@
+﻿doctype
+html
+    head
+        title File Upload System
+        link(rel="stylesheet" href="lib/bootstrap-3.3.6/css/bootstrap.min.css")
+        link(rel="stylesheet" href="css/site.css")
+    body
+        header.nav.navbar-inverse.navbar-fixed-top
+        .container
+            .navbar-header
+                a.navbar-brand(href="/") File Upload
+            .navbar-collapse.collapse
+                ul.nav.navbar-nav
+                    li
+                        a(href="/") Home
+                    if (currentUser)
+                        li
+                            a(href="/profile") Profile #{currentUser.username}
+                        li
+                            a(href="/logout") Logout
+                    else
+                        li
+                            a(href="/register") Register
+                        li
+                            a(href="/login") Login
+        .container
+            if  (errorMessage)
+                .alert.alert-danger #{errorMessage}
+            block main-content
+
+        footer
+            p.text-center
+                |&copy; Made For Exam Preparation 2015/16
+        include scripts

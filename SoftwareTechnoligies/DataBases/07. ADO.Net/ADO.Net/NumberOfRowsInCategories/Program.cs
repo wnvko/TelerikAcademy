@@ -1,11 +1,11 @@
-﻿namespace NumberOfRowsInCategories
-{
-    using System;
-    using System.Data.SqlClient;
+﻿using System;
+using System.Data.SqlClient;
 
-    public class Program
+namespace NumberOfRowsInCategories
+{
+    class Program
     {
-        public static void Main()
+        static void Main()
         {
             SqlConnection dbCon = new SqlConnection("Server=.; Database=Northwind; Integrated Security=true");
             dbCon.Open();

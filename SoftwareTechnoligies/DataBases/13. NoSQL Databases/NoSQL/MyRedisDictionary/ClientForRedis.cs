@@ -1,22 +1,23 @@
-﻿namespace MyRedisDictionary
+﻿using ServiceStack.Redis;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MyRedisDictionary
 {
-    using System;
-    using System.Collections.Generic;
-
-    using ServiceStack.Redis;
-
     public sealed class ClientForRedis
     {
         private const string LogIn = "127.0.0.1:6379";
+        private string myDictionary = "MyDictionary";
+        private RedisClient myRedisClient;
 
         private static ClientForRedis instance;
-        
-        private string dictionary = "MyDictionary";
-        private RedisClient redisClient;
 
         private ClientForRedis()
         {
-            this.redisClient = new RedisClient(LogIn);
+            this.myRedisClient = new RedisClient(LogIn);
         }
 
         public static ClientForRedis Instance()
@@ -31,21 +32,19 @@
 
         public void AddWord(string word, string meaning)
         {
-            this.redisClient.HSet(
-                this.dictionary, 
-                this.ConvertStringToBytes(word),
-                this.ConvertStringToBytes(meaning));
+            this.myRedisClient.HSet(myDictionary, GetBytes(word), GetBytes(meaning));
         }
 
         public string FindWord(string word)
         {
             string result = string.Empty;
 
-            byte[] resultByte = this.redisClient.HGet(this.dictionary, this.ConvertStringToBytes(word));
+            byte[] resultByte = this.myRedisClient.HGet(myDictionary, GetBytes(word));
             if (resultByte != null)
             {
-                result = this.ConvertBytesToString(resultByte);
+                result = GetString(resultByte);
             }
+
 
             return result;
         }
@@ -54,12 +53,12 @@
         {
             SortedDictionary<string, string> allWords = new SortedDictionary<string, string>();
 
-            byte[][] allWordsBytes = this.redisClient.HGetAll(this.dictionary);
+            byte[][] allWordsBytes = this.myRedisClient.HGetAll(myDictionary);
 
             for (int i = 0; i < allWordsBytes.Length; i++)
             {
-                string word = this.ConvertBytesToString(allWordsBytes[i]);
-                string meaning = this.ConvertBytesToString(allWordsBytes[++i]);
+                string word = GetString(allWordsBytes[i]);
+                string meaning = GetString(allWordsBytes[++i]);
 
                 allWords[word] = meaning;
             }
@@ -67,18 +66,18 @@
             return allWords;
         }
 
-        // Thanks Stack overflow for next two methods 
-        private byte[] ConvertStringToBytes(string text)
+        // Thanks Stackoverflow for next two methods 
+        private byte[] GetBytes(string str)
         {
-            byte[] bytes = new byte[text.Length * sizeof(char)];
-            Buffer.BlockCopy(text.ToCharArray(), 0, bytes, 0, bytes.Length);
+            byte[] bytes = new byte[str.Length * sizeof(char)];
+            System.Buffer.BlockCopy(str.ToCharArray(), 0, bytes, 0, bytes.Length);
             return bytes;
         }
 
-        private string ConvertBytesToString(byte[] bytes)
+        private string GetString(byte[] bytes)
         {
             char[] chars = new char[bytes.Length / sizeof(char)];
-            Buffer.BlockCopy(bytes, 0, chars, 0, bytes.Length);
+            System.Buffer.BlockCopy(bytes, 0, chars, 0, bytes.Length);
             return new string(chars);
         }
     }
