@@ -6,8 +6,7 @@
     {
         public static void Main()
         {
-            Matrix<double> matrixA = new Matrix<double>(2, 3);
-            Console.WriteLine(matrixA.MinValue);
+            Matrix<int> matrixA = new Matrix<int>(2, 3);
             matrixA[0, 0] = 1;
             matrixA[0, 1] = 2;
             matrixA[0, 2] = 5;
@@ -43,14 +42,12 @@
             matrixC[2, 1] = -2;
             Console.WriteLine(matrixC);
 
-            //Matrix<int> sumMatrix = matrixA + matrixB;
-            //Matrix<int> differenceMatrix = matrixA - matrixB;
-            //Matrix<int> productMatrix = matrixA * matrixC;
-            //Console.WriteLine(sumMatrix);
-            //Console.WriteLine(differenceMatrix);
-            //Console.WriteLine(productMatrix);
-
-            Console.WriteLine(matrixA.MinValue);
+            Matrix<int> sumMatrix = matrixA + matrixB;
+            Matrix<int> differenceMatrix = matrixA - matrixB;
+            Matrix<int> productMatrix = matrixA * matrixC;
+            Console.WriteLine(sumMatrix);
+            Console.WriteLine(differenceMatrix);
+            Console.WriteLine(productMatrix);
         }
     }
 }

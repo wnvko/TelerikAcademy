@@ -26,7 +26,7 @@
 
             set
             {
-                if (this.classID == null)
+                if (this.classID != null)
                 {
                     if (string.IsNullOrEmpty(value))
                     {
