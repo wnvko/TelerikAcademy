@@ -5,6 +5,8 @@
         $scope.identity = identity;
 
         $scope.login = function (user, loginForm) {
+            console.log(user);
+            console.log(loginForm);
             if (loginForm.$valid) {
                 auth.login(user).then(function (success) {
                     if (success) {
@@ -36,5 +38,5 @@
     }
 
     angular.module('myApp.controllers')
-        .controller('LoginCtrl', ['$scope', '$location', 'notifier', 'identity', 'auth', LoginController]);
+        .controller('LoginController', ['$scope', '$location', 'notifier', 'identity', 'auth', LoginController]);
 }());
