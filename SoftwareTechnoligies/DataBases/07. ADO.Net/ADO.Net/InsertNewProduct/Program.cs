@@ -1,15 +1,15 @@
-﻿namespace InsertNewProduct
-{
-    using System;
-    using System.Data.SqlClient;
+﻿using System;
+using System.Data.SqlClient;
 
-    public class Program
+namespace InsertNewProduct
+{
+    class Program
     {
-        public static void Main()
+        static void Main()
         {
             string productName = "Vafla Mypa";
             int? supplierID = 10;
-            int? categoryID = 3;
+            int? CategoryID = 3;
             string quantityPerUnit = "36 per box";
             decimal? unitPrice = 16.2m;
             int? unitsInStock = null;
@@ -17,14 +17,14 @@
             int? reorderLevel = 28;
             bool discontinued = false;
 
+
+
             SqlConnection dbCon = new SqlConnection("Server=.; Database=Northwind; Integrated Security=true");
             dbCon.Open();
             using (dbCon)
             {
-                SqlCommand cmdInsertProduct = new SqlCommand(
-                              @"INSERT INTO Products(ProductName, SupplierID, CategoryID, QuantityPerUnit, UnitPrice, UnitsInStock, UnitsOnOrder, ReorderLevel, Discontinued) " +
-                               "VALUES(@ProductName, @SupplierID, @CategoryID, @QuantityPerUnit, @UnitPrice, @UnitsInStock, @UnitsOnOrder, @ReorderLevel, @Discontinued) ",
-                               dbCon);
+                SqlCommand cmdInsertProduct = new SqlCommand("INSERT INTO Products(ProductName, SupplierID, CategoryID, QuantityPerUnit, UnitPrice, UnitsInStock, UnitsOnOrder, ReorderLevel, Discontinued) " +
+                                                             "VALUES(@ProductName, @SupplierID, @CategoryID, @QuantityPerUnit, @UnitPrice, @UnitsInStock, @UnitsOnOrder, @ReorderLevel, @Discontinued) ", dbCon);
 
                 cmdInsertProduct.Parameters.AddWithValue("@ProductName", productName);
                 SqlParameter paramSupplierID = new SqlParameter("@SupplierID", supplierID);
@@ -32,15 +32,13 @@
                 {
                     paramSupplierID.Value = DBNull.Value;
                 }
-
                 cmdInsertProduct.Parameters.Add(paramSupplierID);
 
-                SqlParameter paramCategoryID = new SqlParameter("@CategoryID", categoryID);
-                if (categoryID == null)
+                SqlParameter paramCategoryID = new SqlParameter("@CategoryID", CategoryID);
+                if (CategoryID == null)
                 {
                     paramCategoryID.Value = DBNull.Value;
                 }
-
                 cmdInsertProduct.Parameters.Add(paramCategoryID);
 
                 cmdInsertProduct.Parameters.AddWithValue("@QuantityPerUnit", quantityPerUnit);
@@ -49,7 +47,6 @@
                 {
                     paramUnitPrice.Value = DBNull.Value;
                 }
-
                 cmdInsertProduct.Parameters.Add(paramUnitPrice);
 
                 SqlParameter paramUnitsInStock = new SqlParameter("@UnitsInStock", unitsInStock);
@@ -57,7 +54,6 @@
                 {
                     paramUnitsInStock.Value = DBNull.Value;
                 }
-
                 cmdInsertProduct.Parameters.Add(paramUnitsInStock);
 
                 SqlParameter paramUnitsOnOrder = new SqlParameter("@UnitsOnOrder", unitsOnOrder);
@@ -65,7 +61,6 @@
                 {
                     paramUnitsOnOrder.Value = DBNull.Value;
                 }
-
                 cmdInsertProduct.Parameters.Add(paramUnitsOnOrder);
 
                 SqlParameter paramReorderLevel = new SqlParameter("@ReorderLevel", reorderLevel);
@@ -73,7 +68,6 @@
                 {
                     paramReorderLevel.Value = DBNull.Value;
                 }
-
                 cmdInsertProduct.Parameters.Add(paramReorderLevel);
 
                 SqlParameter paramDiscontinued = new SqlParameter("@Discontinued", discontinued);
@@ -85,7 +79,6 @@
                 {
                     paramDiscontinued.Value = 1;
                 }
-
                 cmdInsertProduct.Parameters.Add(paramDiscontinued);
 
                 cmdInsertProduct.ExecuteNonQuery();

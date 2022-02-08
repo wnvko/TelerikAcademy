@@ -9,7 +9,7 @@
             //input
             Console.WriteLine("Enter the numbers in array: ");
             int arrayCount = int.Parse(Console.ReadLine());
-            int[] arrayNumbers = new int [arrayCount];
+            int[] arrayNumbers = new int[arrayCount];
 
             for (int index = 0; index < arrayCount; index++)
             {
@@ -23,9 +23,9 @@
             int startNumber = 0;
             int bestNumber = 0;
 
-            for (int index = 0; index < arrayCount-1; index++)
-			{
-                if (arrayNumbers[index] == arrayNumbers[index+1])
+            for (int index = 0; index < arrayCount - 1; index++)
+            {
+                if (arrayNumbers[index] == arrayNumbers[index + 1])
                 {
                     startNumber = arrayNumbers[index];
                     numberOfIterations++;
@@ -37,7 +37,7 @@
                     bestNumber = startNumber;
                     numberOfIterations = 1;
                 }
-			}
+            }
 
             //output
             Console.WriteLine("There are {0} {1}s one after another!", bestIteration, bestNumber);

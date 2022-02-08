@@ -1,16 +1,23 @@
-﻿namespace TotalIncomeBySupplier
-{
-    using System.Data.SqlClient;
+﻿using NorthWind;
+using System;
+using System.Collections.Generic;
+using System.Configuration;
+using System.Data.SqlClient;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-    public class Program
+namespace TotalIncomeBySupplier
+{
+    class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             string sql = "IF (OBJECT_ID('usp_TotalSalesBySupplierInPeriod') IS NOT NULL) " +
                          "BEGIN " +
                          "DROP PROCEDURE usp_TotalSalesBySupplierInPeriod " +
                          "END " +
-                         "GO " +
+                         //"GO " +
                          "CREATE procedure usp_TotalSalesBySupplierInPeriod " +
                          "@CompanyName nvarchar(40), @Beginning_Date DateTime, @Ending_Date DateTime AS " +
                          "SELECT s.CompanyName AS Supplier, SUM(od.Quantity*od.UnitPrice*od.Discount) AS [Total income] " +
@@ -22,12 +29,12 @@
                          "JOIN Suppliers AS s " +
                          "ON p.SupplierID = s.SupplierID " +
                          "WHERE o.OrderDate BETWEEN @Beginning_Date AND @Ending_Date AND s.CompanyName = @CompanyName " +
-                         "GROUP BY s.CompanyName " + 
-                         "GO";
+                         "GROUP BY s.CompanyName ";// + 
+                         //"GO";
 
             SqlConnection dbCon = new SqlConnection("Server=.; Database=Northwind; Integrated Security=true");
             dbCon.Open();
-            using (dbCon)
+            using(dbCon)
             {
                 SqlCommand command = new SqlCommand();
                 command.Connection = dbCon;

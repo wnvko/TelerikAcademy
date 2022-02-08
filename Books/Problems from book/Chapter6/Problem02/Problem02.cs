@@ -3,7 +3,7 @@
     using System;
 
     class Problem02
-    {   
+    {
         static void Main()
         {
             Console.Write("Enter the numbers of elements in first array: ");
@@ -22,7 +22,7 @@
 
             for (int i = 0; i < firstArray.Length; i++)
             {
-                Console.Write("First array {0}: ", (i+1));
+                Console.Write("First array {0}: ", (i + 1));
                 firstArray[i] = int.Parse(Console.ReadLine());
                 Console.Write("Second array {0}: ", (i + 1));
                 secondArray[i] = int.Parse(Console.ReadLine());

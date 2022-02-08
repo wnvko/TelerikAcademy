@@ -1,8 +1,6 @@
 ﻿namespace StudentSystem.Client
 {
-    using System;
     using System.Data.Entity;
-
     using StudentsSystem.Data;
     using StudentsSystem.Data.Migrations;
     using StudentsSystem.Models;
@@ -27,11 +25,6 @@
             php.Materials = "No materials";
             php.Student.Add(pesho);
             db.Courses.Add(php);
-
-            foreach (var student in db.Students)
-            {
-                Console.WriteLine(student.Name);
-            }
 
             db.SaveChanges();
         }

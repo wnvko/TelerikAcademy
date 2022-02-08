@@ -1,28 +1,28 @@
-﻿namespace MyRedisDictionary
-{
-    using System;
-    using System.Windows.Forms;
+﻿using System;
+using System.Windows.Forms;
 
+namespace MyRedisDictionary
+{
     public partial class Dictionary : Form
     {
         public Dictionary()
         {
-            this.InitializeComponent();
+            InitializeComponent();
         }
 
-        private void BtnAddWord_Click(object sender, EventArgs e)
+        private void btnAddWord_Click(object sender, EventArgs e)
         {
             AddWord form = new AddWord();
             form.ShowDialog(this);
         }
 
-        private void BtnFindWord_Click(object sender, EventArgs e)
+        private void btnFindWord_Click(object sender, EventArgs e)
         {
             FindWord form = new FindWord();
             form.ShowDialog(this);
         }
 
-        private void BtnListAllWords_Click(object sender, EventArgs e)
+        private void btnListAllWords_Click(object sender, EventArgs e)
         {
             ListAllWords form = new ListAllWords();
             form.ShowDialog(this);

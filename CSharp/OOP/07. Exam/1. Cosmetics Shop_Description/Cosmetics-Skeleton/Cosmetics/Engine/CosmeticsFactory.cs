@@ -10,26 +10,22 @@
     {
         public ICategory CreateCategory(string name)
         {
-            ICategory category = new Category(name);
-            return category;
+            // TODO: create category
         }
 
         public IShampoo CreateShampoo(string name, string brand, decimal price, GenderType gender, uint milliliters, UsageType usage)
         {
-            IShampoo shampoo = new Shampoo(name, brand, price, gender, milliliters, usage);
-            return shampoo;
+            // TODO: create shampoo
         }
 
         public IToothpaste CreateToothpaste(string name, string brand, decimal price, GenderType gender, IList<string> ingredients)
         {
-            IToothpaste toothpaste = new Toothpaste(name, brand, price, gender, ingredients);
-            return toothpaste;
+            // TODO: create toothpaste
         }
 
         public IShoppingCart ShoppingCart()
         {
-            IShoppingCart shoppingCart = new ShoppingCart();
-            return shoppingCart;
+            // TODO: create shopping cart
         }
     }
 }

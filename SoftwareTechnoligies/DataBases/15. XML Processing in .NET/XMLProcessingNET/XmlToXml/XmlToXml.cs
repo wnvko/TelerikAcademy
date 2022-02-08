@@ -5,6 +5,7 @@ using System.Xml;
 
 public class TxtToXml
 {
+    private static int NumberOfPersons = 200;
     private static string xmlFilePath = @"../../../temp";
     private static string xmlInputFileName = @"/01.collection.xml";
     private static string xmlOutputFileName = @"/08.albums.xml";

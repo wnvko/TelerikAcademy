@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 
 public class PriorityQueueTest
 {
@@ -9,31 +8,18 @@ public class PriorityQueueTest
 
     public static void Main(string[] args)
     {
-        Stopwatch sw = new Stopwatch();
         PriorityQueue<int, string> myPriorityQueue = new PriorityQueue<int, string>();
         PriorityQueue<int, string> otherPriorityQueue = new PriorityQueue<int, string>();
-        
-        sw.Start();
+
         FillQueue(myPriorityQueue);
-        sw.Stop();
-        
-        Console.WriteLine(sw.Elapsed);
-        PrintQueue(myPriorityQueue);
-
-        sw.Start();
         FillQueue(otherPriorityQueue);
-        sw.Start();
-
-        Console.WriteLine(sw.Elapsed);
-        PrintQueue(otherPriorityQueue);
-
 
         var merged = PriorityQueue<int, string>.MergeQueues(myPriorityQueue, otherPriorityQueue);
-        sw.Stop();
-        Console.WriteLine(sw.Elapsed);
-
         PrintQueue(merged);
 
+        PrintQueue(myPriorityQueue);
+
+        PrintQueue(otherPriorityQueue);
 
     }
 

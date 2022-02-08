@@ -6,7 +6,7 @@
     {
         public static void Main()
         {
-            var graph = new Graph<string>();
+            var graph = new Graph();
 
             // Nodes
             graph.AddNode("A");

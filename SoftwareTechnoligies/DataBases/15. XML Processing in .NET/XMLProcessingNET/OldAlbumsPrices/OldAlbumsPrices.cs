@@ -14,6 +14,7 @@ public class OldAlbumsPrices
         string xPathQuery = @"/catalogue/album[year<{0}]/price";
         XmlNodeList prices = xmlDoc.SelectNodes(string.Format(xPathQuery, DateTime.Now.AddYears(-5).Year));
 
+        Dictionary<string, int> artistsCount = new Dictionary<string, int>();
         foreach (XmlNode price in prices)
         {
             Console.WriteLine(price.InnerText);

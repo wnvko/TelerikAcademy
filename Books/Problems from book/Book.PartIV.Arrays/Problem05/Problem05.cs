@@ -27,7 +27,7 @@
             {
                 if (arrayNumbers[index] == arrayNumbers[index + 1] - 1)
                 {
-                    startNumber = arrayNumbers[index+1-numberOfIterations];
+                    startNumber = arrayNumbers[index + 1 - numberOfIterations];
                     numberOfIterations++;
                     continue;
                 }

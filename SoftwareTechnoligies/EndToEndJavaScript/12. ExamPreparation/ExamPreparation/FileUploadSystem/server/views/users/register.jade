@@ -1,0 +1,13 @@
+﻿extends ../shared/layout
+block main-content
+    form(method="post")
+        label(for="username") User Name
+        input.form-control(id="username" type="text" name="username" placeholder="username")
+        br
+        label(for="password") Password
+        input.form-control(id="password" type="password" name="password" placeholder="password")
+        br
+        label(for="confirm-password") Confirm Password
+        input.form-control(id="confirm-password" type="password" name="confirmPassword" placeholder="confirm password")
+        br
+        input.btn.btn-lg(type="submit" value="register")

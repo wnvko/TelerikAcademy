@@ -6,6 +6,7 @@
         {
             WordsProcesor myWords = new WordsProcesor();
             myWords.Start();
+
         }
     }
 }

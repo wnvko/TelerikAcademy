@@ -1,14 +1,14 @@
 ﻿namespace AdvancedOOP
 {
-    public class Edge<T>
+    public class Edge
     {
-        public Edge(Node<T> target, double distance)
+        public Edge(Node target, double distance)
         {
             this.Target = target;
             this.Distance = distance;
         }
 
-        public Node<T> Target { get; private set; }
+        public Node Target { get; private set; }
 
         public double Distance { get; private set; }
     }

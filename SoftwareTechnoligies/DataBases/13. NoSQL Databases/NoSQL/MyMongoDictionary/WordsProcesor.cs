@@ -1,10 +1,9 @@
-﻿namespace MyMongoDictionary
+﻿using MongoDB.Driver;
+using MongoDB.Driver.Builders;
+using System;
+
+namespace MyMongoDictionary
 {
-    using System;
-
-    using MongoDB.Driver;
-    using MongoDB.Driver.Builders;
-
     public class WordsProcesor
     {
         private const string ConnectionSring = "mongodb://localhost/";
@@ -18,10 +17,10 @@
 
         internal void Start()
         {
-            this.myMongoClient = new MongoClient(ConnectionSring);
-            this.myMongoServer = this.myMongoClient.GetServer();
-            this.myDictionary = this.myMongoServer.GetDatabase(DataBaseName);
-            this.myWords = this.myDictionary.GetCollection(CollectionName);
+            myMongoClient = new MongoClient(ConnectionSring);
+            myMongoServer = myMongoClient.GetServer();
+            myDictionary = myMongoServer.GetDatabase(DataBaseName);
+            myWords = myDictionary.GetCollection(CollectionName);
 
             bool working = true;
 
@@ -108,5 +107,6 @@
                 Console.WriteLine("The dictionary is empty! Use Add to add some words.");
             }
         }
+
     }
 }

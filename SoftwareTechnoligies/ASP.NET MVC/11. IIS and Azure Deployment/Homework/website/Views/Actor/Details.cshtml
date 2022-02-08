@@ -1,0 +1,18 @@
+﻿@using MoviesApp.Models.Actors
+@model ActorViewModel
+
+@{
+    ViewBag.Title = Model.Name;
+}
+
+<div class="jumbotron">
+    <h1>@Model.Name</h1>
+</div>
+<div class="row">
+    <p>At @Model.Age still making the best movies with @Model.Studio in @Model.Address</p>
+</div>
+<div class="row">
+    <a href="~/Actor/Update/@Model.Id" class="btn btn-default">Update</a>
+    <a href="~/Actor/Delete/@Model.Id" class="btn btn-default">Delete</a>
+    <a href="~/Movie/ViewAll" class="btn btn-default">Back to movies</a>
+</div>

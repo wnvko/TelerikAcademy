@@ -1,13 +1,13 @@
-﻿namespace MyRedisDictionary
-{
-    using System;
-    using System.Windows.Forms;
+﻿using System;
+using System.Windows.Forms;
 
+namespace MyRedisDictionary
+{
     public partial class AddWord : Form
     {
         public AddWord()
         {
-            this.InitializeComponent();
+            InitializeComponent();
         }
 
         private void btnAddWord_Click(object sender, EventArgs e)

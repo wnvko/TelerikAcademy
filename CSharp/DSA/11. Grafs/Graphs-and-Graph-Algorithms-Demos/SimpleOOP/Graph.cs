@@ -2,13 +2,13 @@
 {
     using System.Collections.Generic;
 
-    public class Graph<T>
+    public class Graph
     {
-        public Graph(List<T>[] nodes)
+        public Graph(List<int>[] nodes)
         {
             this.ChildNodes = nodes;
         }
 
-        public List<T>[] ChildNodes { get; set; }
+        public List<int>[] ChildNodes { get; set; }
     }
 }

@@ -4,14 +4,14 @@
     {
         public static void Main()
         {
-            var matrix = new char[,]
+            var matrix = new int[,]
                              {
-                                {'N','N','N','N','N','N'},
-                                {'Y','N','Y','N','N','Y'},
-                                {'Y','N','N','N','N','Y'},
-                                {'N','N','N','N','N','N'},
-                                {'Y','N','Y','N','N','N'},
-                                {'Y','N','N','Y','N','N'},
+                                 { 0, 1, 0, 0, 1, 0 },
+                                 { 0, 0, 1, 1, 0, 0 },
+                                 { 0, 0, 0, 1, 0, 0 },
+                                 { 0, 0, 0, 0, 1, 1 },
+                                 { 0, 0, 0, 0, 0, 1 },
+                                 { 0, 0, 0, 0, 0, 0 },
                              };
 
             var graph = new Graph(matrix);

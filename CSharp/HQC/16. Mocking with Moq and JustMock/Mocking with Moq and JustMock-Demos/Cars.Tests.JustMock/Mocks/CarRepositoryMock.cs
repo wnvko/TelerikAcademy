@@ -3,10 +3,8 @@
     using Cars.Contracts;
     using Cars.Models;
     using System.Collections.Generic;
-    using System.Linq;
-    using Moq;
 
-    public class CarRepositoryMock : ICarsRepositoryMock
+    public abstract class CarRepositoryMock : ICarsRepositoryMock
     {
         public CarRepositoryMock()
         {
@@ -14,9 +12,9 @@
             this.ArrangeCarsRepositoryMock();
         }
 
-        public ICarsRepository CarsData { get; private set; }
+        public ICarsRepository CarsData { get; protected set; }
 
-        public ICollection<Car> FakeCarCollection { get; private set; }
+        protected ICollection<Car> FakeCarCollection { get; private set; }
 
         private void PopulateFakeData()
         {
@@ -29,17 +27,6 @@
             };
         }
 
-        protected void ArrangeCarsRepositoryMock()
-        {
-            var mockedCarsRepository = new Mock<ICarsRepository>();
-            mockedCarsRepository.Setup(r => r.Add(It.IsAny<Car>())).Verifiable();
-            mockedCarsRepository.Setup(r => r.Remove(It.IsAny<Car>())).Verifiable();
-            mockedCarsRepository.Setup(r => r.All()).Returns(this.FakeCarCollection);
-            mockedCarsRepository.Setup(r => r.Search(It.IsAny<string>())).Returns(this.FakeCarCollection.Where(c => c.Make == "BMW").ToList());
-            mockedCarsRepository.Setup(r => r.GetById(It.IsAny<int>())).Returns(this.FakeCarCollection.First());
-            mockedCarsRepository.Setup(r => r.SortedByMake()).Returns(this.FakeCarCollection.OrderBy(x => x.Make).ToList());
-            mockedCarsRepository.Setup(r => r.SortedByYear()).Returns(this.FakeCarCollection.OrderBy(x => x.Year).ToList());
-            this.CarsData = mockedCarsRepository.Object;
-        }
+        protected abstract void ArrangeCarsRepositoryMock();
     }
 }

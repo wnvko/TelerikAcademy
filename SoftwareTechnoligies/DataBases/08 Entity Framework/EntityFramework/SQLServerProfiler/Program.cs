@@ -1,10 +1,14 @@
-﻿namespace SQLServerProfiler
-{
-    using System;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-    public class Program
+namespace SQLServerProfiler
+{
+    class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("Please check the screenshots in archive");
         }

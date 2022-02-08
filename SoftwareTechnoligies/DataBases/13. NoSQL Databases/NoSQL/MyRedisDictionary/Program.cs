@@ -1,10 +1,10 @@
-﻿namespace MyRedisDictionary
-{
-    using System;
-    using System.Diagnostics;
-    using System.IO;
-    using System.Windows.Forms;
+﻿using System;
+using System.Diagnostics;
+using System.IO;
+using System.Windows.Forms;
 
+namespace MyRedisDictionary
+{
     static class Program
     {
         /// <summary>

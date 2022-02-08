@@ -20,7 +20,7 @@
 
                 for (int i = 0; i < graph.GetLength(0); i++)
                 {
-                    if (graph[currentNode, i] == 'Y' && !visited[i])
+                    if (graph[currentNode, i] == 1 && !visited[i])
                     {
                         nodes.Enqueue(i);
                         visited[i] = true;
@@ -45,7 +45,7 @@
                             { 1, 0, 1, 0, 1, 0 }
                         };
 
-            Bfs('Y');
+            Bfs(1);
         }
     }
 }

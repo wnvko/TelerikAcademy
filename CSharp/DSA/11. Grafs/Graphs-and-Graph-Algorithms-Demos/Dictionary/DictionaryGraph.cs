@@ -3,47 +3,37 @@
     using System;
     using System.Collections.Generic;
 
-
-    public class MainClass
+    public class DictionaryGraph
     {
         public static void Main()
         {
-            var graph = new DictionaryGraph<int>();
-            graph.GetGraph();
-        }
-    }
-
-    public class DictionaryGraph<T> where T : IComparable, IConvertible
-    {
-        public void GetGraph()
-        {
-            var graph = new Dictionary<T, List<T>>();
+            var graph = new Dictionary<string, List<string>>();
 
             string line = Console.ReadLine();
             while (line != string.Empty)
             {
                 string[] connection = line.Split(' ');
 
-                T first = (T)Convert.ChangeType(connection[0], typeof(T));
-                T second = (T)Convert.ChangeType(connection[1], typeof(T));
+                string first = connection[0];
+                string second = connection[1];
 
                 if (!graph.ContainsKey(first))
                 {
-                    graph[first] = new List<T>();
+                    graph[first] = new List<string>();
                 }
 
                 graph[first].Add(second);
 
-                //// if incomment creates each node as bedirectional
-                //if (!first.Equals(second))
-                //{
-                //    if (!graph.ContainsKey(second))
-                //    {
-                //        graph[second] = new List<T>();
-                //    }
+                // Loop?
+                if (first != second)
+                {
+                    if (!graph.ContainsKey(second))
+                    {
+                        graph[second] = new List<string>();
+                    }
 
-                //    graph[second].Add(first);
-                //}
+                    graph[second].Add(first);
+                }
 
                 line = Console.ReadLine();
             }
@@ -52,7 +42,7 @@
             {
                 Console.Write(node.Key + " -> ");
 
-                foreach (T neighbors in node.Value)
+                foreach (string neighbors in node.Value)
                 {
                     Console.Write(neighbors + " ");
                 }
